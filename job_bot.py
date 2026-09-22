@@ -42,9 +42,36 @@ warnings.filterwarnings("ignore")
 
 LOCATION = "Paris, France"          # utilisé pour Indeed / LinkedIn (jobspy)
 HELLOWORK_LOCATION = "Paris"        # utilisé pour l'URL de recherche HelloWork
+DISTANCE_MILES = 15                 # rayon de recherche jobspy (~24 km, couvre large autour de Paris)
 MAX_AGE_DAYS = 7                    # n'afficher que les offres postées il y a moins d'une semaine
 HOURS_OLD = MAX_AGE_DAYS * 24        # équivalent en heures, transmis à jobspy (Indeed/LinkedIn)
 RESULTS_PER_SEARCH = 20             # nb de résultats à examiner par recherche
+
+# Ne garder que les offres dans ces départements (75 = Paris, 92 = Hauts-de-
+# Seine, 94 = Val-de-Marne). Le rayon de recherche ci-dessus remonte aussi
+# des offres d'autres départements limitrophes (93, 77, 78, 91, 95) : elles
+# sont filtrées après coup grâce à TARGET_DEPARTMENTS / EXCLUDED_DEPARTMENTS.
+TARGET_DEPARTMENTS = {"75", "92", "94"}
+EXCLUDED_DEPARTMENTS = {"93", "77", "78", "91", "95"}
+
+# Titres contenant un de ces mots = offre écartée (stages et alternances).
+EXCLUDED_CONTRACT_KEYWORDS = [
+    "stage", "stagiaire",
+    "alternance", "alternant", "alternante",
+    "apprenti", "apprentie", "apprentissage",
+]
+
+# Restauration : on écarte les postes de cuisine (chef de partie, commis,
+# plonge...) pour ne garder que le service en salle et le comptoir/barista.
+EXCLUDED_KITCHEN_KEYWORDS = [
+    "cuisine", "cuisinier", "cuisinière",
+    "chef de partie", "chef de cuisine", "chef cuisinier",
+    "commis de cuisine", "commis cuisine", "second de cuisine",
+    "sous-chef", "sous chef", "aide-cuisinier", "aide cuisinier",
+    "plongeur", "plongeuse", "plonge",
+    "patissier", "pâtissier", "patissiere", "pâtissière",
+    "boulanger", "boulangere", "boulangère",
+]
 
 # Chaque "famille" = un ou plusieurs termes de recherche regroupés sous un
 # même libellé. Ajoute / retire des termes ou des familles ici si besoin.
@@ -167,6 +194,81 @@ def is_recent_enough(job: "JobPosting", max_days: int = MAX_AGE_DAYS) -> bool:
 
 
 # --------------------------------------------------------------------------
+# Filtres : contrat (pas de stage/alternance) et département (75/92/94)
+# --------------------------------------------------------------------------
+
+def is_excluded_contract(title: str) -> bool:
+    t = (title or "").lower()
+    return any(kw in t for kw in EXCLUDED_CONTRACT_KEYWORDS)
+
+
+def is_excluded_kitchen_role(title: str) -> bool:
+    t = (title or "").lower()
+    return any(kw in t for kw in EXCLUDED_KITCHEN_KEYWORDS)
+
+
+# Villes connues pour désambiguïser un lieu qui n'affiche pas de code postal
+# ou de département entre parenthèses. Liste non exhaustive, à compléter au
+# besoin — mais ça couvre les cas les plus fréquents en Île-de-France.
+_CITY_TO_DEPT = {
+    "paris": "75",
+    "boulogne-billancourt": "92", "nanterre": "92", "courbevoie": "92",
+    "issy-les-moulineaux": "92", "levallois-perret": "92", "clichy": "92",
+    "neuilly-sur-seine": "92", "rueil-malmaison": "92", "colombes": "92",
+    "asnieres-sur-seine": "92", "asnières-sur-seine": "92", "puteaux": "92",
+    "montrouge": "92", "chatillon": "92", "châtillon": "92",
+    "gennevilliers": "92", "sceaux": "92", "antony": "92",
+    "creteil": "94", "créteil": "94", "vitry-sur-seine": "94",
+    "champigny-sur-marne": "94", "saint-maur-des-fosses": "94",
+    "saint-maur-des-fossés": "94", "ivry-sur-seine": "94", "vincennes": "94",
+    "fontenay-sous-bois": "94", "villejuif": "94", "maisons-alfort": "94",
+    "charenton-le-pont": "94", "nogent-sur-marne": "94", "alfortville": "94",
+    "cachan": "94", "le kremlin-bicetre": "94", "le kremlin-bicêtre": "94",
+    # départements limitrophes explicitement écartés
+    "saint-denis": "93", "bobigny": "93", "montreuil": "93",
+    "aubervilliers": "93", "pantin": "93", "bagnolet": "93", "drancy": "93",
+    "versailles": "78", "saint-germain-en-laye": "78", "sartrouville": "78",
+    "evry": "91", "évry": "91", "corbeil-essonnes": "91", "massy": "91",
+    "cergy": "95", "argenteuil": "95", "sarcelles": "95",
+    "meaux": "77", "melun": "77", "chelles": "77",
+}
+
+_DEPT_IN_PARENS_RE = re.compile(r"\((\d{2,3})\)")
+_POSTAL_CODE_RE = re.compile(r"\b(\d{5})\b")
+
+
+def extract_department(location: str):
+    """Tente d'identifier le département depuis un texte de lieu. Retourne
+    le code (ex. '75') ou None si indéterminable."""
+    if not location:
+        return None
+    match = _DEPT_IN_PARENS_RE.search(location)
+    if match:
+        code = match.group(1)
+        return code[:2] if len(code) >= 2 else code
+    match = _POSTAL_CODE_RE.search(location)
+    if match:
+        return match.group(1)[:2]
+    loc_lower = location.lower()
+    for city, dept in _CITY_TO_DEPT.items():
+        if city in loc_lower:
+            return dept
+    return None
+
+
+def is_in_target_area(location: str) -> bool:
+    """True si le département est 75/92/94, ou si on ne peut pas le
+    déterminer (mieux vaut garder une offre ambiguë que d'en perdre une
+    valide à cause d'un format de lieu inhabituel)."""
+    dept = extract_department(location)
+    if dept is None:
+        return True
+    if dept in EXCLUDED_DEPARTMENTS:
+        return False
+    return dept in TARGET_DEPARTMENTS
+
+
+# --------------------------------------------------------------------------
 # Discord
 # --------------------------------------------------------------------------
 
@@ -233,6 +335,7 @@ def scrape_jobspy(category: str, term: str) -> list[JobPosting]:
             site_name=JOBSPY_SITES,
             search_term=term,
             location=LOCATION,
+            distance=DISTANCE_MILES,
             results_wanted=RESULTS_PER_SEARCH,
             hours_old=HOURS_OLD,
             country_indeed="France",
@@ -428,7 +531,12 @@ def dedupe_by_id(jobs: Iterable[JobPosting]) -> list[JobPosting]:
 def main() -> int:
     print(f"[INFO] Démarrage — {len(CATEGORIES)} familles de recherche.")
     jobs = dedupe_by_id(collect_all_jobs())
-    print(f"[INFO] {len(jobs)} offres trouvées au total sur ce run.")
+    print(f"[INFO] {len(jobs)} offres trouvées avant filtrage.")
+
+    jobs = [j for j in jobs if not is_excluded_contract(j.title)]
+    jobs = [j for j in jobs if not is_excluded_kitchen_role(j.title)]
+    jobs = [j for j in jobs if is_in_target_area(j.location)]
+    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / secteur).")
 
     seen = load_json(SEEN_FILE, None)
     is_bootstrap = seen is None
