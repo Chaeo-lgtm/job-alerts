@@ -40,6 +40,6 @@ jobs:
         run: |
           git config user.name "job-alerts-bot"
           git config user.email "actions@github.com"
-          git add data/seen_jobs.json data/failure_counts.json
+          git add data/*.json
           git diff --cached --quiet || git commit -m "Update seen jobs [skip ci]"
           git push
