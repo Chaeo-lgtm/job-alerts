@@ -1,0 +1,45 @@
+name: Job alerts
+
+on:
+  schedule:
+    # Toutes les 15 minutes, 24h/24. GitHub Actions ne garantit pas la
+    # minute exacte (léger retard possible aux heures de forte charge),
+    # mais reste largement suffisant pour ce cas d'usage.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}  # permet de lancer le bot manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write  # nécessaire pour que le bot puisse committer data/seen_jobs.json
+
+concurrency:
+  group: job-alerts
+  cancel-in-progress: false  # on laisse un run précédent se terminer plutôt que de le tuer
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python job_bot.py
+
+      - name: Commit updated job history
+        run: |
+          git config user.name "job-alerts-bot"
+          git config user.email "actions@github.com"
+          git add data/seen_jobs.json data/failure_counts.json
+          git diff --cached --quiet || git commit -m "Update seen jobs [skip ci]"
+          git push
