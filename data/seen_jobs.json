@@ -8086,5 +8086,65 @@
     "category": "Équipier polyvalent",
     "source": "Linkedin",
     "first_seen": "2026-09-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=e5e6728b51fc845a": {
+    "title": "Médiathécaire polyvalent/e en section adulte (F/H) - Draveil",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-09-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/78269923.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/77145138.html": {
+    "title": "Dessinateur Projeteur CVC H/FIdeal Profeel",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-09-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=88251cad120a1525": {
+    "title": "Conseiller de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-22"
+  },
+  "https://www.linkedin.com/jobs/view/4469074083": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/78276741.html": {
+    "title": "Conseiller de Vente H/FHappy Curl - La Boutique du Coiffeur",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-09-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81598402.html": {
+    "title": "Hôte d'Accueil H/FBillie",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=5196cbac45bc02d3": {
+    "title": "RECEPTIONNISTE H/F 24H CDD",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=3fc26c390281d00d": {
+    "title": "Équipier polyvalent multisites (H/F) - cdi 35h",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-09-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83590356.html": {
+    "title": "Serveur H/FSmile Eomma",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-09-22"
   }
 }
