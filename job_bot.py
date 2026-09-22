@@ -73,15 +73,19 @@ EXCLUDED_KITCHEN_KEYWORDS = [
     "boulanger", "boulangere", "boulangère",
 ]
 
-# Postes trop qualifiés/expérimentés pour le filet de sécurité (vente,
-# accueil, service client, restauration) : écartés uniquement dans ces
-# catégories-là, jamais dans le domaine culturel/numérique où ces intitulés
-# (chargé de communication, community manager...) sont légitimes.
+# Postes trop qualifiés/expérimentés : écartés PARTOUT, y compris dans le
+# domaine culturel (ex. "Responsable Architecture Communication", "Chef de
+# Service - Musée du Louvre" ne sont pas plus pertinents que "Responsable de
+# magasin").
 EXCLUDED_SENIOR_KEYWORDS = [
-    "responsable", "manager", "chargé de projet", "chargée de projet",
+    "responsable", "chargé de projet", "chargée de projet",
     "chef de service", "chef d'équipe", "cheffe d'équipe",
     "directeur", "directrice", "superviseur", "superviseuse",
 ]
+# "manager" reste toléré UNIQUEMENT dans le domaine culturel/numérique, car
+# "community manager" est un intitulé recherché — mais pas ailleurs
+# ("manager restauration", "store manager"...).
+EXCLUDED_SENIOR_KEYWORDS_SAFETY_NET_ONLY = ["manager"]
 
 # Chaque "famille" = un ou plusieurs termes de recherche regroupés sous un
 # même libellé. Ajoute / retire des termes ou des familles ici si besoin.
@@ -90,8 +94,10 @@ EXCLUDED_SENIOR_KEYWORDS = [
 CATEGORIES: dict[str, list[str]] = {
     # --- domaine culturel / créatif : profil idéal (calqué sur le CV) ---
     # Intitulé de poste réellement occupé : "Médiatrice culturelle et numérique"
-    "Médiation culturelle": [
+    "Médiation culturelle / bibliothèque": [
         "médiateur culturel", "médiatrice culturelle", "médiation numérique",
+        "bibliothécaire", "assistant de bibliothèque", "agent de bibliothèque",
+        "magasinier bibliothèque",
     ],
     # Tâches CV : création de visuels/contenus réseaux sociaux, interviews, montage vidéo promo
     "Communication / création de contenu": [
@@ -123,12 +129,54 @@ CATEGORIES: dict[str, list[str]] = {
 }
 
 PRIORITY_CATEGORIES = {
-    "Médiation culturelle",
+    "Médiation culturelle / bibliothèque",
     "Communication / création de contenu",
     "Événementiel",
     "Audiovisuel / photo / graphisme",
     "Illustration / arts visuels",
 }
+
+# Garde-fou anti-bruit : Indeed/LinkedIn renvoient parfois des offres
+# "apparentées" qui ne contiennent même pas le terme cherché (ex. une
+# recherche "médiation numérique" qui ramène un poste d'aide-soignant ou
+# d'éducateur). On ne garde une offre que si son titre contient au moins un
+# de ces mots-clés pour sa catégorie — sinon elle est écartée, même si le
+# site l'a proposée.
+CATEGORY_REQUIRED_KEYWORDS: dict[str, list[str]] = {
+    "Médiation culturelle / bibliothèque": [
+        "médiat", "mediat", "culture", "culturel", "patrimoine",
+        "musée", "musee", "bibliothèque", "biblioth",
+    ],
+    "Communication / création de contenu": [
+        "communication", "community", "contenu", "réseaux sociaux",
+        "reseaux sociaux", "social media", "digital",
+    ],
+    "Événementiel": [
+        "événement", "evenement", "événementiel", "evenementiel", "billetterie",
+    ],
+    "Audiovisuel / photo / graphisme": [
+        "vidéo", "video", "photo", "graphiste", "graphisme",
+        "infographie", "audiovisuel", "montage",
+    ],
+    "Illustration / arts visuels": [
+        "illustrat", "dessin", "concept art", "bd", "bande dessinée",
+    ],
+    "Vente": ["vente", "vendeur", "vendeuse", "boutique", "magasin", "conseiller de vente"],
+    "Accueil / réception": ["accueil", "réception", "reception"],
+    "Équipier polyvalent": ["polyvalent", "polyvalente", "équipier", "équipière", "equipier", "equipiere"],
+    "Restauration (service)": ["restauration", "serveur", "serveuse", "salle"],
+}
+
+
+def is_title_relevant(job: "JobPosting") -> bool:
+    """False si le titre ne contient aucun mot-clé attendu pour sa
+    catégorie — signe qu'il s'agit d'un résultat "apparenté" hors sujet
+    plutôt que d'une vraie correspondance."""
+    keywords = CATEGORY_REQUIRED_KEYWORDS.get(job.category)
+    if not keywords:
+        return True  # catégorie non répertoriée : on ne filtre pas à l'aveugle
+    t = (job.title or "").lower()
+    return any(kw in t for kw in keywords)
 
 # Sites à interroger via jobspy (Indeed et LinkedIn scrapent les pages de
 # résultats publiques, sans connexion). HelloWork est géré séparément
@@ -233,13 +281,16 @@ def is_excluded_kitchen_role(title: str) -> bool:
 
 
 def is_excluded_senior_role(job: "JobPosting") -> bool:
-    """Écarte les intitulés trop qualifiés (responsable, manager, chargé de
-    projet...) — mais seulement hors du domaine culturel/numérique, où ces
-    intitulés correspondent au profil recherché (ex. community manager)."""
-    if job.is_priority:
-        return False
+    """Écarte les intitulés trop qualifiés (responsable, chargé de projet,
+    chef de service, directeur...) partout, y compris dans le domaine
+    culturel. "manager" seul reste toléré dans le domaine culturel/numérique
+    (community manager), mais pas ailleurs."""
     t = (job.title or "").lower()
-    return any(kw in t for kw in EXCLUDED_SENIOR_KEYWORDS)
+    if any(kw in t for kw in EXCLUDED_SENIOR_KEYWORDS):
+        return True
+    if not job.is_priority and any(kw in t for kw in EXCLUDED_SENIOR_KEYWORDS_SAFETY_NET_ONLY):
+        return True
+    return False
 
 
 # Villes connues pour désambiguïser un lieu qui n'affiche pas de code postal
@@ -572,7 +623,8 @@ def main() -> int:
     jobs = [j for j in jobs if not is_excluded_kitchen_role(j.title)]
     jobs = [j for j in jobs if not is_excluded_senior_role(j)]
     jobs = [j for j in jobs if is_in_target_area(j.location)]
-    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / niveau / secteur).")
+    jobs = [j for j in jobs if is_title_relevant(j)]
+    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / niveau / secteur / pertinence).")
 
     seen = load_json(SEEN_FILE, None)
     is_bootstrap = seen is None
