@@ -73,36 +73,61 @@ EXCLUDED_KITCHEN_KEYWORDS = [
     "boulanger", "boulangere", "boulangère",
 ]
 
+# Postes trop qualifiés/expérimentés pour le filet de sécurité (vente,
+# accueil, service client, restauration) : écartés uniquement dans ces
+# catégories-là, jamais dans le domaine culturel/numérique où ces intitulés
+# (chargé de communication, community manager...) sont légitimes.
+EXCLUDED_SENIOR_KEYWORDS = [
+    "responsable", "manager", "chargé de projet", "chargée de projet",
+    "chef de service", "chef d'équipe", "cheffe d'équipe",
+    "directeur", "directrice", "superviseur", "superviseuse",
+]
+
 # Chaque "famille" = un ou plusieurs termes de recherche regroupés sous un
 # même libellé. Ajoute / retire des termes ou des familles ici si besoin.
 # Les familles listées dans PRIORITY_CATEGORIES ressortent en priorité
 # (couleur dorée + en tête) dans les notifications Discord.
 CATEGORIES: dict[str, list[str]] = {
-    # --- domaine culturel / créatif : profil idéal (CV) ---
-    "Médiation culturelle": ["médiation culturelle", "médiation numérique"],
-    "Communication / réseaux sociaux": [
-        "chargé de communication",
-        "community manager",
-        "chargé de communication digitale",
+    # --- domaine culturel / créatif : profil idéal (calqué sur le CV) ---
+    # Intitulé de poste réellement occupé : "Médiatrice culturelle et numérique"
+    "Médiation culturelle": [
+        "médiateur culturel", "médiatrice culturelle", "médiation numérique",
     ],
+    # Tâches CV : création de visuels/contenus réseaux sociaux, interviews, montage vidéo promo
+    "Communication / création de contenu": [
+        "chargé de communication", "community manager",
+        "créateur de contenu", "assistant communication",
+    ],
+    # Tâches CV : organisation/coordination d'événements culturels, billetterie
     "Événementiel": [
-        "chargé événementiel",
-        "hôte hôtesse événementiel",
-        "régie événementielle",
+        "chargé événementiel", "assistant événementiel", "chargé de billetterie",
     ],
-    "Audiovisuel / photo / graphisme": ["monteur vidéo", "photographe", "graphiste"],
-    # --- job alimentaire : filet de sécurité ---
+    # Compétences CV : Photoshop/InDesign/Premiere Pro/Lightroom/After Effects/Procreate,
+    # montage vidéo, photographie (Blast Fest, Corée Graphie)
+    "Audiovisuel / photo / graphisme": [
+        "monteur vidéo", "photographe", "graphiste", "infographiste",
+    ],
+    # Formation CV : prépa Illustration & Concept Art (ESMA), Licence Arts Plastiques
+    "Illustration / arts visuels": [
+        "illustrateur", "illustratrice", "dessinateur", "dessinatrice",
+    ],
+    # --- job alimentaire : filet de sécurité, calqué sur l'expérience réelle ---
+    # Expérience CV : vente et management d'équipe (La Banquise)
     "Vente": ["vendeur vendeuse", "conseiller de vente"],
-    "Accueil / réception": ["accueil réception", "hôte hôtesse d'accueil"],
-    "Service client": ["service client", "employé polyvalent"],
-    "Restauration": ["restauration", "équipier restauration"],
+    # Expérience CV : accueil du public (bibliothèque ALMA)
+    "Accueil / réception": ["agent d'accueil", "hôte hôtesse d'accueil", "réceptionniste"],
+    # Intitulé de poste réellement occupé : "Équipière polyvalente" (Quick, La Banquise)
+    "Équipier polyvalent": ["équipier polyvalent", "équipière polyvalente"],
+    # Expérience CV : comptoir/salle (Quick) — service en salle, pas cuisine
+    "Restauration (service)": ["serveur serveuse", "équipier restauration"],
 }
 
 PRIORITY_CATEGORIES = {
     "Médiation culturelle",
-    "Communication / réseaux sociaux",
+    "Communication / création de contenu",
     "Événementiel",
     "Audiovisuel / photo / graphisme",
+    "Illustration / arts visuels",
 }
 
 # Sites à interroger via jobspy (Indeed et LinkedIn scrapent les pages de
@@ -205,6 +230,16 @@ def is_excluded_contract(title: str) -> bool:
 def is_excluded_kitchen_role(title: str) -> bool:
     t = (title or "").lower()
     return any(kw in t for kw in EXCLUDED_KITCHEN_KEYWORDS)
+
+
+def is_excluded_senior_role(job: "JobPosting") -> bool:
+    """Écarte les intitulés trop qualifiés (responsable, manager, chargé de
+    projet...) — mais seulement hors du domaine culturel/numérique, où ces
+    intitulés correspondent au profil recherché (ex. community manager)."""
+    if job.is_priority:
+        return False
+    t = (job.title or "").lower()
+    return any(kw in t for kw in EXCLUDED_SENIOR_KEYWORDS)
 
 
 # Villes connues pour désambiguïser un lieu qui n'affiche pas de code postal
@@ -535,8 +570,9 @@ def main() -> int:
 
     jobs = [j for j in jobs if not is_excluded_contract(j.title)]
     jobs = [j for j in jobs if not is_excluded_kitchen_role(j.title)]
+    jobs = [j for j in jobs if not is_excluded_senior_role(j)]
     jobs = [j for j in jobs if is_in_target_area(j.location)]
-    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / secteur).")
+    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / niveau / secteur).")
 
     seen = load_json(SEEN_FILE, None)
     is_bootstrap = seen is None
