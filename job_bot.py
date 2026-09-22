@@ -23,10 +23,12 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 import time
 import warnings
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Iterable
 
@@ -40,7 +42,8 @@ warnings.filterwarnings("ignore")
 
 LOCATION = "Paris, France"          # utilisé pour Indeed / LinkedIn (jobspy)
 HELLOWORK_LOCATION = "Paris"        # utilisé pour l'URL de recherche HelloWork
-HOURS_OLD = 72                      # ne considérer que les offres postées récemment
+MAX_AGE_DAYS = 7                    # n'afficher que les offres postées il y a moins d'une semaine
+HOURS_OLD = MAX_AGE_DAYS * 24        # équivalent en heures, transmis à jobspy (Indeed/LinkedIn)
 RESULTS_PER_SEARCH = 20             # nb de résultats à examiner par recherche
 
 # Chaque "famille" = un ou plusieurs termes de recherche regroupés sous un
@@ -129,6 +132,38 @@ def load_json(path: Path, default):
 def save_json(path: Path, data) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+# --------------------------------------------------------------------------
+# Filtre d'ancienneté (offres de plus de MAX_AGE_DAYS jours écartées)
+# --------------------------------------------------------------------------
+
+_DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
+
+
+def parse_date_flexible(date_str: str):
+    """Essaie d'extraire une date d'une chaîne (ISO 8601 le plus souvent).
+    Retourne None si la date est absente ou illisible."""
+    if not date_str:
+        return None
+    match = _DATE_RE.search(date_str)
+    if not match:
+        return None
+    try:
+        return datetime.strptime(match.group(1), "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
+def is_recent_enough(job: "JobPosting", max_days: int = MAX_AGE_DAYS) -> bool:
+    """Écarte une offre HelloWork trop ancienne. Si la date est illisible ou
+    absente (ça arrive avec le repli HTML sans JSON-LD), on la garde plutôt
+    que de risquer de perdre une offre pertinente."""
+    parsed = parse_date_flexible(job.date_posted)
+    if parsed is None:
+        return True
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_days)
+    return parsed >= cutoff
 
 
 # --------------------------------------------------------------------------
@@ -324,6 +359,7 @@ def scrape_hellowork(category: str, term: str) -> list[JobPosting]:
         )
         record_failure("hellowork")
 
+    postings = [job for job in postings if is_recent_enough(job)]
     return postings[:RESULTS_PER_SEARCH]
 
 
