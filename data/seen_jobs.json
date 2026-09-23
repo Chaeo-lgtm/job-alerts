@@ -1633,7 +1633,7 @@
   },
   "https://www.hellowork.com/fr-fr/emplois/83113852.html": {
     "title": "Charge de Communication Evenementielle H/FAG2R LA MONDIALE",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
@@ -9355,6 +9355,180 @@
   },
   "https://www.linkedin.com/jobs/view/4469340605": {
     "title": "Employé de Restauration F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82606954.html": {
+    "title": "Chargé de Communication Interne et Externe H/FHORUS FINANCE",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469466441": {
+    "title": "Community Officer",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82597501.html": {
+    "title": "Assistante Commerciale Événementiel H/FPrisma Academy",
+    "category": "Événementiel",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4471129681": {
+    "title": "Conducteur de Travaux Audiovisuels",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/55696204.html": {
+    "title": "Dessinateur Projeteur Pdms - E3d H/FArkadia Group",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=d955206430d7d964": {
+    "title": "Conseiller de vente F/H CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=70d34dcd0fc5b346": {
+    "title": "VENDEUR/EUSE POLYVALENT/E // CDD 25H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=0dc5f9e338a48caf": {
+    "title": "Conseiller Technique de vente h/f",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=0f1ac328dadff438": {
+    "title": "Conseiller(e) de vente (F/H) // Axe Exploitation - Paris Italie 2 - CDD 25h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=3492a6b2eba27db7": {
+    "title": "Conseiller(e) de vente (F/H) - Paris Italie 2 - CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=d75af20c8cfc3263": {
+    "title": "Conseiller(e) de vente (F/H) - Paris Faubourg Saint Antoine - CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=beed40ce572e4ac8": {
+    "title": "Vendeur/Vendeuse Parly 2 - CDI temps partiel 104h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=583cc5afd8d22058": {
+    "title": "Athlete Nike (Vendeur/euse en magasin) - H/F 25H CDI",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=af16944e5b3c411e": {
+    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - CDI Temps Partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=f04f1c0ca5739a23": {
+    "title": "Conseiller de vente (H/F) CDD 25h - Archives",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=5169a2d1edaea4b7": {
+    "title": "Conseiller de vente (H/F) CDI 25h - Galeries Lafayette Beaugrenelle",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=9d43e8f7e389f53c": {
+    "title": "Ouverture Val d'Europe - Conseiller de vente (H/F) CDD 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=d259218e0262a1d8": {
+    "title": "Ouverture Val d'Europe - Conseiller de vente (H/F) CDI 21h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469921835": {
+    "title": "VENDEUR/EUSE POLYVALENT/E // CDI 35H",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=25302299d6b0a625": {
+    "title": "Agent d'accueil polyvalent et officier d'état civil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=fdcd2b6003c52a4e": {
+    "title": "Agent de médiathèque– Référent accueil des publics et valorisation des ressources F/H - EC158781",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4466276609": {
+    "title": "Conseiller d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4466292150": {
+    "title": "Agent de réception H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4467619657": {
+    "title": "Hôte de caisse et d’accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4470967059": {
+    "title": "RECEPTIONIST – OFFICE ADMINISTRATOR H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=28dba5e6c88eb4fa": {
+    "title": "Barman/Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=319999ecfb204ade": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82607486.html": {
+    "title": "Serveur H/FRestaurant Aux Artistes",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4470252009": {
+    "title": "Commis de restauration Room Service H/F",
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-09-23"
