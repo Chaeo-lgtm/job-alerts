@@ -8146,5 +8146,65 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
+  },
+  "https://www.linkedin.com/jobs/view/4468077442": {
+    "title": "CHARGÉ(E) DE MARKETING DIGITAL & RH (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=dd58a805a0f50536": {
+    "title": "Vendeur (H/F) en magasin - Livry Gargan",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=3646a46ef877bf0c": {
+    "title": "Conseiller(ère) de vente 35h - CDD",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=ceb199c10bc87bd1": {
+    "title": "Conseiller de vente h/f 10H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=1faa2880780de89a": {
+    "title": "conseiller·ère de vente f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=630df68f1ed162ab": {
+    "title": "Conseiller de vente F/H - Concept Store Loulou - Samaritaine",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=90e52e3e7d789559": {
+    "title": "Conseiller.e de vente - Montaigne F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4470644212": {
+    "title": "Conseiller.e de vente - Montaigne F/H",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=0abdf293804055dc": {
+    "title": "Equipier polyvalent restauration rapide H/F 10h",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4440983799": {
+    "title": "CDI : Commis(e) de restauration / Runner",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
   }
 }
