@@ -1614,7 +1614,7 @@
     "first_seen": "2026-09-22"
   },
   "https://www.hellowork.com/fr-fr/emplois/82063548.html": {
-    "title": "Assistant de Projet Événementiel H/FCamo Groupe",
+    "title": "Assistant de Projet Événementiel Trilingue Italien et Anglais H/FCamo Groupe",
     "category": "Événementiel",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
@@ -1633,7 +1633,7 @@
   },
   "https://www.hellowork.com/fr-fr/emplois/83113852.html": {
     "title": "Charge de Communication Evenementielle H/FAG2R LA MONDIALE",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
@@ -6073,13 +6073,13 @@
   },
   "https://fr.indeed.com/viewjob?jk=f88820310f6e4a49": {
     "title": "Equipier Polyvalent 35H (H/F)",
-    "category": "Vente",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-09-22"
   },
   "https://fr.indeed.com/viewjob?jk=b921cfac04f35f2b": {
     "title": "Equipier Polyvalent 35H (H/F)",
-    "category": "Vente",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-09-22"
   },
@@ -8365,6 +8365,354 @@
   },
   "https://www.linkedin.com/jobs/view/4469120317": {
     "title": "CDI : Commis de Restauration",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83671937.html": {
+    "title": "Agent de Conservation Patrimoine H/FSSA",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83674539.html": {
+    "title": "Service Civique - Paris Ecole Maternelle Pointe d'Ivry 13E Aider aux Projets Artistiques Culturels et Sportifs H/FMinistere de L'education Nationale",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4470920130": {
+    "title": "Technicien bibliothécaire CAO électronique CDI H/F",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=b8aec2c4cda3d47a": {
+    "title": "Marketing & Communication Manager – B2B / Tech / IA",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4459296873": {
+    "title": "Communications Advisor",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=0c195b0a1e217c3c": {
+    "title": "Formateur indépendant en Community Management H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4470929366": {
+    "title": "Assistant communications/Assistante communications",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83244212.html": {
+    "title": "Hôte de Billetterie H/FStaffmatch",
+    "category": "Événementiel",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=97e5d3ebec79b019": {
+    "title": "MONTEUR(SE) VIDÉO E-COMMERCE & SOCIAL ADS - CDD",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4464452734": {
+    "title": "Régisseuse/régisseur audiovisuel",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4450143394": {
+    "title": "Éditeur vidéo",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=a163ef5669b417c0": {
+    "title": "Graphiste Web (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469316077": {
+    "title": "INFOGRAPHISTE F/H",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=8c14e8c3a7e9bf12": {
+    "title": "Dessinateur / Dessinatrice – Bureau d’Études (H/F)",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=be007f2a9543b0c2": {
+    "title": "Dessinateur technique H/F",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4429853709": {
+    "title": "Dessinateur projeteur industriel  F/H",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=6b670395336db5f7": {
+    "title": "Vendeur H/F CDI 30h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=24874a60db03bda8": {
+    "title": "Vendeur (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=b502b027d612b2a4": {
+    "title": "Caviste vendeur conseil (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=0db4ad2a132a87d4": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=f34c3300d1fcbf68": {
+    "title": "Vendeur Tissus et Mercerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=fc02764752b9076e": {
+    "title": "Vendeur Automobile Véhicules Neufs - COMO - GEELY (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=2ad6a6a1ab38232b": {
+    "title": "Vendeur Automobile Véhicules Neufs - COMO - GEELY (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=3bcf176b4556bbc7": {
+    "title": "Vendeur Automobile Véhicules Neufs - COMO - GEELY (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=aceca05baeaae18d": {
+    "title": "Conseiller vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469915806": {
+    "title": "Conseiller de Vente H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469454142": {
+    "title": "Conseiller de Ventes - Saint-Honoré (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=44a924aa946613de": {
+    "title": "Réceptionniste de nuit week-end hôtellerie",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=89fc1f9dc1dcbe91": {
+    "title": "Chargé(e) d’accueil et de gestion administrative – Gestion immobilière H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=6588286c93e6a9b1": {
+    "title": "Agent polyvalent accueil, caisse et bar cirque H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=9e4cb1d0453d88df": {
+    "title": "Réceptionniste de nuit / Night Auditor H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=96610861b11553ce": {
+    "title": "Réceptionniste tournant H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=c7f0b486949afc10": {
+    "title": "HOTE(SSE) D’ACCUEIL H/F – CDI – TEMPS PARTIEL - 14h-19h - RUEIL MALMAISON",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=2b54be7154d0a864": {
+    "title": "HOTE(SSE) D’ACCUEIL H/F – CDI – 12h00-20h00 - PARIS 9E",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=79331fb6e9045865": {
+    "title": "Réceptionniste tournant H/F/X - CDD",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=ad2035a3d51d7f4c": {
+    "title": "Réceptionniste tournant/e évènementiel H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469439845": {
+    "title": "Réceptionniste Club H/F - KEN CLUB & BLANCHE - 35H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469434188": {
+    "title": "FR - Réceptionniste (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83673703.html": {
+    "title": "Agent d'Accueil Secteur Culturel We H/FMusea",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=860622cf9f33b52b": {
+    "title": "Hôte/Hôtesse d'Accueil pour Événements Sportifs",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=648b12e2507973aa": {
+    "title": "Premier(e) de réception H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=a068f693d692c364": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=fab51b6ddc618baf": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=01248d69fb0b8b86": {
+    "title": "Équipier Polyvalent pour Entreprise de Traiteur (Permis B obligatoire)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83674283.html": {
+    "title": "Equipier Polyvalent Étudiant H/FLidl",
+    "category": "Équipier polyvalent",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=4487f7dbaaf25614": {
+    "title": "Serveur / Serveuse Coffee-Shop H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=6ea614dde9c6a42c": {
+    "title": "Serveur/Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=0d6119d44d47338e": {
+    "title": "Serveur polyvalent H/F - Temps partiel",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=059e5d67facf5204": {
+    "title": "Serveur restaurant BRUNCH H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=4ed49319168dbea3": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=91619714d98a3bff": {
+    "title": "Serveur & Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=b863e0754171022a": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=95f3452af4fecc5f": {
+    "title": "Serveur Room Service bilingue anglais F/H",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=f5377d423e11c222": {
+    "title": "Employé de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=a4e8f2df058ed6e5": {
+    "title": "Serveur - EHPAD Cognacq-Jay Rueil-Malmaison (92) H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=49fd7f1a1d80dd2a": {
+    "title": "Employé polyvalent de restauration l'Oréal Seine 62 \"Bon Sens\" (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=88264842f6da3087": {
+    "title": "Employé polyvalent de restauration l'Oréal Seine 62 \"Bon Sens\" (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4468355858": {
+    "title": "Serveur",
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-09-23"
