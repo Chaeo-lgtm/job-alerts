@@ -1633,7 +1633,7 @@
   },
   "https://www.hellowork.com/fr-fr/emplois/83113852.html": {
     "title": "Charge de Communication Evenementielle H/FAG2R LA MONDIALE",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
@@ -8203,6 +8203,168 @@
   },
   "https://www.linkedin.com/jobs/view/4440983799": {
     "title": "CDI : Commis(e) de restauration / Runner",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=bce1fbc485406775": {
+    "title": "Chargé(e) de Communication Corporate, Interne & Marque Employeur (CDD) - H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=32eec0b06079c7a6": {
+    "title": "Chef de projets communication et marketing F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4470640485": {
+    "title": "Chef(fe) de projets Communication Marque & Média",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83632524.html": {
+    "title": "- Chargé de Communication - BTS Audiovisuel H/FAURLOM",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=4d964fe370bfb561": {
+    "title": "Vendeur H/F Extra alimentaire",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=895a314820615c7f": {
+    "title": "Vendeur Conseil Plante d’inférieur et Maison H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=2e5a84a39c512838": {
+    "title": "Conseiller/vendeur e-cig H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=5fc8231f4d6e9e16": {
+    "title": "Conseiller/vendeur e-cig H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4467819669": {
+    "title": "Conseiller de vente (H/F) CDI 35h - Galeries Lafayette Champs Elysées",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=b640ad34e753a6a1": {
+    "title": "Agent d'accueil en médiathèque F/H - EC158781",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4468395356": {
+    "title": "Réceptionniste Tournant H/F - Melia Paris La Défense",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83581229.html": {
+    "title": "Réceptionniste - Maison de Luxe H/FIFAE Accueil",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=608113fcd5ee46c2": {
+    "title": "Employé polyvalent de rest/Equipier (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=d75552502fda61df": {
+    "title": "Employé de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=e56618af871434b0": {
+    "title": "Serveur (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=a621e0a694dcfeb9": {
+    "title": "Serveur (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=300b93b4635cd717": {
+    "title": "Serveur (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=3d047a52a2ee5226": {
+    "title": "CDI 24H Serveur - EHPAD COGNACQ JAY RUEIL MALMAISON (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=64651e0aca6f77d3": {
+    "title": "Serveur - EHPAD Cognacq-Jay Rueil-Malmaison (92) H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=8a5c068f6872e52c": {
+    "title": "CDI 24H Serveur - EHPAD COGNACQ JAY RUEIL MALMAISON (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=7c97745ef3befd69": {
+    "title": "Employé polyvalent de restauration Self L'Oréal Seine 62 (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=62286e9955b7ae18": {
+    "title": "Employé polyvalent de restauration Self L'Oréal Seine 62 (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=93e9c285e259173c": {
+    "title": "Employé polyvalent de restauration Self L'Oréal Seine 62 (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=f73822107a34c70e": {
+    "title": "Employé polyvalent de restauration l'Oréal Seine 62 \"Bon Sens\" (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=c9403a887f06f207": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=433321ae68e24059": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4469120317": {
+    "title": "CDI : Commis de Restauration",
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-09-23"
