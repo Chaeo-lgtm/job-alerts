@@ -8071,7 +8071,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=2f90c46db5d355f5": {
     "title": "Équipier Polyvalent en Restauration - service midi (H/F)",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-09-22"
   },
@@ -9532,5 +9532,101 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-09-23"
+  },
+  "https://www.linkedin.com/jobs/view/4471149811": {
+    "title": "Dessinateur études CFA débutant F/H",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=6257aa6afde345ae": {
+    "title": "Vendeur (H/F) en magasin - Ivry - Salle de bain",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=f4dece2412a3daaa": {
+    "title": "Vendeurs Préparateurs (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=a2f72df4747fca13": {
+    "title": "Vendeurs Préparateurs - 20 heures - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=409e52bebdd0b34c": {
+    "title": "Conseiller/ère de vente",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=1c8430e415f1c448": {
+    "title": "Conseiller(e) de vente (F/H) // Axe Exploitation - Paris Italie 2 - CDD 25h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=72bb2f06c88e1b9e": {
+    "title": "Conseiller(e) de vente (F/H) - Paris Italie 2 - CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=5736fb3f066a6f1d": {
+    "title": "CDD - Conseiller de vente (F/H) - Evénements Commerciaux - Le Bon Marché",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=c11b03bf576f0567": {
+    "title": "Vendeurs Préparateurs (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://www.linkedin.com/jobs/view/4469627504": {
+    "title": "Conseiller/ère de vente",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=35df82cfa9db2b32": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=f6431ff335d1fd47": {
+    "title": "Agent d'accueil (H/FN)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=4b330aae5980a1d4": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
+  },
+  "https://www.linkedin.com/jobs/view/4471146631": {
+    "title": "ANCHOR PARIS SAINT-MARTIN - Réceptionniste de Nuit Polyvalent(e)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-24"
+  },
+  "https://www.linkedin.com/jobs/view/4469365398": {
+    "title": "Hôte d’accueil polyvalent (H/F/NB)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=3b0afc180de69539": {
+    "title": "Commis de Salle – 30 Motaigne - H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-24"
   }
 }
