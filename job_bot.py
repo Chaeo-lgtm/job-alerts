@@ -62,7 +62,10 @@ EXCLUDED_CONTRACT_KEYWORDS = [
 ]
 
 # Restauration : on écarte les postes de cuisine (chef de partie, commis,
-# plonge...) pour ne garder que le service en salle et le comptoir/barista.
+# plonge...) pour ne garder que le service en salle et le comptoir/barista —
+# SAUF si l'offre est vraiment à côté de chez elle (Paris intra-muros, 75) :
+# dans ce cas précis, autant la voir plutôt que la perdre. Loin de Paris, ça
+# ne vaut pas le coup, donc c'est écarté (voir is_excluded_kitchen_role).
 EXCLUDED_KITCHEN_KEYWORDS = [
     "cuisine", "cuisinier", "cuisinière",
     "chef de partie", "chef de cuisine", "chef cuisinier",
@@ -71,6 +74,19 @@ EXCLUDED_KITCHEN_KEYWORDS = [
     "plongeur", "plongeuse", "plonge",
     "patissier", "pâtissier", "patissiere", "pâtissière",
     "boulanger", "boulangere", "boulangère",
+]
+KITCHEN_EXCEPTION_DEPARTMENT = "75"  # Paris intra-muros — "à côté de chez moi"
+
+# "Dessinateur" est aussi un métier technique du BTP/industrie (dessinateur
+# projeteur, dessinateur BTP, bureau d'études...) qui n'a rien à voir avec
+# l'illustration/BD — ça remonte parfois sur la recherche "dessinateur" et
+# doit être écarté.
+EXCLUDED_TECHNICAL_DRAWING_KEYWORDS = [
+    "projeteur", "dessinateur btp", "dessinateur bâtiment", "dessinateur batiment",
+    "dessinateur industriel", "dessinateur mécanique", "dessinateur mecanique",
+    "dessinateur électrique", "dessinateur electrique", "dessinateur structure",
+    "bureau d'études", "bureau d etudes", "génie civil", "genie civil",
+    "vrd", "cvc", "topographe", "géomètre", "geometre",
 ]
 
 # Postes trop qualifiés/expérimentés : écartés PARTOUT, y compris dans le
@@ -275,9 +291,19 @@ def is_excluded_contract(title: str) -> bool:
     return any(kw in t for kw in EXCLUDED_CONTRACT_KEYWORDS)
 
 
-def is_excluded_kitchen_role(title: str) -> bool:
+def is_excluded_kitchen_role(job: "JobPosting") -> bool:
+    """Écarte les postes de cuisine — sauf s'ils sont vraiment à côté de chez
+    elle (Paris intra-muros, 75), auquel cas ça vaut le coup de les garder
+    malgré tout."""
+    t = (job.title or "").lower()
+    if not any(kw in t for kw in EXCLUDED_KITCHEN_KEYWORDS):
+        return False
+    return extract_department(job.location) != KITCHEN_EXCEPTION_DEPARTMENT
+
+
+def is_excluded_technical_drawing(title: str) -> bool:
     t = (title or "").lower()
-    return any(kw in t for kw in EXCLUDED_KITCHEN_KEYWORDS)
+    return any(kw in t for kw in EXCLUDED_TECHNICAL_DRAWING_KEYWORDS)
 
 
 def is_excluded_senior_role(job: "JobPosting") -> bool:
@@ -620,11 +646,12 @@ def main() -> int:
     print(f"[INFO] {len(jobs)} offres trouvées avant filtrage.")
 
     jobs = [j for j in jobs if not is_excluded_contract(j.title)]
-    jobs = [j for j in jobs if not is_excluded_kitchen_role(j.title)]
+    jobs = [j for j in jobs if not is_excluded_kitchen_role(j)]
+    jobs = [j for j in jobs if not is_excluded_technical_drawing(j.title)]
     jobs = [j for j in jobs if not is_excluded_senior_role(j)]
     jobs = [j for j in jobs if is_in_target_area(j.location)]
     jobs = [j for j in jobs if is_title_relevant(j)]
-    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / niveau / secteur / pertinence).")
+    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / dessin technique / niveau / secteur / pertinence).")
 
     seen = load_json(SEEN_FILE, None)
     is_bootstrap = seen is None
