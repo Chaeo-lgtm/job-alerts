@@ -1711,7 +1711,7 @@
   },
   "https://www.linkedin.com/jobs/view/4467978982": {
     "title": "Chargé d'accueil et de services hôteliers - H/F",
-    "category": "Événementiel",
+    "category": "Accueil / réception",
     "source": "Linkedin",
     "first_seen": "2026-09-22"
   },
@@ -12127,6 +12127,78 @@
   },
   "https://fr.indeed.com/viewjob?jk=18dd01101e8d579c": {
     "title": "Serveur (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.linkedin.com/jobs/view/4469456316": {
+    "title": "CONSERVATEUR / CONSERVATRICE DU MUSÉE JACQUEMART-ANDRÉ",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=81642b0e4ca07559": {
+    "title": "CDD - Chargé/e de projet communication junior F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=8ec8ae92744e73b8": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=13ac91391ce5556e": {
+    "title": "Vendeur(se) numéro 1 H/F en Maroquinerie et Bagagerie",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=22a53da3ae7d2b3c": {
+    "title": "Conseiller(ère) de vente H/F bilingue",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=301fbb0bc7ff9857": {
+    "title": "Vendeur H/F/VELIZY/CDITP",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=434e2e0befef208b": {
+    "title": "VENDEUR(SE) GRANDE SURFACE",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=072868fee7d1ef26": {
+    "title": "Réceptionniste H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=0a429d03737f6539": {
+    "title": "Conseiller Accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=f35789855e9e5b60": {
+    "title": "Hôte(sse) d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.linkedin.com/jobs/view/4470794687": {
+    "title": "RECEPTIONNISTE TOURNANT (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=a9d6bf68a0371e8d": {
+    "title": "Employé polyvalent de restauration (H/F)",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-09-26"
