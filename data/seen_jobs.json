@@ -12370,5 +12370,35 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=0d85afd0f56f2066": {
+    "title": "Vendeur Polyvalent adidas (H/F/D) - CDI 28 Hrs - Flagship des Champs-Elysées",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=6712615e9ce880dc": {
+    "title": "Serveur/Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=51c73bdbbffe4ddd": {
+    "title": "Serveur polyvalent H/F job étudiant",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=b5da863ff28b7ca4": {
+    "title": "Serveur H/F - T/P",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.linkedin.com/jobs/view/4413653585": {
+    "title": "Serveur F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-26"
   }
 }
