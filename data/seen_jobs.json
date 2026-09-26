@@ -11986,5 +11986,77 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-09-25"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/79393731.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.linkedin.com/jobs/view/4472090995": {
+    "title": "Photographe studio freelance",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=5225dad8599132e2": {
+    "title": "Dessinateur Etudes Electricité BT (H/F)",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=a563470c7c084d42": {
+    "title": "Conseiller-ère Vente Cycle (H/F) - Temps partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=91e9c410f11b4823": {
+    "title": "Conseiller Technique de Vente h/f",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=9a7c1aedf6c9a8a3": {
+    "title": "Conseiller technique de vente h/f",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.linkedin.com/jobs/view/4470714575": {
+    "title": "Conseiller de Vente H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83794566.html": {
+    "title": "Conseiller de Vente H/FLegami",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82716872.html": {
+    "title": "Conseiller·e de Vente H/FL'Occitane",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83794646.html": {
+    "title": "Agent d'Accueil H/FLa Société Les Jardins d'Arcadie",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-26"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82705038.html": {
+    "title": "Réceptionniste Confirmé H/FGE RH Expert",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=02883f8ce38170ce": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-26"
   }
 }
