@@ -12664,5 +12664,41 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-09-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81814997.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=05c91db611141bcf": {
+    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Parly 2 - CDI 21h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=3b246a246c222229": {
+    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Beaugrenelle - CDI Temps Partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82782618.html": {
+    "title": "Réceptionniste H/FFLEX-O",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82798024.html": {
+    "title": "Réceptionniste Tournant H/FBarrière",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-09-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=8b59ee34b8a2106b": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-27"
   }
 }
