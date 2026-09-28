@@ -13291,7 +13291,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=5dc57ae761dbc602": {
     "title": "Hôte(sse) d’accueil et de vente - Secteur Automobile (Anglais courant)",
-    "category": "Vente",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-09-28"
   },
@@ -13515,6 +13515,174 @@
     "title": "Serveur - Temps plein F/H",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=6fb1d41cb0696092": {
+    "title": "CS27 - Bac+4 - Chargé de communication (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=c885282102ed1869": {
+    "title": "CHARGE.E DE COMMUNICATION H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=b46d2586609ebf35": {
+    "title": "Community Lead / Senior Community Manager",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83872611.html": {
+    "title": "Chargé de Communication H/FJobmania",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83872609.html": {
+    "title": "Chargé de Communication H/FJobmania",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/79521298.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=5223898e6e7becde": {
+    "title": "Prestige Global Communication & Content Intern - Martell - January 2027",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4469705775": {
+    "title": "Social Media Manager (gestion de comptes de sociétés IA / Ingénierie) H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=acd4e560045086b9": {
+    "title": "Chargé(e) de développement entreprises et événementiel (F/H)",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=07b2b70a6a11f79a": {
+    "title": "Dessinateur",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=f8657945f0281055": {
+    "title": "DESSINATEUR EX¨PERIMENTE (H/F)",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=8e3eb8c154782071": {
+    "title": "VENDEUR CONSEIL PIECES DETACHEES AUTO H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=d7554fb0a7f7c4d5": {
+    "title": "VENDEUR CONSEIL PIECES DETACHEES AUTO H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4463120642": {
+    "title": "Conseiller de vente - 30 Avenue Montaigne - Univers Homme",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4471187119": {
+    "title": "Conseiller de vente (H/F) CDI 35h - Passy",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4471225148": {
+    "title": "CONSEILLER DE VENTE POLYVALENT (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/80754093.html": {
+    "title": "Conseiller de Vente H/FGROUPE CYRIL LIGNAC",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=0f3c4952ce62d953": {
+    "title": "Hôte d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4471525971": {
+    "title": "Hôte(sse) d’accueil - Acteur majeur du secteur des boissons alcoolisées",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4471542435": {
+    "title": "Hôte d'Accueil Restauration (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=31af11e0fc251714": {
+    "title": "Job étudiant Employé polyvalent en restauration H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=3254ced72a71e6ca": {
+    "title": "Equipier polyvalent restauration rapide H/F 24h",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=da95ee1c78007d56": {
+    "title": "Serveur/Serveuse/Runneuse H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=654ed1f7b002d329": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=ab248ec6f29316e4": {
+    "title": "EMPLOYE DE RESTAURATION H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=1224077da9578faa": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4471525898": {
+    "title": "Commis de salle (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/79520396.html": {
+    "title": "Employé Polyvalent de Restauration H/FGaleries Lafayette",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-09-28"
   }
 }
