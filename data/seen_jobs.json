@@ -12700,5 +12700,29 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-09-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=e4b47c0f21154c47": {
+    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Beaugrenelle - CDI Temps Partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4470832253": {
+    "title": "Vendeur (H/F) en magasin - Saint Denis",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=db4cc287b08a08e6": {
+    "title": "AGENT ADMINISTRATIF ACCUEIL – ADMISSION H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-09-28"
+  },
+  "https://www.linkedin.com/jobs/view/4471331119": {
+    "title": "SERVEUR(SE)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-09-28"
   }
 }
