@@ -54,12 +54,19 @@ RESULTS_PER_SEARCH = 20             # nb de résultats à examiner par recherche
 TARGET_DEPARTMENTS = {"75", "92", "94"}
 EXCLUDED_DEPARTMENTS = {"93", "77", "78", "91", "95"}
 
-# Titres contenant un de ces mots = offre écartée (stages et alternances).
-EXCLUDED_CONTRACT_KEYWORDS = [
-    "stage", "stagiaire",
+# Alternance/apprentissage : toujours écartés, quelle que soit la catégorie.
+EXCLUDED_ALTERNANCE_KEYWORDS = [
     "alternance", "alternant", "alternante",
     "apprenti", "apprentie", "apprentissage",
 ]
+# Stage : écarté partout SAUF dans le domaine culturel/créatif (illustration,
+# médiation culturelle/bibliothèque), où un stage reste pertinent pour se
+# faire une expérience/un pied à l'étrier.
+EXCLUDED_STAGE_KEYWORDS = ["stage", "stagiaire"]
+STAGE_ALLOWED_CATEGORIES = {
+    "Illustration / arts visuels",
+    "Médiation culturelle / bibliothèque",
+}
 
 # Restauration : on écarte les postes de cuisine (chef de partie, commis,
 # plonge...) pour ne garder que le service en salle et le comptoir/barista —
@@ -286,9 +293,16 @@ def is_recent_enough(job: "JobPosting", max_days: int = MAX_AGE_DAYS) -> bool:
 # Filtres : contrat (pas de stage/alternance) et département (75/92/94)
 # --------------------------------------------------------------------------
 
-def is_excluded_contract(title: str) -> bool:
-    t = (title or "").lower()
-    return any(kw in t for kw in EXCLUDED_CONTRACT_KEYWORDS)
+def is_excluded_contract(job: "JobPosting") -> bool:
+    """Alternance/apprentissage toujours écartés. Stage écarté partout SAUF
+    dans le domaine culturel/créatif (illustration, médiation culturelle/
+    bibliothèque), où c'est une vraie porte d'entrée pertinente pour elle."""
+    t = (job.title or "").lower()
+    if any(kw in t for kw in EXCLUDED_ALTERNANCE_KEYWORDS):
+        return True
+    if any(kw in t for kw in EXCLUDED_STAGE_KEYWORDS):
+        return job.category not in STAGE_ALLOWED_CATEGORIES
+    return False
 
 
 def is_excluded_kitchen_role(job: "JobPosting") -> bool:
@@ -645,7 +659,7 @@ def main() -> int:
     jobs = dedupe_by_id(collect_all_jobs())
     print(f"[INFO] {len(jobs)} offres trouvées avant filtrage.")
 
-    jobs = [j for j in jobs if not is_excluded_contract(j.title)]
+    jobs = [j for j in jobs if not is_excluded_contract(j)]
     jobs = [j for j in jobs if not is_excluded_kitchen_role(j)]
     jobs = [j for j in jobs if not is_excluded_technical_drawing(j.title)]
     jobs = [j for j in jobs if not is_excluded_senior_role(j)]
