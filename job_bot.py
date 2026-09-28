@@ -305,6 +305,16 @@ def is_excluded_contract(job: "JobPosting") -> bool:
     return False
 
 
+def is_excluded_stage_location(job: "JobPosting") -> bool:
+    """Contrairement au reste (75/92/94), un stage n'est gardé que s'il est
+    vraiment à Paris (75) — pas en petite couronne, et pas si le lieu est
+    indéterminable."""
+    t = (job.title or "").lower()
+    if not any(kw in t for kw in EXCLUDED_STAGE_KEYWORDS):
+        return False
+    return extract_department(job.location) != "75"
+
+
 def is_excluded_kitchen_role(job: "JobPosting") -> bool:
     """Écarte les postes de cuisine — sauf s'ils sont vraiment à côté de chez
     elle (Paris intra-muros, 75), auquel cas ça vaut le coup de les garder
@@ -660,12 +670,13 @@ def main() -> int:
     print(f"[INFO] {len(jobs)} offres trouvées avant filtrage.")
 
     jobs = [j for j in jobs if not is_excluded_contract(j)]
+    jobs = [j for j in jobs if not is_excluded_stage_location(j)]
     jobs = [j for j in jobs if not is_excluded_kitchen_role(j)]
     jobs = [j for j in jobs if not is_excluded_technical_drawing(j.title)]
     jobs = [j for j in jobs if not is_excluded_senior_role(j)]
     jobs = [j for j in jobs if is_in_target_area(j.location)]
     jobs = [j for j in jobs if is_title_relevant(j)]
-    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / cuisine / dessin technique / niveau / secteur / pertinence).")
+    print(f"[INFO] {len(jobs)} offres retenues après filtrage (contrat / lieu stage / cuisine / dessin technique / niveau / secteur / pertinence).")
 
     seen = load_json(SEEN_FILE, None)
     is_bootstrap = seen is None
