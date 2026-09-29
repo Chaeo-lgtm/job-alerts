@@ -8197,7 +8197,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=0abdf293804055dc": {
     "title": "Equipier polyvalent restauration rapide H/F 10h",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-09-23"
   },
@@ -13684,5 +13684,59 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-09-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82741051.html": {
+    "title": "Assistant Communication et Marketing Opérationnel - Paris 12E H/FExponens",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-09-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=2dbd929365eba5aa": {
+    "title": "Vendeur 25h à Chambourcy f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-09-29"
+  },
+  "https://www.linkedin.com/jobs/view/4471594195": {
+    "title": "Conseiller/ère de vente",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-09-29"
+  },
+  "https://www.linkedin.com/jobs/view/4471237034": {
+    "title": "RECEPTIONNISTE DE NUIT (H/F/NB)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-09-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=8d0f9dd60e52d335": {
+    "title": "Commis de salle - Tennis club de Paris 16 (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=e7132ff7277cc10b": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=0ec3a57462f66b28": {
+    "title": "Serveur - EHPAD Cognacq-Jay Rueil-Malmaison (92) H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=e0eecdbf628eb199": {
+    "title": "Employé polyvalent de restauration - EHPAD COGNACQ JAY RUEIL MALMAISON H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=e83cd7e72df4806b": {
+    "title": "Employé polyvalent de restauration - EHPAD COGNACQ JAY RUEIL MALMAISON H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-09-29"
   }
 }
