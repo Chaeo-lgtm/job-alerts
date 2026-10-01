@@ -15874,5 +15874,77 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-09-30"
+  },
+  "https://fr.indeed.com/viewjob?jk=dc4ef0086d9c6b92": {
+    "title": "Assistant Communication",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-01"
+  },
+  "https://www.linkedin.com/jobs/view/4444978120": {
+    "title": "Social Media Manager - BeReal",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-01"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83460224.html": {
+    "title": "Createur·trice de Contenus Social Media Manager H/FService Public",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=1d6e86a10ae44b38": {
+    "title": "Adjoint du chef de pôle / Chef de projet événementiel, logisticien confirmé d’événement (H/F)",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=a2c39ecd398bb7f7": {
+    "title": "Conseiller.ère de vente (H/F) - CDI - 24h - Montorgeuil",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-01"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/80848231.html": {
+    "title": "Conseiller de Vente H/FInstitut F2I",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=d77893efe02c03b5": {
+    "title": "Réceptionniste H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=0343ee9a5f21ae70": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-01"
+  },
+  "https://www.linkedin.com/jobs/view/4473793217": {
+    "title": "Réceptionniste Tournant H/F - Melia Vendôme (Paris, France)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=7659ab8f52159682": {
+    "title": "Job datting Equipiers Polyvalents - Rosny",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-01"
+  },
+  "https://www.linkedin.com/jobs/view/4473995393": {
+    "title": "Employé libre-service polyvalent (f/h)",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-10-01"
+  },
+  "https://www.linkedin.com/jobs/view/4473996264": {
+    "title": "Employé de Restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-01"
   }
 }
