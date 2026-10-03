@@ -18556,5 +18556,59 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-03"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/80623801.html": {
+    "title": "Conseiller de Vente H/FInstitut F2I",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-03"
+  },
+  "https://fr.indeed.com/viewjob?jk=4c9d3710c6eefc4f": {
+    "title": "Ambassadeur Expérience Client/Réceptionniste F/H – CDD",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-03"
+  },
+  "https://fr.indeed.com/viewjob?jk=335a183af2df02de": {
+    "title": "Ambassadeur Expérience Client/Réceptionniste F/H – CDD",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-03"
+  },
+  "https://www.linkedin.com/jobs/view/4473880280": {
+    "title": "RECEPTIONNISTE NUIT H/F - BOUDOIR DES MUSES",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-03"
+  },
+  "https://www.linkedin.com/jobs/view/4473452442": {
+    "title": "Equipier magasin F/H",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-10-03"
+  },
+  "https://fr.indeed.com/viewjob?jk=c50ab2cfcf56e9a0": {
+    "title": "Serveur/Serveuse en salle et au bar H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-03"
+  },
+  "https://fr.indeed.com/viewjob?jk=cf1c00b113f9d8f3": {
+    "title": "Serveur Room Service F/H",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-03"
+  },
+  "https://fr.indeed.com/viewjob?jk=464f5fab60494734": {
+    "title": "Employé polyvalent de restauration - EHPAD COGNACQ JAY RUEIL MALMAISON H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-03"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84065855.html": {
+    "title": "Employé Polyvalent- Serveur - CDD H/FLS Negotium",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-10-03"
   }
 }
