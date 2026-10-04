@@ -18610,5 +18610,23 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-03"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83000080.html": {
+    "title": "Conseiller de Vente H/FVANESSA BRUNO",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4474734132": {
+    "title": "Chargé d’accueil/Chargée d’accueil",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=368f5ea87a7416c6": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
   }
 }
