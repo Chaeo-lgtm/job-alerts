@@ -13195,7 +13195,7 @@
   },
   "https://www.linkedin.com/jobs/view/4470875502": {
     "title": "Coordinateur(trice) Marketing et Communication – Événements EMEA",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Linkedin",
     "first_seen": "2026-09-28"
   },
@@ -18693,6 +18693,54 @@
     "title": "Serveur Room Service F/H",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=8ff62290c31acdba": {
+    "title": "Vendeur / Vendeuse Fromagerie à temps partiel - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=cfbb6e8fd99b9f52": {
+    "title": "Vendeur(se) en boulangerie-pâtisserie, référent(e) magasin CDI temps partiel 20h/semaine 16h/20h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4447127315": {
+    "title": "CDI - Conseiller de Ventes H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4473479731": {
+    "title": "CHARGE D'ACCUEIL  CDI F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=ed99135f385a843b": {
+    "title": "Serveur/Serveuse/Runneuse H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=a1622e132c779e03": {
+    "title": "Serveur/se en Restaurant H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4474212612": {
+    "title": "SERVEUR(SE)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4403241448": {
+    "title": "Serveur F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-04"
   }
 }
