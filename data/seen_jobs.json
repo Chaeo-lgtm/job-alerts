@@ -13195,7 +13195,7 @@
   },
   "https://www.linkedin.com/jobs/view/4470875502": {
     "title": "Coordinateur(trice) Marketing et Communication – Événements EMEA",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-09-28"
   },
@@ -18741,6 +18741,54 @@
     "title": "Serveur F/H",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=c1f32a283ea9a0d9": {
+    "title": "Conseiller de Vente CDD H/F – Levallois So Ouest | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=44d9c0dde1976369": {
+    "title": "VENDEUR H/F FROMAGE CHARCUTERIE",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=eda260a48b87fedd": {
+    "title": "Vendeur en boulangerie-pâtisserie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4475512178": {
+    "title": "Vendeuse/vendeur",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4475345040": {
+    "title": "Hôte de caisse / Employé polyvalent H/F",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=91df4becc51efba3": {
+    "title": "BARISTA SERVEUR(SE) CONFIRMÉ",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=32fd7b7f1b4fd014": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=62b4b4892df3fb7e": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-10-04"
   }
 }
