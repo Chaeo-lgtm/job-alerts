@@ -13195,7 +13195,7 @@
   },
   "https://www.linkedin.com/jobs/view/4470875502": {
     "title": "Coordinateur(trice) Marketing et Communication – Événements EMEA",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-09-28"
   },
@@ -18625,6 +18625,30 @@
   },
   "https://fr.indeed.com/viewjob?jk=368f5ea87a7416c6": {
     "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=ee6397c452f7c7a7": {
+    "title": "Assistant(e) accueil et administratif(ve) H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4473902934": {
+    "title": "Réceptionniste Welcomer tournant (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4473883831": {
+    "title": "RECEPTIONNISTE NUIT H/F - LES GRANDES ECOLES",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-04"
+  },
+  "https://fr.indeed.com/viewjob?jk=5daef0ec5717a699": {
+    "title": "Serveur / Serveuse en restauration",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-04"
