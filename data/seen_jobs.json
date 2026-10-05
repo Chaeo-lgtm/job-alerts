@@ -13195,7 +13195,7 @@
   },
   "https://www.linkedin.com/jobs/view/4470875502": {
     "title": "Coordinateur(trice) Marketing et Communication – Événements EMEA",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Linkedin",
     "first_seen": "2026-09-28"
   },
@@ -18844,5 +18844,41 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-04"
+  },
+  "https://www.linkedin.com/jobs/view/4475533086": {
+    "title": "Communications Intern - Manufacturing & Supply",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-05"
+  },
+  "https://fr.indeed.com/viewjob?jk=d198a99e2cb807f8": {
+    "title": "Assistant de vente drive (F/H)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-05"
+  },
+  "https://fr.indeed.com/viewjob?jk=dbac94762b370a73": {
+    "title": "Vendeur F/H - CDI - Temps Plein",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-05"
+  },
+  "https://fr.indeed.com/viewjob?jk=0674475a191b88aa": {
+    "title": "Employé Restauration F/H - CDI - Temps plein",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-05"
+  },
+  "https://fr.indeed.com/viewjob?jk=4668148cd258016a": {
+    "title": "Employé Restauration F/H - CDI - Temps Partiel",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-05"
+  },
+  "https://fr.indeed.com/viewjob?jk=cae00f8f89c820e3": {
+    "title": "SERVEUR H/F CDI",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-05"
   }
 }
