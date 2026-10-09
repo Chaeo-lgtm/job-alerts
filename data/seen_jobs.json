@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Communication / création de contenu",
+    "category": "Médiation culturelle / bibliothèque",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -23131,7 +23131,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=f774b469bc0994fc": {
     "title": "Chargé.e de communication et événementiel",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-10-09"
   },
@@ -23607,6 +23607,102 @@
     "title": "Employé Polyvalent Restauration H/F",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-09"
+  },
+  "https://www.linkedin.com/jobs/view/4477846600": {
+    "title": "CHARGÉ(E) DE MARKETING & COMMUNICATION JUNIOR (H F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=75c41ea58175ce73": {
+    "title": "Global Social Media Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=6ee26baa5108fc13": {
+    "title": "UX/UI Designer & Graphiste - H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=cbd5d12b3408fe59": {
+    "title": "Vendeurs (f/h) - CDI 35h/25h/16h - Rosny",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=761caa909d0d03e7": {
+    "title": "Vendeur/Vendeuse en boulangerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=969dca06a1f302be": {
+    "title": "CDI- VENDEUR TISSOT LA DEFENSE (H/F)- 14H SAMEDI/DIMANCHE",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=d0acd98e6f9ca4b2": {
+    "title": "Vendeur Polyvalent H/F - CDI Temps Plein - Eataly Paris Marais",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=2dc39647066630b2": {
+    "title": "Vendeur polyvalent en magasin Bio H/F 25h/semaine",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://www.linkedin.com/jobs/view/4476854575": {
+    "title": "Conseiller de vente (H/F) CDI 35h - Forum des Halles",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=498e8cc04b026a9c": {
+    "title": "Conseiller de Vente - Printemps Haussmann (h/f)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83218781.html": {
+    "title": "Conseiller de Vente H/FAndrew Staffing",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=4867cd7a918c92f2": {
+    "title": "AGENT D'ACCUEIL ET D'ENTRETIEN DES INTALLATIONS SPORTIVES (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://www.linkedin.com/jobs/view/4476862682": {
+    "title": "Réceptionniste en hôtellerie (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-09"
+  },
+  "https://www.linkedin.com/jobs/view/4477877326": {
+    "title": "Hôtesse d'Accueil Restauration",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=2ce1325954da41a1": {
+    "title": "RECEPTIONNISTE H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=f1892609a353a5cc": {
+    "title": "Équipier Polyvalent en Restauration - 20h (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
     "first_seen": "2026-10-09"
   }
 }
