@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Médiation culturelle / bibliothèque",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -23799,6 +23799,48 @@
     "title": "Employé polyvalent / Employée polyvalente de restauration (H/F)",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=42e97c9d146188ec": {
+    "title": "Conseiller-ère Vente Omnicanal (H/F) - Sports Co' & Eau - Temps partiel (20h)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=4cdf1127aebb68ee": {
+    "title": "conseiller·ère de vente f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4478050182": {
+    "title": "Conseiller(e) de vente (F/H) - Paris Victor Hugo- CDI 35H",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4475611387": {
+    "title": "CONSEILLER DE VENTE (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4475712358": {
+    "title": "Serveur / Serveuse en CDI (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4474684737": {
+    "title": "Serveur petits-déjeuners - CDI F/H - Ibis Style Paris Romainville ***",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=c3184d97a0b9d12c": {
+    "title": "Employé Polyvalent Restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-10-10"
   }
 }
