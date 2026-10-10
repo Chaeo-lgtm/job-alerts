@@ -23131,7 +23131,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=f774b469bc0994fc": {
     "title": "Chargé.e de communication et événementiel",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-09"
   },
@@ -23840,6 +23840,60 @@
   "https://fr.indeed.com/viewjob?jk=c3184d97a0b9d12c": {
     "title": "Employé Polyvalent Restauration H/F",
     "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=eecb571590687092": {
+    "title": "Chargé d'Affaires Structures Événementielles et Scéniques H/F",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84319400.html": {
+    "title": "Conseiller de Vente H/FGroupe Eram",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=8f88942305094568": {
+    "title": "Agent d'accueil et admissions - Week-end [107100]",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=1c0d74b06ce68fe9": {
+    "title": "Agent des services administratif - accueil urgences (F/H)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=34f853d8dbd839a0": {
+    "title": "Employé polyvalent en restauration rapide H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=136220bc3f3e582d": {
+    "title": "Equipier polyvalent",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=359607d464f005a1": {
+    "title": "Equipier Polyvalent Etudiant (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4478054929": {
+    "title": "Employé libre-service polyvalent (f/h)",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=3bbdac1ed69e52a1": {
+    "title": "Equipière polyvalente en restauration rapide H/F",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-10"
   }
