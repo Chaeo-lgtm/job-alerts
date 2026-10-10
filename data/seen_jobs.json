@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Médiation culturelle / bibliothèque",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -23131,7 +23131,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=f774b469bc0994fc": {
     "title": "Chargé.e de communication et événementiel",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-10-09"
   },
@@ -23943,6 +23943,60 @@
     "title": "Equipiers Polyvalents H/F",
     "category": "Équipier polyvalent",
     "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4475622665": {
+    "title": "Communications Intern",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=efdc760b194cac75": {
+    "title": "Vendeur Polyvalent adidas (H/F/D) - CDI Temps Partiel 21h, 14h, 7h - Lyon / Vaulx-en-Velin",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=422d11a5cd543636": {
+    "title": "Conseiller·ère de vente - Renfort Noël - Paris et Boulogne",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4477242130": {
+    "title": "Réceptionniste (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4477224569": {
+    "title": "RÉCEPTIONNISTE en CDI (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=193ac8b1e9becf71": {
+    "title": "RÉCEPTIONNISTE en CDI (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4477240075": {
+    "title": "RÉCEPTIONNISTE en CDI (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=63377d7019a11e4b": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84321216.html": {
+    "title": "Employé de Restaurant CDD H/FASF RESTAURATION",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-10-10"
   }
 }
