@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Communication / création de contenu",
+    "category": "Médiation culturelle / bibliothèque",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -23895,6 +23895,54 @@
     "title": "Equipière polyvalente en restauration rapide H/F",
     "category": "Équipier polyvalent",
     "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4460512410": {
+    "title": "STAGE - Assistant(e) Patrimoine (H/F)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4477216983": {
+    "title": "Field Marketing & Community Lead",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=32d4543c7468ac7e": {
+    "title": "Vendeur - CDD (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=358e749d9fd1223f": {
+    "title": "Vendeur en boulangerie-pâtisserie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4477223396": {
+    "title": "VENDEUR/EUSE POLYVALENT \\\\ CDI 35H",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=05cfab554b527ddb": {
+    "title": "Conseiller de vente H/F - renforts fin d'année",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=bde15aed8c90d18f": {
+    "title": "Agent d’accueil de la Maison Sociale H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-10"
+  },
+  "https://www.linkedin.com/jobs/view/4478068605": {
+    "title": "Equipiers Polyvalents H/F",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
     "first_seen": "2026-10-10"
   }
 }
