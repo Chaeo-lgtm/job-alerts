@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Communication / création de contenu",
+    "category": "Médiation culturelle / bibliothèque",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -23131,7 +23131,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=f774b469bc0994fc": {
     "title": "Chargé.e de communication et événementiel",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-09"
   },
@@ -24002,6 +24002,60 @@
   "https://fr.indeed.com/viewjob?jk=c321e80d481ce8a1": {
     "title": "Equipier magasin F/H",
     "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=e7ef00104c20d7d8": {
+    "title": "Chargé de Communication Interne & Externe Hf H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=319ada5668f5d196": {
+    "title": "Vendeur (H/F)-cdi 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=4bf5861081445f7f": {
+    "title": "Vendeur - CDD (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=296278d82ce5d900": {
+    "title": "Vendeur(se) 35h CDD Rue de Rivoli",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=15de04491a2ca21c": {
+    "title": "Hôte / Hôtesse d’accueil VIP – CDG",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=c90dbcd991aac558": {
+    "title": "Serveur H/F CDI",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=420b0b426664912e": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=1c5b9a3a07683f15": {
+    "title": "Barista / Employé Polyvalent de Restauration H/F - Starbucks",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=89a77313894bf347": {
+    "title": "Employé polyvalent en restauration H/F - POEI",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-11"
   }
