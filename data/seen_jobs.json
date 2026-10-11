@@ -23998,5 +23998,11 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=c321e80d481ce8a1": {
+    "title": "Equipier magasin F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
   }
 }
