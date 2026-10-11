@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Communication / création de contenu",
+    "category": "Médiation culturelle / bibliothèque",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -24055,6 +24055,30 @@
   },
   "https://fr.indeed.com/viewjob?jk=89a77313894bf347": {
     "title": "Employé polyvalent en restauration H/F - POEI",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=b0e9fd58d7454525": {
+    "title": "Conseiller de ventes H/F Equipe du matin",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=9133aeb2dbffbe38": {
+    "title": "Conseiller de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-11"
+  },
+  "https://www.linkedin.com/jobs/view/4478339577": {
+    "title": "Hôte d'accueil polyvalent",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=113c2fd0f8b98ab8": {
+    "title": "Employé polyvalent en restauration H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-11"
