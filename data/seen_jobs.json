@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Médiation culturelle / bibliothèque",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -24082,5 +24082,29 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=e80e8188a04b1069": {
+    "title": "Vendeuse/Vendeur - Boulangerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=d6c512752b9ca44f": {
+    "title": "Conseiller de vente - Renfort fin d'année F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=35ed06310d67985e": {
+    "title": "Conseiller de Vente H/F – Paris Gare de l'Est | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=5baa7f07422c47df": {
+    "title": "Employé polyvalent/ Livreur en restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
   }
 }
