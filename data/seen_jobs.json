@@ -22303,7 +22303,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477130801": {
     "title": "Community Manager senior pour un média culturel en ligne",
-    "category": "Communication / création de contenu",
+    "category": "Médiation culturelle / bibliothèque",
     "source": "Linkedin",
     "first_seen": "2026-10-08"
   },
@@ -24103,6 +24103,66 @@
   },
   "https://fr.indeed.com/viewjob?jk=5baa7f07422c47df": {
     "title": "Employé polyvalent/ Livreur en restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://www.linkedin.com/jobs/view/4475680713": {
+    "title": "Montage Vidéo - Média Sport & Podcast",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-12"
+  },
+  "https://www.linkedin.com/jobs/view/4475229314": {
+    "title": "Journaliste vidéo Brand Content (CDD/CDI)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-12"
+  },
+  "https://www.linkedin.com/jobs/view/4477651719": {
+    "title": "Créateur·rice de podcast vidéo(H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-12"
+  },
+  "https://www.linkedin.com/jobs/view/4477413010": {
+    "title": "JOURNALISTE VIDÉO (F/H)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=0270cb90df115a10": {
+    "title": "Vendeur / Vendeuse en boulangerie-pâtisserie Salon de Thé (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=c34a7301f6b3548e": {
+    "title": "Conseiller(e) Vente boutique CDI 20/25 heures",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=33c03f0174fd72c6": {
+    "title": "JOB ETUDIANT - CONSEILLER(E) DE VENTE Kiabi Fresnes",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=e94a15accdd2e769": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=737bf77e0e5de288": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=84258e7bc1cda731": {
+    "title": "Employé polyvalent en restauration H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-12"
