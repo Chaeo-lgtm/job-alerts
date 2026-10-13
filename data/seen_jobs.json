@@ -23329,7 +23329,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=f5ccba2f52831d41": {
     "title": "Equipier(ère) polyvalent restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-09"
   },
@@ -24205,7 +24205,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -24529,7 +24529,7 @@
   },
   "https://www.linkedin.com/jobs/view/4478547851": {
     "title": "Social Media Video Editor & Designer",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -24748,5 +24748,59 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=5abf9cfb76849813": {
+    "title": "Médiateur / Gestionnaire de l’espace pédagogique « Vosegia »",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=570b8e2a8eba4429": {
+    "title": "Assistant des technologies de l'information et de la communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=30cd4b5a37ec1e24": {
+    "title": "Vendeur polyvalent en magasin Bio H/F 20h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
+  },
+  "https://www.linkedin.com/jobs/view/4478502316": {
+    "title": "Réceptionniste",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=9b9363765dd1c30e": {
+    "title": "Poste de serveur/barman",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=92839827198e38e7": {
+    "title": "Serveur & Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=dedcae4d0cd2847f": {
+    "title": "Runner/Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
+  },
+  "https://www.linkedin.com/jobs/view/4478713930": {
+    "title": "Serveur(se) F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=9aeafa0f1d55dfaf": {
+    "title": "Employé polyvalent en restauration rapide H/F - CDI Temps partiel 15h/hebdo",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-13"
   }
 }
