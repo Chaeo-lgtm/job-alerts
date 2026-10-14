@@ -25402,5 +25402,65 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-13"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84411641.html": {
+    "title": "Service Civique - Favoriser la Rencontre de Nouveaux Publics Éloignés des Musées à la Cité de l'Economie H/FCiteco",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-10-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=4d5c3fff3e99f52d": {
+    "title": "Agent de bibliotheque charge de collections (h/f)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-10-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=37fa10121026c263": {
+    "title": "Vendeur(euse) en CDI 12H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-14"
+  },
+  "https://www.linkedin.com/jobs/view/4479007125": {
+    "title": "Conseiller de vente joaillerie/luxe (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-14"
+  },
+  "https://www.linkedin.com/jobs/view/4475780874": {
+    "title": "Conseiller de vente H/F - François 1er - Paris - CDI",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-14"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84332591.html": {
+    "title": "Chargé Accueil H/FIFAE Accueil",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=e2893b415a73893d": {
+    "title": "Hôte(sse) d’accueil Standardiste F/H - CDD 1 mois",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-14"
+  },
+  "https://www.linkedin.com/jobs/view/4479235550": {
+    "title": "Réceptionniste de Jour F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-14"
+  },
+  "https://www.linkedin.com/jobs/view/4478150542": {
+    "title": "FR - Réceptionniste (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-14"
+  },
+  "https://www.linkedin.com/jobs/view/4478159236": {
+    "title": "SERVEUR (H/F/X)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-14"
   }
 }
