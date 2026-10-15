@@ -24205,7 +24205,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -24529,7 +24529,7 @@
   },
   "https://www.linkedin.com/jobs/view/4478547851": {
     "title": "Social Media Video Editor & Designer",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -26877,6 +26877,132 @@
     "title": "Employé(e) polyvalent de restauration H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479136983": {
+    "title": "Chargé(e) de communication digitale H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=84ccc09e4855a5c4": {
+    "title": "Conseiller de Vente CDD H/F – Paris Bercy Village | 16-24h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=004711a3e4c35667": {
+    "title": "Vendeur/Vendeuse en boulangerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=99fc4d346242a39c": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4477304054": {
+    "title": "Vendeur F/H - CDI 35h",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4477328357": {
+    "title": "CDI - Vendeur magasin - Nanterre - H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=147ef174559f1071": {
+    "title": "CDD - Conseiller.e de vente - Fragrances - Estée Lauder Companies - Galeries Lafayette - 35h H/F/X",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=bdf7d9d744ef34e2": {
+    "title": "Agent d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479156505": {
+    "title": "Réceptionniste polyvalent (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479170199": {
+    "title": "FR - Réceptionniste (H/F/X) Tournant",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=3b58b1c2402c9114": {
+    "title": "Hôte de caisse et d’accueil (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=a2ed025d176c84c7": {
+    "title": "Equipier Polyvalent en restauration rapide H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=676bd89649d100b4": {
+    "title": "Equipier Polyvalent H/F CDD 14h",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=a6dbdc8762938508": {
+    "title": "Equipier Polyvalent de Nuit en Hôtellerie (H/F), CDI, Temps Plein",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=8ff3cc37e0f1a54a": {
+    "title": "Serveur/Runner H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=b16bff2dbdf23a9f": {
+    "title": "Barista / Serveuse H/F à Temps Plein",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=b0292c9fd54904aa": {
+    "title": "Poste de serveur/barman",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=66b503ec8cf6fcd7": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=5212ed6214cae702": {
+    "title": "Barman & Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479170200": {
+    "title": "SERVEUR Soir - 35 H (H/F/X)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479164281": {
+    "title": "Serveur/Runner (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-15"
   }
 }
