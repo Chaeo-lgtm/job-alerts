@@ -25717,7 +25717,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=fe2db01cabe097c0": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-14"
   },
@@ -26217,6 +26217,60 @@
     "title": "Conseillère/Conseiller de vente - CDD 6 mois - Paris (F/H)",
     "category": "Vente",
     "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4478826370": {
+    "title": "CDI - Chef(fe) de projet événementiel",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479776158": {
+    "title": "Dessinateur en agencement (H/F)",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=6a5bb02e42255901": {
+    "title": "Vendeur F/H - CDD du 23 Novembre au 13 Décembre - Temps Partiel 25H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=b6b156af52d9a112": {
+    "title": "RECEPTIONNISTE NUIT H/F - HOTEL CRAYON PARIS 1",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4478820790": {
+    "title": "RECEPTIONNISTE NUIT H/F - HOTEL CRAYON*** PARIS 1",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=bdcbb7553e951463": {
+    "title": "Employé polyvalent de rest/Equipier (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=39933de0494f36b4": {
+    "title": "Extra - Femme de chambre / Valet équipier (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4476803512": {
+    "title": "EMPLOYE DE RESTAURATION H/F H/F",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4476606500": {
+    "title": "Agent d'entretien et de restauration F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-15"
   }
 }
