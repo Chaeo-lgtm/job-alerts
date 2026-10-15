@@ -25717,7 +25717,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=fe2db01cabe097c0": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-14"
   },
@@ -26182,5 +26182,41 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-14"
+  },
+  "https://www.linkedin.com/jobs/view/4478483986": {
+    "title": "Graphiste polyvalent (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479710678": {
+    "title": "Dessinateur PID H/F",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://www.linkedin.com/jobs/view/4479721663": {
+    "title": "Dessinateur Bureau d'Etudes H/F",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=e1df946869b01dd6": {
+    "title": "Vendeur/Vendeuse en boulangerie pâtisserie chocolaterie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=278686251f020100": {
+    "title": "Vendeur/Vendeuse de glaces à temps partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=301fed29957c8597": {
+    "title": "Conseillère/Conseiller de vente - CDD 6 mois - Paris (F/H)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-15"
   }
 }
