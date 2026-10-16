@@ -24529,7 +24529,7 @@
   },
   "https://www.linkedin.com/jobs/view/4478547851": {
     "title": "Social Media Video Editor & Designer",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -26947,7 +26947,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=a2ed025d176c84c7": {
     "title": "Equipier Polyvalent en restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-15"
   },
@@ -27153,6 +27153,90 @@
     "title": "Employé(e) polyvalent(e) de restauration - cuisine H/F (H/F)",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84494486.html": {
+    "title": "Community Manager Épargne H/FFinaïa",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479335426": {
+    "title": "Assistant(e) Service Voyages & Événements - Anglais bilingue",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479336807": {
+    "title": "Graphiste Designer Senior (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4477371372": {
+    "title": "Graphiste Multimédia et Communication Prévention (F/H)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84493674.html": {
+    "title": "Dessinateur - Dessinatrice à Paris 8Ème H/FSystea Energie",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84493621.html": {
+    "title": "Dessinateur - Dessinatrice à Paris 8Ème H/FSystea Energie",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=e61eef0ca8f4862b": {
+    "title": "Vendeur H/F 15h - CDI - Cours de Vincennes",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=b9ec8d4eea04d22d": {
+    "title": "Agent social accueil de jour F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479327638": {
+    "title": "FR - Réceptionniste (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4476687427": {
+    "title": "Réceptionniste de Nuit (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84496715.html": {
+    "title": "Hôte d'Accueil H/FENZA FAMIGLIA",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479314657": {
+    "title": "Réceptionniste F/H - HGI Paris La villette",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=ea68a40baeab532d": {
+    "title": "Serveur / Serveuse de restaurant",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=1e249aee109af016": {
+    "title": "Serveur polyvalent H/F TEMPS PARTIEL MIDI",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-10-16"
   }
 }
