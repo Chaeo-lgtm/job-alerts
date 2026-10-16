@@ -27076,5 +27076,83 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=2005374aca9d9319": {
+    "title": "Charge·e Communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4462457409": {
+    "title": "E-reputation & Social Media Associate H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479306243": {
+    "title": "Communication, Médias, Créations de contenu - Paris H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=07f168aef5995787": {
+    "title": "Vendeur 35h à Villeneuve la Garenne f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=e7f835fe105b7b1d": {
+    "title": "Conseiller de vente F/H/N - CDD Temps partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=f4370266fb61de9a": {
+    "title": "Copy of HOTE(ESSE) D'ACCUEIL AEROPORTUAIRE CDG (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4475683272": {
+    "title": "Chargé clientèle / accueil guest relation (h/f)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=008cb1e8b9177550": {
+    "title": "Réceptionniste tournant(e) 25H/SEM",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=c6b02306dc89a8cb": {
+    "title": "Employé Restauration F/H - CDI - Temps plein",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479323355": {
+    "title": "Serveur / Serveuse (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4480191229": {
+    "title": "Serveur / Serveuse de restaurant",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479326089": {
+    "title": "Serveur (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479301976": {
+    "title": "Employé(e) polyvalent(e) de restauration - cuisine H/F (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
   }
 }
