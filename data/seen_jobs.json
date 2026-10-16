@@ -24205,7 +24205,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -27555,6 +27555,102 @@
     "title": "Employé Polyvalent de Restauration H/FElior",
     "category": "Restauration (service)",
     "source": "HelloWork",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4480543046": {
+    "title": "Médiateur Culturel H/F",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=7ef9c2a36482521b": {
+    "title": "Chargé·e de Communication et Marketing Digital H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4480527625": {
+    "title": "Chargé de communication éditoriale - H/F - CDI",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4477736003": {
+    "title": "Social Media and Content Strategist - Community",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=e98d55c69034b652": {
+    "title": "Vendeur (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=1b3fd77453313871": {
+    "title": "Conseiller(ère) de Vente (CDI 20h) - Paris Brand Centre (Le Marais)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=71fc6f35b2f765a4": {
+    "title": "Vendeurs (f/h) - CDI 35h - Villeneuve la Garenne",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=13d623f6099f6d18": {
+    "title": "Conseiller de Vente CDD Noël H/F – Paris Passy | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=fe63b51b324950cf": {
+    "title": "Vendeur H/F CDI",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479384882": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4477709339": {
+    "title": "CDI Vendeur (H/F) en magasin - Gonesse",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=58350b545d31d3e2": {
+    "title": "Conseiller de vente (H/F) CDD 21h - Vincennes",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4480526460": {
+    "title": "Hôte/Hôtesse d&rsquo;Accueil &#8211; H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=37982cf95233fa79": {
+    "title": "RECEPTIONNISTE H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=6fa084604696284d": {
+    "title": "Serveur/Runner (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-16"
+  },
+  "https://www.linkedin.com/jobs/view/4479634070": {
+    "title": "Serveur.euse - Maslow Group",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-16"
   }
 }
