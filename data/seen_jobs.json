@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -28059,6 +28059,36 @@
     "title": "Serveur Paris (75007)",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=b5583de6fbadeaad": {
+    "title": "Conseiller de Vente H/F – Sephora Champs Elysées | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=fb2a178d39ec5b99": {
+    "title": "Serveur polyvalent F/H",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=40eddb275820af90": {
+    "title": "Serveur (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=f442a7673102fcbd": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84099430.html": {
+    "title": "Ingénieur de Production - Infrastructures Serveurs K167 H/FKaiman Services",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-10-17"
   }
 }
