@@ -24205,7 +24205,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -27259,7 +27259,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=a67bfa56af2df766": {
     "title": "Chargé de communication événementielle F/H",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-16"
   },
@@ -27962,6 +27962,60 @@
   "https://fr.indeed.com/viewjob?jk=8835c95c929ee936": {
     "title": "Employé polyvalent en restauration H/F - Roissy CDG",
     "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=0186419e6cd516a8": {
+    "title": "Chargé de Communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=1662f14c56aba327": {
+    "title": "Community Manager Épargne H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=91e3fddb562aeb81": {
+    "title": "Social Media Manager & Content Creator freelance (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=30171fbad7261448": {
+    "title": "Vendeur / Vendeuse en prêt-à-porter",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=0aa237e5fe6a480d": {
+    "title": "Vendeur.se Paris Chaussée d'Antin - 35h/sem - CDI",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=e1479099a2776560": {
+    "title": "CDI 8H - Vendeur (h/f/x) - Petit Bateau Paris Sèvres !",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://www.linkedin.com/jobs/view/4478782068": {
+    "title": "Conseiller(e) de vente (F/H) // Axe Soin - Champs Elysées - CDI 35h",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=aadbca3e739a5432": {
+    "title": "Hôte d’accueil standardiste F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=16ecd71639996eeb": {
+    "title": "RECEPTIONNISTE NUIT H/F - LES GRANDES ECOLES",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-17"
   }
