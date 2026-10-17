@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -27259,7 +27259,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=a67bfa56af2df766": {
     "title": "Chargé de communication événementielle F/H",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-10-16"
   },
@@ -28017,6 +28017,48 @@
     "title": "RECEPTIONNISTE NUIT H/F - LES GRANDES ECOLES",
     "category": "Accueil / réception",
     "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=f729ef08c88f6aef": {
+    "title": "Conseiller(ère) de vente - CDD - 35h - Saint lazare",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=ddde96de4229646f": {
+    "title": "Assistant vente drive (F/H) Idéal étudiant",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=3c7821aa78f8dbec": {
+    "title": "Conseiller(e) de vente (F/H) // Axe Parfum - La Défense - CDD 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=ca7622c18fc3d927": {
+    "title": "Conseiller.ère de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=f8a1d5a91c99edcb": {
+    "title": "Conseiller de Vente CDD Noël H/F – Levallois So Ouest | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=d3e39c747d06c053": {
+    "title": "Chargé(e) d’accueil et de gestion commerciale – Temps partiel",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://www.linkedin.com/jobs/view/4479690644": {
+    "title": "Serveur Paris (75007)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-17"
   }
 }
