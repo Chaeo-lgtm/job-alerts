@@ -28090,5 +28090,23 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=739bd494fefb09aa": {
+    "title": "Senior Social Media Manager (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=0c107f5dbf6598d5": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83487638.html": {
+    "title": "Employé Polyvalent de Restauration- Préparation des Entrées H/FMRS GROUPE",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-10-17"
   }
 }
