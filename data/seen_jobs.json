@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -27722,6 +27722,24 @@
   "https://fr.indeed.com/viewjob?jk=85c48ebff1b20495": {
     "title": "une chargé(e) d’accueil à Temps partiel (29h)",
     "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://www.linkedin.com/jobs/view/4480589994": {
+    "title": "Conseiller(e) de vente - CDI 35h - Samsonite George V",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=7093cd4e14bc43d0": {
+    "title": "Conseiller de vente - Courcelles - 35H - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-17"
+  },
+  "https://fr.indeed.com/viewjob?jk=77294180536bfcee": {
+    "title": "Conseiller de vente - secteur premium / luxe - 35H - F/H",
+    "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-10-17"
   }
