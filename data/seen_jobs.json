@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -28119,6 +28119,18 @@
     "title": "Réceptionniste de nuit / Night Auditor (H/F)",
     "category": "Accueil / réception",
     "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=3a2cb98a9627ca83": {
+    "title": "Conseiller de vente de ski (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://www.linkedin.com/jobs/view/4476448640": {
+    "title": "Agent d'accueil F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
     "first_seen": "2026-10-18"
   }
 }
