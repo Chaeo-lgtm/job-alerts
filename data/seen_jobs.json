@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -28166,6 +28166,36 @@
   "https://www.linkedin.com/jobs/view/4480824766": {
     "title": "Agent Polyvalent F/H",
     "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=f786ade16ed44876": {
+    "title": "Assistant Community Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=c7a2a2d6ab47e74a": {
+    "title": "Commercial(e) sédentaire – Événementiel / Pop culture (H/F)",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=01b873edbd6d9ad2": {
+    "title": "Vendeur en animalerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=6109da0b1d029050": {
+    "title": "Conseiller-ère de vente beauté - Cosmétique coréenne",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://www.linkedin.com/jobs/view/4480916151": {
+    "title": "COMMIS DE SALLE ( Restaurant Gastronomique)",
+    "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-18"
   }
