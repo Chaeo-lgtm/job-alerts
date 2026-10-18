@@ -27847,7 +27847,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=9778e2300aa4c025": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-17"
   },
@@ -28201,6 +28201,30 @@
   },
   "https://fr.indeed.com/viewjob?jk=fb5c3dcff4ddcbec": {
     "title": "Réceptionniste de jour H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=df305a72ba303925": {
+    "title": "Vendeur Caissier polyvalent H/F - Paris La Défense",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=8cb202b21d6d4085": {
+    "title": "Conseiller.e de Vente CDD Noël",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=8c220209c382a90c": {
+    "title": "Agent d’accueil et d’intervention (Metro) F/H (ORA/ RATP DEV)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=c6a4845dc3b01699": {
+    "title": "Agent d'accueil (H/F/N)",
     "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-18"
