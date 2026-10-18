@@ -24205,7 +24205,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -28226,6 +28226,36 @@
   "https://fr.indeed.com/viewjob?jk=c6a4845dc3b01699": {
     "title": "Agent d'accueil (H/F/N)",
     "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=2988626774503abd": {
+    "title": "Conseiller de vente/caisse - mode & saisonnier (F/H)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/75784714.html": {
+    "title": "Chargé d'Accueil H/FMcDonald's France",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-18"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82442574.html": {
+    "title": "Hôte Accueil H/FE.Leclerc",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=bb08d23938b52d34": {
+    "title": "Serveur du midi 14 h semaine Mardi a Vendredi",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-18"
+  },
+  "https://fr.indeed.com/viewjob?jk=e0b31543384d09dc": {
+    "title": "Cuisinier de restauration rapide TEMPS PLEIN 7h-14h30 du lundi au vendredi à Paris 10ème / CDD",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-18"
   }
