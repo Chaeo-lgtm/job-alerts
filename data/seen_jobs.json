@@ -28270,5 +28270,35 @@
     "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4480925697": {
+    "title": "Médiateur",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84501316.html": {
+    "title": "- Chargé de Communication - BTS Audiovisuel H/FAURLOM",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-19"
+  },
+  "https://fr.indeed.com/viewjob?jk=a4f3d84d7ef76ae5": {
+    "title": "CDD 24H - Conseiller de vente (F/H) - Souliers Femme - Le Bon Marché",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-19"
+  },
+  "https://fr.indeed.com/viewjob?jk=44ccb648432c8f9a": {
+    "title": "Hôte d'accueil Paris H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4479951959": {
+    "title": "Serveur Paris (75007)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
   }
 }
