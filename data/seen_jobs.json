@@ -26610,7 +26610,7 @@
     "first_seen": "2026-10-15"
   },
   "https://www.linkedin.com/jobs/view/4477304109": {
-    "title": "Hôte/sse d'accueil et Standardiste - 8h/14h - CDI - Siège d'un groupe hôtelier premium",
+    "title": "Hôte d'accueil et Standardiste (H/F) - Groupe hôtelier Premium - CDI 30h - 75015",
     "category": "Accueil / réception",
     "source": "Linkedin",
     "first_seen": "2026-10-15"
@@ -28561,7 +28561,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=95b1510539d50714": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-19"
   },
@@ -28875,6 +28875,84 @@
     "title": "Plongeur/aide cuisine en restauration d'entreprise 35h F/H",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4480275720": {
+    "title": "Chargé(e) Marketing et Communication (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4480270914": {
+    "title": "Chargé(e) Marketing et Communication (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://fr.indeed.com/viewjob?jk=9dad9997c1b14022": {
+    "title": "Chargé.e de commercialisation et d’exploitation des espaces événementiels",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4478280933": {
+    "title": "Chargé de réalisation audiovisuelle Live F/H",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4480262263": {
+    "title": "PHOTOGRAPHE F/H\n(Nouvelle fenêtre)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4480961160": {
+    "title": "Éditeur vidéo",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4478610747": {
+    "title": "Dessinateur en menuiserie bois et agencement TopSolid (h/f)",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://fr.indeed.com/viewjob?jk=a81efa8acbfb8302": {
+    "title": "Agent d'accueil - temps partiel f/h",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4478632205": {
+    "title": "Réceptionniste (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.linkedin.com/jobs/view/4479112741": {
+    "title": "Réceptionniste tournant (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-19"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84573058.html": {
+    "title": "Chargé d'Accueil H/F",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-19"
+  },
+  "https://fr.indeed.com/viewjob?jk=7488f5f2eb311058": {
+    "title": "Serveur / Serveuse en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-19"
+  },
+  "https://fr.indeed.com/viewjob?jk=457b7f2d81b04343": {
+    "title": "Employé polyvalent en restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-10-19"
   }
 }
