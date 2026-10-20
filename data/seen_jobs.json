@@ -27175,7 +27175,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477371372": {
     "title": "Graphiste Multimédia et Communication Prévention (F/H)",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -27421,7 +27421,7 @@
   },
   "https://www.linkedin.com/jobs/view/4480518227": {
     "title": "Coordinateur communication et événementiel au sein de la Direction Financière - Débutant H/F",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Linkedin",
     "first_seen": "2026-10-16"
   },
@@ -29029,7 +29029,61 @@
   },
   "https://fr.indeed.com/viewjob?jk=02ea32406603a1f5": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=3da38b97c0a834e6": {
+    "title": "CHEF DE PROGRAMME ANIMAL MEDIATEUR (H/F)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=ee6594f675957090": {
+    "title": "Chargé(e) de Communication Corporate, Interne & Marque Employeur (CDD) - H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=5d0f26251d796934": {
+    "title": "Internship : Gin & Apéritif Communication & Content Intern (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=cdd1e1615ecf3dd9": {
+    "title": "Chargé de la billetterie et d'accueil (H/F) - CDD de remplacement - EC20724",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/78055853.html": {
+    "title": "Conseiller de Vente - Esthéticien H/FBenefit Cosmetics SAS",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-20"
+  },
+  "https://www.linkedin.com/jobs/view/4476443873": {
+    "title": "Agent d'accueil F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=b73af63c64b4b2cf": {
+    "title": "Réceptionniste en hôtellerie",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=761203dcfee21bb8": {
+    "title": "Équipier polyvalent / Équipière polyvalente de restauration rapide",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=c9ebfbe818d2f15a": {
+    "title": "Equipier Polyvalent 35H (H/F)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   }
