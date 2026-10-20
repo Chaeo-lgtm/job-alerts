@@ -28561,7 +28561,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=95b1510539d50714": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-19"
   },
@@ -29029,7 +29029,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=02ea32406603a1f5": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29227,7 +29227,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=27ff71428730f3f1": {
     "title": "Equipier polyvalent restauration rapide H/F (POEI avec France Travail)",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29491,6 +29491,96 @@
   },
   "https://fr.indeed.com/viewjob?jk=c2b6f6c544b40d52": {
     "title": "Cuisinier - Restauration rapide - Kebab",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=06d1fdee264976fd": {
+    "title": "[Médiateur]Médiateur H/F en santé en Pédiatrie",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=73e8da9a16bda9e3": {
+    "title": "[Médiateur]Médiateur H/F en santé en Pédiatrie",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=b81124de7b908512": {
+    "title": "CDI - Chef de Projet Communication Clients (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=e9e17c00faaec2c0": {
+    "title": "Chef de projet communication Relations Presse H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=5ed7dc6244916c56": {
+    "title": "Chef de projet communication Relations Presse H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=b46bab6999665d7f": {
+    "title": "Commercial(e) événementiel / Account Manager",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=17668fb9254bc8e5": {
+    "title": "Graphiste/Maquettiste (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=313b2f143d3858af": {
+    "title": "Vendeur (H/F)- cdi 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=91f85d147ce5c70f": {
+    "title": "Conseiller(e) de vente (F/H) - Taverny - CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=3caeaabc6b05ca68": {
+    "title": "FR - Réceptionniste (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=e942fb647e49ad39": {
+    "title": "Equipier, Bagagiste & Barman - CDI 39h",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=8f2b62bb7cc7261f": {
+    "title": "Equipier(E) Polyvalent(E) En Restauration Rapide H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=d6244c57d6b1cba0": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=2d63d7850ba87d0a": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=3dfd51108bcec126": {
+    "title": "Employé(e) polyvalent(e) en restauration H/F - Crêpe Touch O'Parinor",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-20"
