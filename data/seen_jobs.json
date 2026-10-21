@@ -29644,5 +29644,41 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-21"
+  },
+  "https://www.linkedin.com/jobs/view/4480499345": {
+    "title": "CDI - Chef de Projet Communication Clients (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=7c9e26e9eb94f274": {
+    "title": "Conseiller de vente - Barista (F/H)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=e249480316fcaf47": {
+    "title": "Conseiller de Vente 25 heures - Boutique Paris Les Quatre Temps",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=7a04fe327eb9608f": {
+    "title": "Hôte/Hôtesse d'Accueil - H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.linkedin.com/jobs/view/4479318609": {
+    "title": "Réceptionniste de Nuit - CDI F/H - Ibis Style Paris Romainville ***",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=f5cef4da2d0bcb19": {
+    "title": "Serveur·se - Temps Partiel H/F CDD",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
   }
 }
