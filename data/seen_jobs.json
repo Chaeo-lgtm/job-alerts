@@ -29221,7 +29221,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=238d31a723f23e25": {
     "title": "Équipier(ère) polyvalent(e) – Accueil & Expérience Client (H/F)",
-    "category": "Équipier polyvalent",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29677,6 +29677,180 @@
   },
   "https://fr.indeed.com/viewjob?jk=f5cef4da2d0bcb19": {
     "title": "Serveur·se - Temps Partiel H/F CDD",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=d52c8b9b7c218b6f": {
+    "title": "Communications & Marketing Senior Specialist France",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.linkedin.com/jobs/view/4482038746": {
+    "title": "Chef de projet événementiel",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84649061.html": {
+    "title": "Dessinateur Confirmé Hôtellerie Luxe H/FVene Recrutement et Intérim",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=fbb179b7dcd5b56e": {
+    "title": "VENDEUR ET PREPARATEUR DE COMMANDES H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=2f3e87c5137b9c9e": {
+    "title": "Conseiller de vente - CDD Temps plein - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=630c7e52c8bfa237": {
+    "title": "Vendeuse en Lingerie (H/F) - CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=3268b6ffd3067924": {
+    "title": "Conseiller de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=4bc3d2f7f294f3a7": {
+    "title": "Vendeur boulangerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=4e1c9875bff6b855": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=4526947e2eaa162f": {
+    "title": "Vendeur conseil H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=fd806b9e4dd4dd14": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=39e2c8f51ad47593": {
+    "title": "Concepteur Vendeur en Décoration H/F – CDI",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=4f3f630802ab876f": {
+    "title": "Vendeur épicerie fine",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=fb1adcbf36d45693": {
+    "title": "Vendeur polyvalent (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=feaf94ab578eda07": {
+    "title": "Vendeur à distance solutions complètes F/H - Mission 11 mois - Temps Plein",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=a814d85bf6780295": {
+    "title": "Vendeur polyvalent H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=9ee764e9ba79eb64": {
+    "title": "Vendeur en charcuterie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.linkedin.com/jobs/view/4480356738": {
+    "title": "Conseiller ventes/Conseillère ventes",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84648822.html": {
+    "title": "Conseiller de Vente H/FIEF2I Education",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=1fbc6a765fb2ec8d": {
+    "title": "Réceptionniste de jour H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=811dd1cf026af9b5": {
+    "title": "Réceptionniste de jour H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=56d2d74eefae8f2e": {
+    "title": "Réceptionniste de jour H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.linkedin.com/jobs/view/4478999113": {
+    "title": "Hôte / Hôtesse d'accueil",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=85483349d06cfca0": {
+    "title": "Chargé(e) services généraux/accueil",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=fe985b7e5b75cf5d": {
+    "title": "Leader Réception",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=c52b1ecf63080da9": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84649049.html": {
+    "title": "Réceptionniste - Secteur du Luxe H/FIFAE Accueil",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=25bcc461f6fb00af": {
+    "title": "Serveur/Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=6c189a08a3105ee5": {
+    "title": "Employé polyvalent en restauration rapide H/F (30H)",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-21"
