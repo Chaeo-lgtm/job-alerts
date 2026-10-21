@@ -26748,7 +26748,7 @@
     "first_seen": "2026-10-15"
   },
   "https://www.hellowork.com/fr-fr/emplois/84470096.html": {
-    "title": "Créateur de Contenu Content Manager - Community Manager H/FDistrib 20",
+    "title": "Créateur·trice de Contenu Content Manager - Community Manager H/FDistrib 20",
     "category": "Communication / création de contenu",
     "source": "HelloWork",
     "first_seen": "2026-10-15"
@@ -29227,7 +29227,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=27ff71428730f3f1": {
     "title": "Equipier polyvalent restauration rapide H/F (POEI avec France Travail)",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29584,5 +29584,65 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-20"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84639772.html": {
+    "title": "Chef de Projet Si Junior - Musée du Louvre H/FEtablissements publics locaux",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=ce52bdfcbc23084f": {
+    "title": "Marketing & Communications Manager – France, BeLux & Monaco",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=037a88521d5091ae": {
+    "title": "INTERNSHIP - Digital Experience & Content Assistant",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84639335.html": {
+    "title": "Adjoint Administratif de la Billetterie H/FCentre des Monuments Nationaux (CMN)",
+    "category": "Événementiel",
+    "source": "HelloWork",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=94fdd177fe7fa05c": {
+    "title": "CDI - Conseiller(ère) de vente - RIMOWA La Samaritaine",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=55bfd55e6ab84ae5": {
+    "title": "Conseiller(e) de vente (F/H) - Taverny - CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=137a80071a9ff431": {
+    "title": "Hôte(sse) d'accueil h/f",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=facdab7330fd8bdd": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=55b7e42c8e47c0fa": {
+    "title": "Employé polyvalent en restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-21"
+  },
+  "https://www.linkedin.com/jobs/view/4480228376": {
+    "title": "Serveur / Serveuse Petit-Déjeuner (H/F) – 35h",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-21"
   }
 }
