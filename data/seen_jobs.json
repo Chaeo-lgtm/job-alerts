@@ -11,54 +11,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=399c4e3b46826122": {
-    "title": "Bibliothécaire secteur jeunesse (H/F)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=ffe36fdca80f2601": {
-    "title": "Bibliothécaire secteur adulte et référent communication (H/F)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6e41ebfbc0c9b0b6": {
-    "title": "Un.e chargé(e) de Mission Formation – CDI– temps plein",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2030f3129ed0ec57": {
-    "title": "Chargé(e) Information Conseil",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4dcfc3a00760590e": {
-    "title": "Un(e) Responsable secteur adultes et co-coordinateur(trice) Action culturelle et partenariats- Alfortville (94)",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=7ab668b1a6f4e3b0": {
-    "title": "Un(e) Médiathécaire",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=32e494812f461db4": {
-    "title": "Travailleur social — H/F",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=787e962edb962437": {
-    "title": "Formateur·trice (H/F)",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=4ec039dc144e75fe": {
     "title": "ADULTE RELAIS - Animateur coordinateur socioculturel (H/F)",
     "category": "Médiation culturelle / bibliothèque",
@@ -29996,6 +29948,54 @@
   "https://fr.indeed.com/viewjob?jk=99cb7f402efaba6d": {
     "title": "Hôte(sse) d’accueil dans le secteur des finances",
     "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=4597b34bc30ed156": {
+    "title": "Chargé Communication Interne H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://www.linkedin.com/jobs/view/4479452869": {
+    "title": "Chef de projet communication (f/h)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84681050.html": {
+    "title": "Vacat - Charge de Communication H/FMinistère des armées - Civils de la Défense",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=dd9ea59bb6443731": {
+    "title": "Vendeur F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=6ea3b7c3f064d902": {
+    "title": "Vendeur 30H (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=837bf3ee00b7b60f": {
+    "title": "Agent d’accueil Cni-passeports",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=054d9fb42a3fe5a5": {
+    "title": "Réceptionniste de nuit / Night Reception (h/f/d)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=c404cf25a8f250df": {
+    "title": "Serveur/se CDI 39H F/H",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   }
