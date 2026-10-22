@@ -11,60 +11,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/82501609.html": {
-    "title": "Adjoint·e Technique Électricien·ne H/FTravailler pour Paris",
-    "category": "Médiation culturelle",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=84cfd4919a5525f5": {
-    "title": "Conseiller d'insertion - emploi/formation F/H",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=97045323a9c82192": {
-    "title": "Éducateur·rice spécialisé·e référent·e H/F",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4d8d4965ff558d0b": {
-    "title": "Responsable de la médiathèque (H/F)",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=c25dbc4750bdab64": {
-    "title": "STAGE ASSISTANT CHARGÉ(E)DE PROJETS CULTURELS NUMÉRIQUES H/F",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2cc0bde29537d88a": {
-    "title": "Responsable Pole Jeunesse, Information Jeunes et Engagement H/F",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=38bc04eff5c4fdb2": {
-    "title": "Agent de médiathèque en CDD F/H",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2f373658e27dd338": {
-    "title": "Médiathécaire polyvalent/e (F/H) - CDD 6 mois - Médiathèque de Draveil",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2cbb57d40ca87684": {
-    "title": "Sécurité et tranquillité publique H/F - EC21053",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=399c4e3b46826122": {
     "title": "Bibliothécaire secteur jeunesse (H/F)",
     "category": "Médiation culturelle / bibliothèque",
@@ -29998,5 +29944,59 @@
     "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=c1001a9e89002d2b": {
+    "title": "Chef.fe de projet éditorial Communication corporate & RSE",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84675928.html": {
+    "title": "Sous-Régisseur·euse de Billetterie au Sein du Pôle Petit Palais Vie Romantique Cernuschi H/FParis Musées",
+    "category": "Événementiel",
+    "source": "HelloWork",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=40989a6a70a1134c": {
+    "title": "Graphiste/Maquettiste H/F - EC20795",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=46b58479e842922b": {
+    "title": "CDI - Conseiller de vente - Maquillage (Beauté) - F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=d720108430c1dd4d": {
+    "title": "Vendeur/Vendeuse- Maison de chocolat",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://www.linkedin.com/jobs/view/4482186156": {
+    "title": "Vendeur Conseil Plantes d’intérieur et Fleuristerie H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=3aed46057f2edbcb": {
+    "title": "Vendeur (h/f) - Renfort de fin d'année 20h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=1106a0bb337ca132": {
+    "title": "Hôte d'accueil (F/H/NB)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=99cb7f402efaba6d": {
+    "title": "Hôte(sse) d’accueil dans le secteur des finances",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-22"
   }
 }
