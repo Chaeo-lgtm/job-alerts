@@ -95,30 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=6ab66df166cd97bd": {
-    "title": "Media Buyer Programmatic & Paid Social F/H",
-    "category": "Communication / réseaux sociaux",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=9294477cbd964c05": {
-    "title": "Alternance – Chargé(e) de Développement Immobilier",
-    "category": "Communication / réseaux sociaux",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=ac8f3f9b2c7ba6a1": {
-    "title": "Chargé d'affaire Financements Structurés Infrastructure, Digital et Télécom - Banque de financement et d'investissement - La Defense, Ile de France, France",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=0186816f6dc96a37": {
-    "title": "Chef/fe de projet opérationnel sur des outils digitaux de concours et examens H/F",
-    "category": "Communication / réseaux sociaux",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=feb7ca7e138efb08": {
     "title": "STAGE MARKETING DIGITAL SOCIAL MEDIA — H/F",
     "category": "Communication / réseaux sociaux",
@@ -29998,5 +29974,29 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-22"
+  },
+  "https://www.linkedin.com/jobs/view/4481621762": {
+    "title": "Créateur / rice de contenus H/F - Paris",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=1b8aaa980abe8417": {
+    "title": "CDD Graphiste PowerPoint / Création graphique",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-10-23"
+  },
+  "https://www.linkedin.com/jobs/view/4482714274": {
+    "title": "Réceptionniste H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-23"
+  },
+  "https://www.linkedin.com/jobs/view/4481628737": {
+    "title": "Copy of SERVEURS / CHEF(FE) DE RANG F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-23"
   }
 }
