@@ -95,72 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83632561.html": {
-    "title": "Alternance - Assistant Vidéaste - BTS Audiovisuel H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82271112.html": {
-    "title": "Alternance - Assistant Montage Vidéo - BTS Photographie H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/79654212.html": {
-    "title": "Alternance - Retoucheur Photo - Monteur Vidéo H/FStudi CFA",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83633865.html": {
-    "title": "Alternance - Assistant Monteur Podcast Vidéo - BTS Audiovisuel Option Montage H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83631766.html": {
-    "title": "Alternance - Assistant Monteur Audiovisuel - BTS Audiovisuel Option Montage H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83632715.html": {
-    "title": "Alternance - Assistant Monteur - BTS Audiovisuel H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83632767.html": {
-    "title": "Alternance - Assistant Monteur Fiction - BTS Audiovisuel H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83631742.html": {
-    "title": "Alternance - Monteur Audiovisuel - BTS Audiovisuel H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83631752.html": {
-    "title": "Alternance - Assistant Montage Audiovisuel - BTS Audiovisuel Option Post-Production H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83632718.html": {
-    "title": "Alternance - Monteur Bandes Annonces - BTS Audiovisuel H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83632557.html": {
-    "title": "Alternance - Assistant Monteur Tv - BTS Audiovisuel H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83633828.html": {
     "title": "Alternance - Assistant Monteur Image - BTS Audiovisuel Option Post-Production H/FAURLOM",
     "category": "Audiovisuel / photo / graphisme",
@@ -29995,6 +29929,72 @@
   },
   "https://www.linkedin.com/jobs/view/4482351505": {
     "title": "SERVEUR/SERVEUSE (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4482646257": {
+    "title": "Chargé de communication et événementiel - CDI (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=860252b124358306": {
+    "title": "Conseiller de vente - secteur Maison - F/H - CDI 21H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=8a634428c4043b48": {
+    "title": "Conseiller(ère) de vente en cosmétique H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=deda37efd608bd46": {
+    "title": "Conseiller.e de Vente La Défense H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4482362270": {
+    "title": "Hôte(sse) d'accueil 2500€ - 2700€ Net avec pourboires F/H - Scandito",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=7b50f87eb21ca788": {
+    "title": "Réceptionniste de jour H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4483351185": {
+    "title": "Employé Libre-Service Polyvalent",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=f6f14d1ec789020b": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=fd14d60aba6577b6": {
+    "title": "Serveur / Serveuse (H/F) – CDI Temps partiel 24 h – Clamart (92)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=c749890c2dae5319": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4483342465": {
+    "title": "Serveur H/F",
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-24"
