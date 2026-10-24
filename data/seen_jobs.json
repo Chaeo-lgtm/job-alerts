@@ -95,30 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83633828.html": {
-    "title": "Alternance - Assistant Monteur Image - BTS Audiovisuel Option Post-Production H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=cb14aa057614ad15": {
-    "title": "Stage Photographe - Vidéaste",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4c5efadad4907fd7": {
-    "title": "Stage Photographe Sportif (H/F) - Canada",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=c0df4502415831bc": {
-    "title": "Stagiaire photographe H/F",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=0bee496e1f462887": {
     "title": "2026 - POPPEE 2 - Directeur du département des Estampes et de la photographie (H/F)",
     "category": "Audiovisuel / photo / graphisme",
@@ -28915,7 +28891,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=039b3985c53ec9ff": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Accueil / réception",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29997,6 +29973,30 @@
     "title": "Serveur H/F",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/76479256.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=d5007cbac8b2f0bd": {
+    "title": "Conseiller(e) de vente",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=5a340588206820a9": {
+    "title": "PARIS 18- Réceptionniste de nuit extra",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84778769.html": {
+    "title": "Serveur H/FHippopotamus",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-10-24"
   }
 }
