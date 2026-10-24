@@ -101,78 +101,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=4c838043747b81b2": {
-    "title": "Assistant Commercial (H/F)",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=3ce3c08ba159baee": {
-    "title": "Assistant Polyvalent H/F Bilingue roumain",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=39db10a0060df402": {
-    "title": "Régisseur général F/H",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=759db0f1b700e918": {
-    "title": "Senior Business Developer Grands Comptes - Media",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467614401": {
-    "title": "Régisseur·euse",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4460340930": {
-    "title": "Commercial MICE F/H",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4420138487": {
-    "title": "Régisseur Technique & Opérationnel F/H",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469141862": {
-    "title": "Responsable Pôle Chantier Evénementiel h/f",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468014366": {
-    "title": "Chargé(e) de gestion administrative et clients H/F",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469256068": {
-    "title": "GESTIONNAIRE LOGISTIQUE (F/H)",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467593092": {
-    "title": "Régisseur général F/H",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466629166": {
-    "title": "Assistant(e) Commercial(e) et de Direction (H/F)",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4468669782": {
     "title": "Commercial Evénementiel",
     "category": "Événementiel",
@@ -27421,7 +27349,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=238d31a723f23e25": {
     "title": "Équipier(ère) polyvalent(e) – Accueil & Expérience Client (H/F)",
-    "category": "Équipier polyvalent",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29996,6 +29924,78 @@
   "https://fr.indeed.com/viewjob?jk=db20e118bcc8fd35": {
     "title": "Vendeur polyvalent H/F",
     "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4480682968": {
+    "title": "Chargé(e) de collecte Grand Public et événementielle",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4482300911": {
+    "title": "Consultant Personal Branding vidéo H/F - Paris",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4482846917": {
+    "title": "Technicien Courant Faible - Vidéosurveillance H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4481010428": {
+    "title": "Graphiste (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=4db22414525f1205": {
+    "title": "Conseiller de Vente 14H - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=63174540ea9cba59": {
+    "title": "Vendeur/Vendeuse CDI H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4483115040": {
+    "title": "Vendeur (H/F) - CDI 35h - Thiais",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=af0bf3d513af8fcb": {
+    "title": "CDI - Conseiller de vente H/F PAP Homme - Magasin du George V",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=e679cd952572b046": {
+    "title": "Conseiller(Ère) De Vente Luxe H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=400d50e14fc4b25e": {
+    "title": "Chef(fe) de réception F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84695812.html": {
+    "title": "Réceptionniste en Hôtellerie - Roissy H/FBruce",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=a6a167b8a3d1f36d": {
+    "title": "Équipier Polyvalent de Restauration H/F - BIG FERNAND - Paris Gare de Lyon",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-24"
   }
