@@ -101,60 +101,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=466545b5f37d760e": {
-    "title": "Stagiaire Chargé(e) de Mécénat - F/H - Paris - Janvier ou Février 2027",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=259be2a914b9f298": {
-    "title": "Stagiaire Chargé(e) de Mécénat - F/H - Paris - Janvier ou Février 2027",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=252c25163580195c": {
-    "title": "Gestionnaire paies (H/F)",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=afb5683663ddb8f4": {
-    "title": "Régisseur Lumière (F/H)",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=f2a22ac555f60390": {
-    "title": "Technicien d'exploitation Régie / Diffusion (H/F)",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=d987364386bf21be": {
-    "title": "Collaborateur paies H/F",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=08d08881ddc8dc5a": {
-    "title": "Gestionnaire de Parc Audiovisuel / Technicien Événementiel H/F",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=47b4e40ece06c879": {
-    "title": "Régisseur Technique Événementiel H/F – Son, Lumière, Vidéo",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=da32fb29392f9c57": {
-    "title": "Technicien Audiovisuel Événementiel H/F – Son, Lumière, Vidéo",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=4c838043747b81b2": {
     "title": "Assistant Commercial (H/F)",
     "category": "Événementiel",
@@ -27475,7 +27421,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=238d31a723f23e25": {
     "title": "Équipier(ère) polyvalent(e) – Accueil & Expérience Client (H/F)",
-    "category": "Accueil / réception",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29323,7 +29269,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=039b3985c53ec9ff": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Événementiel",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29998,5 +29944,59 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=c797e94826117271": {
+    "title": "CHARGÉ DE COMMUNICATION JUNIOR (F/H/X)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=d1f668e0a625e856": {
+    "title": "chargé(e) de communication et coordination UNINOVIS H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4480661241": {
+    "title": "Chargé de communication F/H",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=4d2bb4a53c9a2d9f": {
+    "title": "CDI - Conseiller de vente - Département Lingerie (F/H) - Le Bon Marché",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=f8549832a3ea8149": {
+    "title": "Conseiller de Vente CDD Noël H/F – Paris Gare de Lyon | 16-24h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4481939859": {
+    "title": "CDI - Conseiller de vente - Département Lingerie (F/H) - Le Bon Marché",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4480685912": {
+    "title": "Vendeur F/H - CDI 35h",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=7059b431152b287d": {
+    "title": "premier·ère vendeur·se f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=db20e118bcc8fd35": {
+    "title": "Vendeur polyvalent H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
   }
 }
