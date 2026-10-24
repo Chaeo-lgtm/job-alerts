@@ -95,30 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.linkedin.com/jobs/view/4469866652": {
-    "title": "Assitant(e) Montage",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467363649": {
-    "title": "AV Technical Specialist - Video - Paris",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469862885": {
-    "title": "Postproducteur / Post Productrice",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467652046": {
-    "title": "Technicien(ne) support de proximité Salle de Réunion / Support Audiovisuel (AV)",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4430627617": {
     "title": "Monteur câbleur audiovisuel F/H",
     "category": "Audiovisuel / photo / graphisme",
@@ -26623,7 +26599,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=95b1510539d50714": {
     "title": "Équipier polyvalent de restauration rapide H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-19"
   },
@@ -28675,7 +28651,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=74adcb3396715271": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Événementiel",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29997,6 +29973,30 @@
     "title": "Serveur.euse H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=61ef7ab2522ab493": {
+    "title": "Vendeur (H/F)- cdi 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=f60e3aca23d89662": {
+    "title": "Equipier polyvalent de restauration",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=937518603a1c8f9b": {
+    "title": "Serveur en restauration H/F - Restaurant Italien",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-24"
+  },
+  "https://www.linkedin.com/jobs/view/4482397150": {
+    "title": "Commis de salle (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-24"
   }
 }
