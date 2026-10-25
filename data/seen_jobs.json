@@ -95,18 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.linkedin.com/jobs/view/4469854593": {
-    "title": "Stage - Assistant Création contenus Brand et Corporate H/F",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468760403": {
-    "title": "Stage communication digitale/ventes aux enchères - 2 mois (Octobre 2026) - Studentjob.fr",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4467850978": {
     "title": "Stage - Assistant(e) Chargé(e) de Production Image H/F/X - Mode – Janvier 2027",
     "category": "Audiovisuel / photo / graphisme",
@@ -28411,7 +28399,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=74adcb3396715271": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Accueil / réception",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29997,6 +29985,18 @@
     "title": "Employé service restauration",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=d56be317a7db4225": {
+    "title": "Social Media Manager, CDI / Freelance",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=1683808c9c261092": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-10-25"
   }
 }
