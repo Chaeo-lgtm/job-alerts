@@ -89,12 +89,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.linkedin.com/jobs/view/4470415739": {
-    "title": "(Janvier 2027) - Stage - Assistant(e) Création de Contenu & Shootings - H/F",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/72597275.html": {
     "title": "Stage Photographe H/FJD Sports",
     "category": "Audiovisuel / photo / graphisme",
@@ -26929,7 +26923,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=238d31a723f23e25": {
     "title": "Équipier(ère) polyvalent(e) – Accueil & Expérience Client (H/F)",
-    "category": "Équipier polyvalent",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -28321,7 +28315,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=74adcb3396715271": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Événementiel",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29996,6 +29990,12 @@
   "https://fr.indeed.com/viewjob?jk=695d8cb22211e752": {
     "title": "Employé polyvalent en restauration rapide H/F",
     "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=6036516b1cf2db1b": {
+    "title": "Chef de Projet Communication Confirme H/F",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-10-25"
   }
