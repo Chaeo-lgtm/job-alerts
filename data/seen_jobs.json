@@ -95,24 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=83f94b96f24a8d35": {
-    "title": "Assistant·e Photographe & Production Image en alternance",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469876613": {
-    "title": "Retoucheur / Retoucheuse Photo Senior",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469847888": {
-    "title": "Stage - Assistant Création de Contenus Animation & Packshots H/F",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4469854593": {
     "title": "Stage - Assistant Création contenus Brand et Corporate H/F",
     "category": "Audiovisuel / photo / graphisme",
@@ -29997,6 +29979,24 @@
     "title": "Employé restauration rapide H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=c5ac23a9b3673ae2": {
+    "title": "Conseiller(ère) de vente - 35 CDI h/f/x",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=29c768e06c1c0e13": {
+    "title": "Réceptionniste Hôtel H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://www.linkedin.com/jobs/view/4483327220": {
+    "title": "Employé service restauration",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-25"
   }
 }
