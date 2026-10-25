@@ -89,24 +89,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.linkedin.com/jobs/view/4466686792": {
-    "title": "Digital Brand content - Alternance",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469158006": {
-    "title": "Stage – Monteur Vidéo & Création de Contenu – Janvier 2027",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4458940975": {
-    "title": "Assistant(e) département Photo - Stage 6 mois",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4430834224": {
     "title": "Art Director - Photographer [CDI]",
     "category": "Audiovisuel / photo / graphisme",
@@ -28837,7 +28819,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=039b3985c53ec9ff": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Événementiel",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29995,6 +29977,24 @@
   },
   "https://fr.indeed.com/viewjob?jk=de0378beef918583": {
     "title": "Serveur / Serveuse en extra (H/F) — Le 17.45 Batignolles",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=d9d35dfb30f5cfb8": {
+    "title": "Monceau Fleurs - Manutentionnaire / Vendeur(se) Sapins (H/F/X)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=b78db78400a05164": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=2d73292324e894a3": {
+    "title": "Serveuse / Serveur restaurant gastronomique",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-25"
