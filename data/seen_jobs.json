@@ -83,28 +83,10 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/81107114.html": {
-    "title": "Community Manager H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83215645.html": {
     "title": "Assistant Communication Digital H/FGMBA&COSuper recruteur",
     "category": "Communication / création de contenu",
     "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467850978": {
-    "title": "Stage - Assistant(e) Chargé(e) de Production Image H/F/X - Mode – Janvier 2027",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467873089": {
-    "title": "Stage - Assistant(e) Chargé(e) de Production Image (H/F/X) - Mode – Janvier 2027",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
     "first_seen": "2026-09-22"
   },
   "https://www.linkedin.com/jobs/view/4466686792": {
@@ -28855,7 +28837,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=039b3985c53ec9ff": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Accueil / réception",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29995,6 +29977,24 @@
   },
   "https://fr.indeed.com/viewjob?jk=1683808c9c261092": {
     "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=871c001c54084995": {
+    "title": "Vendeur Service / Découpe bois & verre (F/H)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=003abe951938399d": {
+    "title": "Vendeur poissonnerie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=de0378beef918583": {
+    "title": "Serveur / Serveuse en extra (H/F) — Le 17.45 Batignolles",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-25"
