@@ -95,12 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=0bee496e1f462887": {
-    "title": "2026 - POPPEE 2 - Directeur du département des Estampes et de la photographie (H/F)",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=83f94b96f24a8d35": {
     "title": "Assistant·e Photographe & Production Image en alternance",
     "category": "Audiovisuel / photo / graphisme",
@@ -28891,7 +28885,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=039b3985c53ec9ff": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Événementiel",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29808,7 +29802,7 @@
     "first_seen": "2026-10-24"
   },
   "https://fr.indeed.com/viewjob?jk=67cb293ac34f741f": {
-    "title": "Vendeur polyvalent H/F",
+    "title": "Vendeur en boulangerie H/F",
     "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-10-24"
@@ -29998,5 +29992,11 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-10-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=cc0646b1fca21f62": {
+    "title": "Employé restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
   }
 }
