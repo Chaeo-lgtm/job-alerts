@@ -89,48 +89,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.linkedin.com/jobs/view/4430834224": {
-    "title": "Art Director - Photographer [CDI]",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4457930136": {
-    "title": "Retoucheur Photo Senior Joaillerie & Haute Joaillerie",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468636871": {
-    "title": "Chef.fe de projet production visuelle - Stage (H/F)",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467500688": {
-    "title": "CDD - Assistant Concept Image (H/F)",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467192738": {
-    "title": "Iconographe CDD - H/F",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468323523": {
-    "title": "Assistant·e Photographe & Production Image en alternance",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4448500054": {
-    "title": "STAGE - Assistant Concept Image (H/F)",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4470415739": {
     "title": "(Janvier 2027) - Stage - Assistant(e) Création de Contenu & Shootings - H/F",
     "category": "Audiovisuel / photo / graphisme",
@@ -29995,6 +29953,48 @@
   },
   "https://fr.indeed.com/viewjob?jk=2d73292324e894a3": {
     "title": "Serveuse / Serveur restaurant gastronomique",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=cab1982b3aab2bd1": {
+    "title": "Graphiste H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=1bae4b98b30a49d4": {
+    "title": "Conseiller(ère) de vente H/F CDI 20H -Paris Opéra",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=5140f2ea29380601": {
+    "title": "Conseiller de Vente H/F – Paris Forum des Halles(2) | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=8a1cb2e56779255d": {
+    "title": "Conseiller de Vente 25h (h/f/nb)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://www.linkedin.com/jobs/view/4481087965": {
+    "title": "Conseiller de Vente Soin H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=9646e0cc2905a21c": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=695d8cb22211e752": {
+    "title": "Employé polyvalent en restauration rapide H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-25"
