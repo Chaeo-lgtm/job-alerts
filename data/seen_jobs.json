@@ -89,24 +89,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/82321038.html": {
-    "title": "Alternance - Photographe - BTS Photographie. H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82321032.html": {
-    "title": "Alternance - Photographe - BTS Photographie H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82321018.html": {
-    "title": "Alternance - Photographe - BTS Photographie H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83447150.html": {
     "title": "Assistant·e Photographe & Production Image en Alternance H/FAdopt'",
     "category": "Audiovisuel / photo / graphisme",
@@ -26917,7 +26899,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=238d31a723f23e25": {
     "title": "Équipier(ère) polyvalent(e) – Accueil & Expérience Client (H/F)",
-    "category": "Accueil / réception",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29785,7 +29767,7 @@
   },
   "https://www.linkedin.com/jobs/view/4482646257": {
     "title": "Chargé de communication et événementiel - CDI (H/F)",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Linkedin",
     "first_seen": "2026-10-24"
   },
@@ -29997,6 +29979,24 @@
     "title": "serveur / serveuse",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=9774aa982fa465e8": {
+    "title": "Serveur petit déjeuner H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=22d1d496d7f3d475": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83653052.html": {
+    "title": "Employé de Restauration Collective H/FNewrest Services & Supports",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-10-26"
   }
 }
