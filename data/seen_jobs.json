@@ -101,12 +101,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/81640941.html": {
-    "title": "Alternant Graphiste Vitavea H/FHavea",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/80711594.html": {
     "title": "Formation Graphiste - Communication Visuelle & Design Digital H/FCette entreprise souhaite rester anonyme",
     "category": "Audiovisuel / photo / graphisme",
@@ -117,120 +111,6 @@
     "title": "Graphiste 2D - 3D H/FWinamax",
     "category": "Audiovisuel / photo / graphisme",
     "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83633896.html": {
-    "title": "Alternance - Assistant Motion Designer Junior - BTS Audiovisuel Option Post-Production H/FAURLOM",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/80255303.html": {
-    "title": "Designer H/FSofitex",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=7c1e19587f2c0a00": {
-    "title": "Vendeur / vendeuse - h/f",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6c7eda940b248069": {
-    "title": "Conseillère cosmétique H/F Conseillère beauté (H/F) Animatrice cosmétique (H/F)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=1e5b80048c9588e5": {
-    "title": "Conseiller de vente F/H CDI 15H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=c4f3d48768e67ac9": {
-    "title": "Vendeurs (f/h) - CDI 16h/8h - Cergy Pontoise",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=fa352ae295d1a164": {
-    "title": "Bouchère vendeuse / Boucher vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=8d7c8ead4375fb1c": {
-    "title": "Conseiller en boutique - Paris Vaugirard- h/f",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=5e947f2d282b1376": {
-    "title": "Vendeur en boulangerie H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6d72e2db220205e4": {
-    "title": "Athlete Nike (Vendeur en magasin) – H / F – CDI 10h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=228a045896d95b1e": {
-    "title": "Conseiller de vente (H/F) CDI 35h - Sébastopol",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=cb4ffdac9c0b6b8e": {
-    "title": "Vendeur / Vendeuse Micromania Zing - H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=ee0b3c55d7300418": {
-    "title": "Apprenti vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=e5efd6add5dffb0c": {
-    "title": "Apprentissage Conseiller de vente (H/F) Paris 6ᵉ arrondissement",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=d3485bada1238656": {
-    "title": "Conseiller de vente (H/F) CDI - 35H - Paris 6ᵉ arrondissement",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=f42a373a72e687d9": {
-    "title": "Conseiller de vente (H/F) CDI - 35H - Paris 6ᵉ arrondissement",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=cf4a9a15c944eeff": {
-    "title": "Employé(e) polyvalent(e) en supérette",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=e94cf8f413b20dda": {
-    "title": "Vendeur (H/F)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=b996409dfca2cc65": {
-    "title": "CDI Temps Partiel 25h Levi's Flagship Paris Champs Elysées",
-    "category": "Vente",
-    "source": "Indeed",
     "first_seen": "2026-09-22"
   },
   "https://fr.indeed.com/viewjob?jk=ae2668a7e60f7984": {
@@ -29997,6 +29877,126 @@
     "title": "Employé de Restauration Employé de Restaurant H/FBASILIC RESTAURATION",
     "category": "Restauration (service)",
     "source": "HelloWork",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4483708481": {
+    "title": "Chargé/e de communication et d’événements – assistant/e administratif /ve (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4481476856": {
+    "title": "Chargé/e de communication et d’événements – assistant/e administratif /ve (H/F) (F/H)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84815211.html": {
+    "title": "Assistant Communication H/FGR Intérim & Recrutement",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=a5a5d6a007112391": {
+    "title": "Vendeur Conseil Beauté F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=27a7595460482d1e": {
+    "title": "Vendeur F/H - CDD 2 mois - Temps partiel 25H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=0322a9e1b19255a0": {
+    "title": "Conseiller(ère) de vente - 16h CDI h/f/x",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=ef30f459cc5f4876": {
+    "title": "Conseiller(ère) de vente - 35h CDI h/f/x",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=21b1bc7795172765": {
+    "title": "Vendeur 25h à Roissy f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=ae0162f296195646": {
+    "title": "Conseiller de Vente CDD H/F – Thiais Belle Epine | 9-15h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=72c3e914d439034c": {
+    "title": "Conseiller de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=28a15ecf9eafa326": {
+    "title": "CDI - Conseiller de Vente (Maquillage/Beauté) - Samaritaine - F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=caa495b540f1cecc": {
+    "title": "Conseiller vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4481447865": {
+    "title": "Conseiller(e) de vente CDI 35H - GL Haussmann Femme",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4482995815": {
+    "title": "Agent d’accueil santé H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4482678881": {
+    "title": "Réceptionniste de nuit h/f",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4478996220": {
+    "title": "Hôte / Hôtesse Volant(e) accueil entreprise - CDI 35h",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=8b8e1a1b4f0b6afb": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://fr.indeed.com/viewjob?jk=5a50ed80486ae169": {
+    "title": "Serveur Midi Semaine Lundi-Vendredi 25H H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4482990939": {
+    "title": "Employé(e) polyvalent(e) de restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4481613380": {
+    "title": "Employé Polyvalent de Restauration (F/H)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-10-26"
   }
 }
