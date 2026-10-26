@@ -89,12 +89,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/72597275.html": {
-    "title": "Stage Photographe H/FJD Sports",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/82321038.html": {
     "title": "Alternance - Photographe - BTS Photographie. H/FAURLOM",
     "category": "Audiovisuel / photo / graphisme",
@@ -28771,7 +28765,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=039b3985c53ec9ff": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Accueil / réception",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29998,5 +29992,11 @@
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-10-25"
+  },
+  "https://fr.indeed.com/viewjob?jk=b62f8be955181396": {
+    "title": "serveur / serveuse",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-26"
   }
 }
