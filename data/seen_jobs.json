@@ -113,84 +113,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=ae2668a7e60f7984": {
-    "title": "Vendeur Polyvalent (H/F) - CDI 25h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=bffae6849b6fbdf7": {
-    "title": "Equipier Polyvalent Etudiant (H/F) 1 1",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=e088eaba554c1462": {
-    "title": "Alternance – Conseiller(ère) Clientèle",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4405006370": {
-    "title": "Vendeur(se) - CDI 35h - Samsonite George V",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466062325": {
-    "title": "Conseiller de vente - 35H - Galeries Lafayette Haussmann- CDI (H/F)",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469111808": {
-    "title": "Vendeuse / Vendeur - F/H",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4395148618": {
-    "title": "Vendeur(se) CDI 39H Tumi Champs Elysées",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469259380": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469187445": {
-    "title": "Vendeur F/H - CDI 35h",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469172176": {
-    "title": "Conseiller de Vente F/H",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466699493": {
-    "title": "Vendeuse en Lingerie (H/F)",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468684431": {
-    "title": "Conseiller(e) de vente – CDI 39 H – Paris 06",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467573051": {
-    "title": "Conseiller de Vente F/H",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
   "https://www.linkedin.com/jobs/view/4467574328": {
     "title": "Vendeur H/F",
     "category": "Vente",
@@ -26455,7 +26377,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=238d31a723f23e25": {
     "title": "Équipier(ère) polyvalent(e) – Accueil & Expérience Client (H/F)",
-    "category": "Équipier polyvalent",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-10-20"
   },
@@ -29998,5 +29920,83 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-26"
+  },
+  "https://www.linkedin.com/jobs/view/4483276523": {
+    "title": "[CDI] Chargé(e) de marketing et communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-27"
+  },
+  "https://www.linkedin.com/jobs/view/4483208440": {
+    "title": "Chargée de Communication F/H",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=aa79d5a3bab97bb3": {
+    "title": "Social Media Manager Senior: un tremplin vers le poste de Head of Social Media !",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://www.linkedin.com/jobs/view/4455405991": {
+    "title": "Social Media Manager (CDI) - H/F/X",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-27"
+  },
+  "https://www.linkedin.com/jobs/view/4483588742": {
+    "title": "Créateur de contenu",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=9071ea5c34f0cee5": {
+    "title": "Vendeur(euse) en CDD 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=903baa9788330828": {
+    "title": "Vendeur Conseil Beauté F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=dc071d7260364a79": {
+    "title": "Vendeur F/H - CDD 1 mois - Temps partiel idéal étudiant",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=2cf4987554877c76": {
+    "title": "Vendeur 25h à Thiais f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=062c64d8629cbfe8": {
+    "title": "Assistant(e) Administration des Ventes (ADV) H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=d770cf1666b8a5b3": {
+    "title": "Hôte d'accueil (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
+  },
+  "https://www.linkedin.com/jobs/view/4483791319": {
+    "title": "Hôte d'accueil (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=eef2d0efb75165cc": {
+    "title": "Réceptionniste de nuit vendredi / samedi",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-27"
   }
 }
