@@ -155,84 +155,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83005531.html": {
-    "title": "Assistant Administratif et Comptable H/FArcade Tertiaire",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83625782.html": {
-    "title": "Alternance - Réceptionniste en Hôtellerie H/FIFAE Business School",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83281795.html": {
-    "title": "Assistant - Assistante Commercial Hôtel 5 Étoiles - Alternance 75001 Paris H/FPrisma Academy",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83247039.html": {
-    "title": "Assistant Recrutement Stage H/FActual group",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/80621302.html": {
-    "title": "Réceptionniste - Hôtel Bellevue Montmartre - Ifcv - Alternance H/FIFCV",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83479939.html": {
-    "title": "Alternance - Assistant Communication - BTS Communication H/FAURLOM",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/78539712.html": {
-    "title": "Collaborateur Commercial en Alternance - Jacques-Smith H/FIFCV",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83525964.html": {
-    "title": "Alternance - Apprenti Administratif - BTS G.P.M.E H/F",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82645170.html": {
-    "title": "Chef Hôte Adjoint - Secteur Museal H/FOnly You",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83647741.html": {
-    "title": "Assistant Administratif - Interim H/FAssistalents",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=9af0daebde52c36b": {
-    "title": "Hôte / Hôtesse d’accueil administratif (Bailleur social) / CDI Temps plein / Champigny sur Marne",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=f3570743351520cc": {
-    "title": "Hôte d'accueil standardiste (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=fa16d93e687d5a90": {
-    "title": "Hôte/Hôtesse H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=4e2a46b89f3854a7": {
     "title": "Hôte(sse) d’accueil - F/H temps partiel",
     "category": "Accueil / réception",
@@ -27157,7 +27079,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=74adcb3396715271": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Accueil / réception",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29998,5 +29920,83 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=8a3f45b5cd0dd316": {
+    "title": "Chef de Projet Marketing & Communication Junior (F/H)-Lignée Hôtels",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=7e8ffff6787571bb": {
+    "title": "Conseiller de Vente (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=d1b2958673ee53fe": {
+    "title": "Conseiller de vente H/F - CDD saisonnier temps plein",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=fdf7b4f0f1962fd9": {
+    "title": "CDI - Conseiller de Vente (Maquillage/Beauté) - Samaritaine - F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=ce95368dacd8aa5b": {
+    "title": "Conseiller de Vente (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=88ea6070ddf0fb14": {
+    "title": "Happy Fleurs - Manutentionnaire / Vendeur(se) Sapins (H/F/X)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=3c7a1d76b52d4665": {
+    "title": "Hôte(sse) d’accueil pour des remplacements",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=931b06f83f970b2c": {
+    "title": "Hôte d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=833ef0a2e978073d": {
+    "title": "Hôte d'accueil caisse polyvalent h/f",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://www.linkedin.com/jobs/view/4482254524": {
+    "title": "Réceptionniste (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-28"
+  },
+  "https://www.linkedin.com/jobs/view/4482251501": {
+    "title": "Réceptionniste H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=eb9841cc7aadad04": {
+    "title": "Réceptionniste H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84876122.html": {
+    "title": "Réceptionniste H/FGroupe Beaumarly",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-28"
   }
 }
