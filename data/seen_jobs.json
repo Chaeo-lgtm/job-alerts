@@ -191,72 +191,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/81302163.html": {
-    "title": "Hôte - Hôtesse Service Client en Alternance -Fnac H/FIFCV",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81016113.html": {
-    "title": "Stage Analyste Performance Service Client - Paris H/FJobmania",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/79835628.html": {
-    "title": "Alternance - Chargé·e Service Client B2b & Opérateurs H/FIMC Alternance",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83469673.html": {
-    "title": "Alternance - Téléconseiller Service Client E-Commerce - BTS N.D.R.C H/FAURLOM",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82620691.html": {
-    "title": "Expert Service Client - CDI H/FBoulanger",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83223952.html": {
-    "title": "Hôte Service Client H/FMistertemp'",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83112014.html": {
-    "title": "Responsable Service Clients H/FGroupe Piment",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81663129.html": {
-    "title": "Commercial Service Client Apprentissage H/FCentre de formation O.F.I. ONE",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83640497.html": {
-    "title": "CDI - Responsable Service Client - Erborian H/FL'Occitane",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83037501.html": {
-    "title": "Superviseur de Service Client Junior H/FPicnic Technologies",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/78053965.html": {
-    "title": "Responsable Service Client en Alternance chez la Plateforme du Batiment H/FIFCV",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/78053369.html": {
     "title": "Responsable Service Client en Alternance chez la Plateforme du Batiment H/FIFCV",
     "category": "Service client",
@@ -26629,7 +26563,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=74adcb3396715271": {
     "title": "Hôte(sse) polyvalent(e) — accueil, billetterie et boutique",
-    "category": "Accueil / réception",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-10-22"
   },
@@ -29998,5 +29932,71 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=3b3763e85e5807ba": {
+    "title": "Chargé de communication - CDI - F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4484753323": {
+    "title": "Quantum Research Community Manager",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4483826296": {
+    "title": "Conseiller de vente (H/F) CDI 35h - Francs Bourgeois",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=7bb7c9ff79dd5895": {
+    "title": "Vendeur contrat étudiant 10-15h à Roissy f/h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83863383.html": {
+    "title": "Hôte d'Accueil H/FGroupe ONET",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4483680474": {
+    "title": "Groupe Joulie - Réceptionniste de nuit (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=fed5797945b7a0f5": {
+    "title": "Equipier polyvalent",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=1c424708d47ece2e": {
+    "title": "Commis de salle H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=73393f855aba4bb6": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=07ef7ab14abce552": {
+    "title": "Commis de salle H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=06ae7527fd6fb64a": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
   }
 }
