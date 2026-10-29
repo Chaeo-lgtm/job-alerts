@@ -77,12 +77,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83215645.html": {
-    "title": "Assistant Communication Digital H/FGMBA&COSuper recruteur",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/80847289.html": {
     "title": "Titre Professionnel Graphiste H/FMon Campus",
     "category": "Audiovisuel / photo / graphisme",
@@ -182,276 +176,6 @@
   "https://www.hellowork.com/fr-fr/emplois/80584059.html": {
     "title": "Hôte - Hôtesse d'Accueil - Maison de Luxe - Haute Couture - CDI - 33H - Semaine H/FDSD OrganisationSuper recruteur",
     "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=fd0b0fb5bf008e89": {
-    "title": "Boulanger H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6eb5732d41d2d3fd": {
-    "title": "Commis de cuisine H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=d5ca4561209a9db5": {
-    "title": "Cuisinier / Cuisinière H/F en EHPAD",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=8e9f1d982f9b37e8": {
-    "title": "Cuisinier / Cuisinière H/F en EHPAD",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2d553d73044181ee": {
-    "title": "Cuisinier / Cuisinière H/F en EHPAD",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=30f86696b189682b": {
-    "title": "MANAGER DE BOUTIQUE – RIVARENO GELATO",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=78da0f552d81bd5c": {
-    "title": "Chef de cuisine H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=811567b8710cd353": {
-    "title": "Manager F/H",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468093678": {
-    "title": "Directeur de Restaurant H/F – Paris",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469178220": {
-    "title": "Directeur de Restaurant H/F",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469143718": {
-    "title": "Second de cuisine H/F",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469162924": {
-    "title": "Directeur de restaurant F/H",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466696746": {
-    "title": "Directeur de Restaurant H/F – Paris",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467872476": {
-    "title": "Commis de Restauration - Salon Proust H/F",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468012512": {
-    "title": "Commis de cuisine (H/F)",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467871491": {
-    "title": "Chef(fe) de Rang - Restaurant Gastronomique Espadon* H/F",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4379262183": {
-    "title": "Manager - Restauration Rapide (H/F)",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468672814": {
-    "title": "Group Finance Director",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4467143099": {
-    "title": "Acheteur H/F RESTAURATION - MISTER GARDEN Salad Bar",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4459170430": {
-    "title": "Directeur de restaurant (H/F)",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466861266": {
-    "title": "Directeur de la Restauration H/F - Pre Opening",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468206754": {
-    "title": "Chef-gérant H/F",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468264166": {
-    "title": "Responsable Développement Commercial en Restauration Premium",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466556466": {
-    "title": "Directeur(trice) B2B – Foodservice & Industrie (H/F)",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468132354": {
-    "title": "Manager de restaurant (H/F) - PARIS",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4442201957": {
-    "title": "Directeur de Restaurant - Fitz Group",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468578513": {
-    "title": "Commis(se)  de cuisine (H/F)",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468129412": {
-    "title": "Leader de cuisine H/F - PARIS",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81379747.html": {
-    "title": "Restauration Collective H/FRéseau alliance",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83636283.html": {
-    "title": "Préparateur de Commande en Restauration H/FVolta",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83587892.html": {
-    "title": "Responsable des Ressources Humaines en Restauration H/FVD Recrutement",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83640540.html": {
-    "title": "Commis de Cuisine - Restauration Gastronomique H/FBAIETA",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/77942367.html": {
-    "title": "Patissier Restauration d'Entreprise Premium H/FBAXTERSTOREY FRANCE",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83581301.html": {
-    "title": "Alternance - Employé de Réception - Restauration H/FIFAE Business School",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/77942370.html": {
-    "title": "Patissier Restauration d'Entreprise Premium H/FBAXTERSTOREY FRANCE",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83625898.html": {
-    "title": "Alternance - Office Manager - Restauration H/FIFAE Business School",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83625938.html": {
-    "title": "Alternance - Chargé RH - Restauration H/FIFAE RH",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83582165.html": {
-    "title": "Alternance - Business Manager - Restauration H/FIFAE Business School",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/77551982.html": {
-    "title": "Apprenti en Restauration H/FPret A Manger",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/78996645.html": {
-    "title": "Alternance - Commis de Salle en Restauration H/FINTED GROUP (IEG)",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83513145.html": {
-    "title": "Alternance - BTS Mco - Restauration H/FPerforma Business School",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81064282.html": {
-    "title": "Technico - Commercial Hôtellerie-Restauration H/FTime Recrutement",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83288645.html": {
-    "title": "Responsable Opérationnel en Restauration Apprentissage H/FLS Negotium",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83148944.html": {
-    "title": "Commis de Cuisine Restaurant Japonais H/FKodawari Ramen",
-    "category": "Restauration",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83634799.html": {
-    "title": "Chef de Rang Expérimenté - Restauration Gastronomique H/FBAIETA",
-    "category": "Restauration",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
@@ -29490,7 +29214,7 @@
     "first_seen": "2026-10-28"
   },
   "https://www.linkedin.com/jobs/view/4484101148": {
-    "title": "Première/Premier de réception Multisite (F/H/X)",
+    "title": "Premier de réception Multisites (F/H/X)",
     "category": "Accueil / réception",
     "source": "Linkedin",
     "first_seen": "2026-10-28"
@@ -29997,6 +29721,282 @@
     "title": "Serveur H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=7dbb2e3f0aea2978": {
+    "title": "Chef de projet marketing et communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=02297b51eb3ebb14": {
+    "title": "Social Media Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=559b238f4fcde116": {
+    "title": "Chargé de Communication Produits Locaux et Terroir F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84949011.html": {
+    "title": "- Chargé de Communication - BTS Audiovisuel H/FAURLOM",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4449031724": {
+    "title": "Community-Led Growth Manager (Edtech) H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=bfb24df7127a1afd": {
+    "title": "Vidéaste - Créateur de contenus H/F - CDI - Meudon (92)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4484970641": {
+    "title": "Coordinateur événementiel marketing/Coordinatrice événementielle marketing",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84952532.html": {
+    "title": "Coordinateur Événementiel Marketing H/FLe CabRHSuper recruteur",
+    "category": "Événementiel",
+    "source": "HelloWork",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4466846644": {
+    "title": "Technical Specialist VIDEO (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=b12198a47cac119d": {
+    "title": "Graphiste / Designer graphique (H/F)",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=6c241270802b1620": {
+    "title": "Dessinateur Catia V5 - 10 ans d'expériences (H/F)",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=80252be959311c6c": {
+    "title": "Dessinateur Catia V5 - 10 ans d'expériences (H/F)",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=85f77c95e77704b2": {
+    "title": "DESSINATEUR AGENCEMENT TOP SOLID - H/F",
+    "category": "Illustration / arts visuels",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=8b1bc7cd4ad3d9c6": {
+    "title": "Vendeur 24h (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=aa6ca1397868947f": {
+    "title": "Vendeur 15H (H/F) - CDD",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=63c46a3c3c582e88": {
+    "title": "Assistant de vente drive (F/H)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=6eee7320874e3429": {
+    "title": "Fromagerie VENDEUR H/F CDD Villepinte (93)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=6061818e0bad0ea6": {
+    "title": "Vendeur polyvalent 35H (F/H) - CDI Temps plein",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=61783991b0332c86": {
+    "title": "Monteur-vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=e60537a840fc57c5": {
+    "title": "Vendeur polyvalent (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=613b32276d18bb3e": {
+    "title": "Fleuriste Qualifié(e) (H/F) - Ouverture de boutique",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=69556ff34ef98320": {
+    "title": "Vendeur(se) polyvalent(e) en magasin bio 35h H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=90e044878755884f": {
+    "title": "Conseiller de vente (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=fbee6b2d91f062e0": {
+    "title": "Vendeur/Vendeuse Marché de Noël Paris",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=7005494f42bb6e67": {
+    "title": "Conseiller de Vente (H/F) - Paris 11 - Oberkampf",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=4ea2e45a81c7a954": {
+    "title": "Hôte(sse) d’accueil et de vente - Secteur Automobile (Anglais courant)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=9e9a8c3f04cec35e": {
+    "title": "VENDEUR CONSEIL (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4482511682": {
+    "title": "Vendeur H/F - CDI - Swatch",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=5902062063f03fec": {
+    "title": "Conseiller de vente (H/F) CDI/CDD 35h - Parly 2",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4484437876": {
+    "title": "Conseiller de vente H/F - Faubourg Saint Honoré - Paris - CDI",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4484438848": {
+    "title": "Conseiller de vente H/F - La Vallée Village",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84952836.html": {
+    "title": "Conseiller de Vente H/FComptoirs Richard",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=be2a21669cc6a5f9": {
+    "title": "Chargé d’accueil F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4484974381": {
+    "title": "Réceptionniste de Jour",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=8f0883d80d3a8dec": {
+    "title": "Réceptionniste Tournant (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.linkedin.com/jobs/view/4484037098": {
+    "title": "Assistant(e) Administratif(ve) & Accueil",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=fa2a7f147b5c7074": {
+    "title": "Equipier Polyvalent H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=e587181d97b7aca3": {
+    "title": "Equipier Banquets - F/H (CDD)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=c3bc34c2de1156cd": {
+    "title": "Employé polyvalent H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84938492.html": {
+    "title": "Équipier Polyvalent en Restauration - CDD H/FLS Negotium",
+    "category": "Équipier polyvalent",
+    "source": "HelloWork",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=fd5b3f90cb0d679d": {
+    "title": "Equipier Banquets - F/H (CDD)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=57b16326288f05bf": {
+    "title": "Employé polyvalent de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=e66f56e83688dc2a": {
+    "title": "Employé de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://fr.indeed.com/viewjob?jk=45c3df21c1cb2910": {
+    "title": "Serveur & Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84953168.html": {
+    "title": "Serveur - CDI H/FBreizh Café",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-10-29"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84953178.html": {
+    "title": "Employé de Restauration H/FGroupe Restalliance",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-10-29"
   }
 }
