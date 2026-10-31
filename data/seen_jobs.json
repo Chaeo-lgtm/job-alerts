@@ -71,12 +71,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/74560694.html": {
-    "title": "Community Manager H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/80847289.html": {
     "title": "Titre Professionnel Graphiste H/FMon Campus",
     "category": "Audiovisuel / photo / graphisme",
@@ -91,12 +85,6 @@
   },
   "https://www.hellowork.com/fr-fr/emplois/80711594.html": {
     "title": "Formation Graphiste - Communication Visuelle & Design Digital H/FCette entreprise souhaite rester anonyme",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82915882.html": {
-    "title": "Graphiste 2D - 3D H/FWinamax",
     "category": "Audiovisuel / photo / graphisme",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
@@ -207,348 +195,6 @@
     "title": "Équipier Polyvalent H/FBURGER KING FRANCE",
     "category": "Équipier polyvalent",
     "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=eeceb05ef268c1a2": {
-    "title": "Conseiller clientèle H/F",
-    "category": "Service client",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=89e0908abd825da8": {
-    "title": "Stage - Customer Care Specialist (Janvier 2027)",
-    "category": "Service client",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=68e03f08d451025a": {
-    "title": "Digital Customer Success Manager Intern",
-    "category": "Service client",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6c8d952ac8ea41d1": {
-    "title": "Conseiller-ère Services et Expériences Client (H/F) 14 Décembre -> 2 Janvier",
-    "category": "Service client",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=fafd14092aacb538": {
-    "title": "Chargé d'assistance H/F",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=07424506e14cf8f7": {
-    "title": "EMPLOYE POLYVALENT DE RESTAURATION- H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=379e7724454e9a46": {
-    "title": "Agent de service H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6c94e5057abc7ad3": {
-    "title": "Agent de Service H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=31ba1fa596b1fba0": {
-    "title": "Agent de Service H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=9f248aac851dccc2": {
-    "title": "Agent ou Agente de Service Hospitalier aux Urgences H/F",
-    "category": "Service client",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=53cc00ec6acafad2": {
-    "title": "Agent des services administratif polyvalent - CDD court (F/H)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=b998393b3a5a2573": {
-    "title": "Employé polyvalent en restauration H/F Temps Partiel 12h-20h",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468798957": {
-    "title": "Ouvrier qualifie en atelier H/F",
-    "category": "Service client",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/75579206.html": {
-    "title": "Employé Polyvalent H/FMcDonald's France",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/74445595.html": {
-    "title": "Employé Polyvalent H/FMcDonald's France",
-    "category": "Service client",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=6476bf473121ace0": {
-    "title": "CREW",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=26bffa2d01ba47f0": {
-    "title": "Coordinateur du personnel des offices de restauration (H/F)",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4ae157b8b751058a": {
-    "title": "Second de cuisine (H/F)",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=a12cbd778b41a03f": {
-    "title": "Caissier Serveur/Serveuse H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=02945b266b8a8cb8": {
-    "title": "Employé de Ménage-repassage à l'Hay Les Roses H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=e59e8fe5709dc64a": {
-    "title": "Boucher H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=781a60ae1a38d7e3": {
-    "title": "Chef de partie H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=25fca90d30f598c6": {
-    "title": "Commis(e) de salle H/F - BRASSERIE ROSALIE",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=37366d853ba9a49f": {
-    "title": "Employé(e) de maison H/F dans le Val de Marne - Temps Plein",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=f1c04be4a7b31cd6": {
-    "title": "Commis(e) de salle H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=004f913b90054dea": {
-    "title": "Leader H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=723eaf316f3d532f": {
-    "title": "Chef(fe) de partie H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2b7f21d58c6df8e6": {
-    "title": "Plongeur en Restauration Collective H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=804f538da677df1b": {
-    "title": "Employé de Ménage-repassage à Saint Maur des Faussés H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=033b862725c92ace": {
-    "title": "Responsable Préparation Froide en Restauration Collective H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=c9edd23d3b1c699d": {
-    "title": "Chef(fe) de rang H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4eb3718eca2db5a5": {
-    "title": "Employé de Restauration Collective H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4135d6e361042cb8": {
-    "title": "Cuisinier en Restauration Collective H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=1d776d1dd69d4f44": {
-    "title": "Second de cuisine H/F",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469898153": {
-    "title": "Chef de Partie Cuisine gastronomique H/F",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4470496826": {
-    "title": "Manager en restaurant d'entreprise F/H",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469051143": {
-    "title": "Manager de restaurant (H/F) - PARIS",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4470604080": {
-    "title": "Second de cuisine H/F",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4469057042": {
-    "title": "Leader de cuisine H/F - PARIS",
-    "category": "Restauration",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=4fbc32fbc0d2ed70": {
-    "title": "Equipier Commercial LS Frais/Extra-Frais - CDI F/H",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4459333655": {
-    "title": "Employé(e) de restauration",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83652237.html": {
-    "title": "Employé Polyvalent de REST - Equipier H/FElior",
-    "category": "Équipier polyvalent",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=d4bb867dc235d976": {
-    "title": "Responsable Secteur Verres - département 38 (H/F)",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=e7fd86c0759f67b1": {
-    "title": "Chargé·e de mission démocratie locale et égalité femmes/hommes (H/F)",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=66b103a3fa0aa1ff": {
-    "title": "Chargé(e) de projets environnements & réglementaire (H/F)",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468693771": {
-    "title": "Europe Regional and Corporate Communications Manager",
-    "category": "Médiation culturelle",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468444321": {
-    "title": "Médiateur scientifique (H/F)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4465961984": {
-    "title": "Chargé des dispositifs régionaux emploi/formation (H/F)",
-    "category": "Médiation culturelle",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=40f46278bfbd91e6": {
-    "title": "Hôte.sse d'accueil boutique billetterie",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=cb8edb4ce49a3ece": {
-    "title": "Concepteur / Conceptrice pédagogique Pix",
-    "category": "Médiation culturelle",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466665958": {
-    "title": "Responsable applicatifs QOS (F/H)",
-    "category": "Médiation culturelle",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4466852656": {
-    "title": "Directeur·rice de clientèle – Pôle Reputation & Advocacy",
-    "category": "Médiation culturelle",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=dae96f833b6358de": {
-    "title": "Chargé(e) de Communication Corporate, Interne & Marque Employeur (CDD) – H/F",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=32bc35397c897eba": {
-    "title": "Social Media Manager H/F",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=243db43ba87150a7": {
-    "title": "Social Media Manager H/F",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=a233cf22e7b0a058": {
-    "title": "Social Media Manager H/F",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4470477678": {
-    "title": "Chargé de communication digital & rédacteur - bois / déco",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
     "first_seen": "2026-09-22"
   },
   "https://www.linkedin.com/jobs/view/4469877668": {
@@ -29998,5 +29644,359 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-10-30"
+  },
+  "https://www.linkedin.com/jobs/view/4483944744": {
+    "title": "Médiateur/Médiatrice culturel/le",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485123627": {
+    "title": "un animateur socioculturelle auprès d'enfant dans un espace de vie sociale (H/F)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485109956": {
+    "title": "Référent de médiation sociale et culturelle de proximité (H/F)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=5a384ab524ab32fa": {
+    "title": "Chef de Projet Communication - Marketing H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a25bd76db16af085": {
+    "title": "Chargé de Marketing Digital - Lead Generation - B2B, Paris (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4459435203": {
+    "title": "Digital & Corporate Communication Senior Coordinator",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4484885267": {
+    "title": "CHEF DE PROJET COMMUNICATION CONFIRME - H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4477620870": {
+    "title": "Communications Manager",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485369690": {
+    "title": "Quantum Research Community Manager",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4483494674": {
+    "title": "Social Media Manager (F/H)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485321772": {
+    "title": "Video Editor Social Media pour une série quotidienne",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=6cc9325239aa642c": {
+    "title": "Chargé(e) de projets événementiels & Développement commercial",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4484976186": {
+    "title": "Photography Manager - Paris",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4483487281": {
+    "title": "CDD - Graphiste Marketing Promotionnel H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85002243.html": {
+    "title": "CDD - Graphiste Marketing Promotionnel H/FNaval Group",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "HelloWork",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=d819d6543e430c1e": {
+    "title": "Conseiller de vente - 30 avenue Montaigne",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=6931e4c2a356e253": {
+    "title": "Conseiller/ère de vente - Temps partiel 4j/semaine - Marne-la-Vallée",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4440767303": {
+    "title": "Vendeur.se Véhicules Neufs (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4484888110": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485120164": {
+    "title": "Conseiller de Vente H/F - Noisy-le-Sec / Romainville  (CDI 39h)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485101448": {
+    "title": "Conseiller de Vente H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82542680.html": {
+    "title": "Conseiller de Vente H/FToolog",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=e0338213c2544e0f": {
+    "title": "Agent d'accueil — H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=03c523d56f00b65d": {
+    "title": "Réceptionniste de Nuit (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=e137a9f6054b0ecf": {
+    "title": "Réceptionniste (F/H)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=b6a89f10dba70963": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485904913": {
+    "title": "Réceptionniste (H/F) - Splendide Royal Hôtel",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4483942533": {
+    "title": "Réceptionniste (H/F) - Splendide Royal Hôtel",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4484856873": {
+    "title": "Réceptionniste / Ambassadeur Expérience Client - F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4484857929": {
+    "title": "Réceptionniste F/H/X",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4483476769": {
+    "title": "Réceptionniste (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85005342.html": {
+    "title": "Hotesse d'Accueil H/FOnyx",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=072815b5ea0b3609": {
+    "title": "Hôte d'Accueil Temps Partiel Après-Midi (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a766d3cd27fd8f6f": {
+    "title": "Hôte d'accueil (H/F) cdi",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=be54d67dbaedad38": {
+    "title": "Hôte d'Accueil-Cabinet d'Avocat-Tps Partiel (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=ee92a6e31b49fcdb": {
+    "title": "Hôte d'accueil (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a4ff7524f389ff34": {
+    "title": "Hôte d'accueil F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=df90852b1e858b1d": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=20dd5ed5ceb52ea4": {
+    "title": "Réceptionniste en CDD H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=8fe7c41e908f6036": {
+    "title": "Premier de réception H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=413a3dd1cdd71b74": {
+    "title": "Premier de Réception (F/H)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=28e48c497cb9315f": {
+    "title": "CHEF(FE) DE RECEPTION",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=21bf5f1e2452230a": {
+    "title": "Réceptionniste H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=aa6f4f6896af086d": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=fdea94a2bf16d90e": {
+    "title": "RECEPTIONNISTE TEMPS PARTIEL 28h - VSDL",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85011244.html": {
+    "title": "Réceptionniste Polyvalent - CDI H/FDeskeo",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a9c0217a66db3df7": {
+    "title": "hôte/Hotesse polyvalente en restauration rapide",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=33ec0682c08ab6d9": {
+    "title": "Équipier polyvalent en restauration ( permis B ou AM) H/F - CDD",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85018429.html": {
+    "title": "Equipier Polyvalent H/F",
+    "category": "Équipier polyvalent",
+    "source": "HelloWork",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=17a826a6e9ab9846": {
+    "title": "SERVEUR EN SALLE EN RÉSIDENCE POUR SENIORS (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=91f72c001aea0d97": {
+    "title": "Serveur polyvalent H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=ca7755facb7d0344": {
+    "title": "Serveur/Sommelier",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=6969fdadc819eda8": {
+    "title": "Extra serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a65854dd8594456b": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=cf18ee7c1471f232": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485917612": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485159775": {
+    "title": "Dépôt légal - Commis de salle H/F",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://www.linkedin.com/jobs/view/4485111994": {
+    "title": "Serveur / Serveuse (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a9912c281613d9cb": {
+    "title": "Équipier polyvalent en restauration H/F - CDD",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-10-31"
   }
 }
