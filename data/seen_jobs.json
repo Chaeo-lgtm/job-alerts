@@ -89,12 +89,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/71683690.html": {
-    "title": "Conseiller de Vente H/FGroupement Mousquetaires",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83633164.html": {
     "title": "Conseiller de Vente H/FGlobe Groupe",
     "category": "Vente",
@@ -195,24 +189,6 @@
     "title": "Équipier Polyvalent H/FBURGER KING FRANCE",
     "category": "Équipier polyvalent",
     "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=3492dc2cf881d860": {
-    "title": "Serveur(se) confirmé(e) H/F – CDI – Crêperie (Paris 10) – Pas de coupures",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=cd97ca66ddec2b50": {
-    "title": "Chef de production / Responsable de production (H/F)",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=2c8b1488a03fb2f3": {
-    "title": "Chef gérant (H/F)",
-    "category": "Restauration",
-    "source": "Indeed",
     "first_seen": "2026-09-22"
   },
   "https://fr.indeed.com/viewjob?jk=1f1968690d692887": {
@@ -29995,6 +29971,30 @@
   },
   "https://fr.indeed.com/viewjob?jk=e4f9a25ba27e279c": {
     "title": "EMPLOYE DE RESTAURATION H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=b8bc55c98d9070b5": {
+    "title": "Community Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://www.linkedin.com/jobs/view/4485177277": {
+    "title": "Dessinateur (H/F) IDF Services",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=63c7b6dc6f239484": {
+    "title": "VENDEUR(SE) CONSEIL EN STYLOS PAPETERIE CADEAUX - H/F 35h/37h - BOUTIQUE SPECIALISEE INDEPENDANTE",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=6a122b2136fbd685": {
+    "title": "Barman SERVEUR H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-01"
