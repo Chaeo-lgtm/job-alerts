@@ -197,48 +197,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83633516.html": {
-    "title": "Chef de Service H/FMusée du Louvre",
-    "category": "Médiation culturelle",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83129290.html": {
-    "title": "Service Civique - Accompagner le Dispositif des Expositions Mobiles du Palais de la Porte Dorée H/FEtablissement Public du Palais de la Porte Doree",
-    "category": "Médiation culturelle",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83213708.html": {
-    "title": "Chargé d'Analyse en Conservation-Restauration H/FService Public",
-    "category": "Médiation culturelle",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82977763.html": {
-    "title": "Service Civique - Développer l'Accès à la Culture pour Tous H/FMusée en Herbe",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81970768.html": {
-    "title": "Chargé de la Conservation Préventive H/FService Public",
-    "category": "Médiation culturelle",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81910517.html": {
-    "title": "Chargé de la Réorganisation des Ressources H/FDirection générale des patrimoines et de l'architecture",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83233671.html": {
-    "title": "Médiateur Documentaire Sciences et Techniques - Coordinateur Action Culturelle de la Dbda H/FConservatoire National des Arts et Métiers (CNAM)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83414306.html": {
     "title": "Service Civique - Participer à la Médiatisation et au Soutien des Activités Culturelles Mises en Place au Sein du Sma H/FService militaire adapté",
     "category": "Médiation culturelle / bibliothèque",
@@ -29995,6 +29953,48 @@
   },
   "https://fr.indeed.com/viewjob?jk=92f53ffe20684aef": {
     "title": "SERVEUR/SE POLYVALENT",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://www.linkedin.com/jobs/view/4465577426": {
+    "title": "Social Media Strategy & Community Growth Manager (H/F) - CDI",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=40cef2c4c80fef09": {
+    "title": "CHARGE EVENEMENTIEL - H/F",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://www.linkedin.com/jobs/view/4485419806": {
+    "title": "Réceptionniste de Club KLAY H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=76f62491f229eba3": {
+    "title": "KFC VILLEPINTE - Equipier Polyvalent (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=a61b60618a273bdc": {
+    "title": "Équipier polyvalent en restauration H/F - CDD",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=d8036ca6f750a1ef": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=6696b5f3f2155bb4": {
+    "title": "serveur//serveuse polyvalent(e)",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-01"
