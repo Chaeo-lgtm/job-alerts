@@ -197,54 +197,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://fr.indeed.com/viewjob?jk=161e5a3252459480": {
-    "title": "Night Reception / Night Auditor (h/f/d)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=5066f62fe4eddd6a": {
-    "title": "Hôte d'accueil bilingue (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=a279c94f48c4277b": {
-    "title": "Hôte d'accueil (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=5c7d1dedc5cd9986": {
-    "title": "Hôtes et hôtesses d'accueil vip - secteur luxe (H/F) - 25h",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468906091": {
-    "title": "Customer Experience Representative - German speaker",
-    "category": "Service client",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.linkedin.com/jobs/view/4468628510": {
-    "title": "Assistant(e) accueil et services généraux H/F",
-    "category": "Service client",
-    "source": "Linkedin",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=8ceb94cf02ff123c": {
-    "title": "Sushiman (H/F)",
-    "category": "Restauration",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
-  "https://fr.indeed.com/viewjob?jk=b4af9856a3b53ec8": {
-    "title": "Agent Petit-Déjeuner à temps partiel (H/F)",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-22"
-  },
   "https://fr.indeed.com/viewjob?jk=3492dc2cf881d860": {
     "title": "Serveur(se) confirmé(e) H/F – CDI – Crêperie (Paris 10) – Pas de coupures",
     "category": "Restauration (service)",
@@ -29821,7 +29773,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=33ec0682c08ab6d9": {
     "title": "Équipier polyvalent en restauration ( permis B ou AM) H/F - CDD",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-31"
   },
@@ -29998,5 +29950,53 @@
     "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-10-31"
+  },
+  "https://fr.indeed.com/viewjob?jk=a23599299a0dd562": {
+    "title": "Coordinateur d'Accompagnement - Maison d'Accueil Spécialisée H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=97e1a776c3342834": {
+    "title": "Hôte d'Accueil Bilingue Volant Multisite (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=aac8d68061d1e375": {
+    "title": "Chargé d'Accueil et Room Service-Temps Partiel (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=01c7acf88d6475b7": {
+    "title": "Chargé de Planning et d'Exploitation en Accueil Entreprise (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=6f74c50226b01937": {
+    "title": "Hote d'Accueil -Cabinet de Comptable (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=3b7d3d5454524eec": {
+    "title": "Hote d'Accueil-Temps Complet (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=e5a69885504ba9f8": {
+    "title": "Employé de restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=e4f9a25ba27e279c": {
+    "title": "EMPLOYE DE RESTAURATION H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-01"
   }
 }
