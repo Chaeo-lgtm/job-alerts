@@ -59,12 +59,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/74560542.html": {
-    "title": "Community Manager H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/80847289.html": {
     "title": "Titre Professionnel Graphiste H/FMon Campus",
     "category": "Audiovisuel / photo / graphisme",
@@ -96,12 +90,6 @@
     "first_seen": "2026-09-22"
   },
   "https://www.hellowork.com/fr-fr/emplois/83633206.html": {
-    "title": "Conseiller de Vente H/FGlobe Groupe",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83633173.html": {
     "title": "Conseiller de Vente H/FGlobe Groupe",
     "category": "Vente",
     "source": "HelloWork",
@@ -194,24 +182,6 @@
   "https://www.hellowork.com/fr-fr/emplois/83619221.html": {
     "title": "Service Civique - Favoriser l'Accès de Tous à la Culture et Mettre la Culture au Service des Valeurs Républicaines. H/FMusee des Plans-Reliefs",
     "category": "Médiation culturelle / bibliothèque",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83414306.html": {
-    "title": "Service Civique - Participer à la Médiatisation et au Soutien des Activités Culturelles Mises en Place au Sein du Sma H/FService militaire adapté",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/81879664.html": {
-    "title": "Service Civique - Appui à l'Accueil et à l'Accompagnement du Public Scolaire au Mémorial de la Shoah Paris H/FConcordia (CDV - IDF)",
-    "category": "Médiation culturelle",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82367595.html": {
-    "title": "Aide-Soignant Intra Hospitalier Unite d'Hospitalisation Willy Ronis H/FGhu Paris Psychiatrie & Neurosciences",
-    "category": "Médiation culturelle",
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
@@ -11466,7 +11436,7 @@
     "first_seen": "2026-10-02"
   },
   "https://www.hellowork.com/fr-fr/emplois/84005014.html": {
-    "title": "Conseiller de Vente H/FMOULIN ROUGE",
+    "title": "Conseiller de Vente H/FMOULIN ROUGESuper recruteur",
     "category": "Vente",
     "source": "HelloWork",
     "first_seen": "2026-10-02"
@@ -28945,7 +28915,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=47be0f821fbcc2ca": {
     "title": "Équipier polyvalent en restauration H/F - CDD",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-10-30"
   },
@@ -29998,5 +29968,35 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-01"
+  },
+  "https://fr.indeed.com/viewjob?jk=178e87aee83ed68f": {
+    "title": "Chargé(e) de projet communication & partenariats Orly H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-02"
+  },
+  "https://www.linkedin.com/jobs/view/4484309193": {
+    "title": "Chargé(e) de projet communication & partenariats Orly",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-02"
+  },
+  "https://fr.indeed.com/viewjob?jk=5f03d164c4e6bdf9": {
+    "title": "Charge evenementiel - h/f",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-11-02"
+  },
+  "https://fr.indeed.com/viewjob?jk=a09fa83d87333209": {
+    "title": "Vendeur polyvalent H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-02"
+  },
+  "https://www.linkedin.com/jobs/view/4484868745": {
+    "title": "Réceptionniste en hôtellerie (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-02"
   }
 }
