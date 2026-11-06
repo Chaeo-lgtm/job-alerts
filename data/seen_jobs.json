@@ -263,48 +263,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-23"
   },
-  "https://www.linkedin.com/jobs/view/4471197541": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471183396": {
-    "title": "Vendeur (H/F) en magasin - Ivry - Salle de bain",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83709531.html": {
-    "title": "Conseillère de Vente H/FGR Intérim & Recrutement",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=17ba648bdb77de63": {
-    "title": "RECEPTIONNISTE H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=b06d539bdb77aeac": {
-    "title": "Agent d'accueil et secrétariat EHPAD — H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4467630673": {
-    "title": "CDI TEMPS PLEIN - Hôte(sse) d'accueil dans une société technologique - Paris 15e",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=25b75c0e573bd213": {
-    "title": "Employé polyvalent de rest/Equipier (H/F)",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
   "https://fr.indeed.com/viewjob?jk=68f0477b629656e7": {
     "title": "Serveur Room Service bilingue anglais F/H",
     "category": "Restauration (service)",
@@ -28608,7 +28566,7 @@
     "first_seen": "2026-11-04"
   },
   "https://fr.indeed.com/viewjob?jk=606c55cd663fbbe2": {
-    "title": "CDI - Conseiller de vente - 19 Cambon H/F",
+    "title": "CDI - Conseiller de vente - 19 Cambon H/F/X",
     "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-11-04"
@@ -29997,6 +29955,48 @@
     "title": "Serveur H/F",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85222442.html": {
+    "title": "Service Civique - Apporte des Livres et Rends Visite aux Personnes qui ne Peuvent se Rendre à la Bibliothèque H/FVille de Paris",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-11-06"
+  },
+  "https://fr.indeed.com/viewjob?jk=0a2cf74a19910fd4": {
+    "title": "Chargé de Communication Digitale et Editorial H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-06"
+  },
+  "https://fr.indeed.com/viewjob?jk=226a809866ec7715": {
+    "title": "Conseiller de Vente CDD Noël H/F – Paris Passage du Havre | 16-24h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85132812.html": {
+    "title": "Hospitality Officer - Chargé d'Accueil Premium H/FCircles FranceSuper recruteur",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-06"
+  },
+  "https://fr.indeed.com/viewjob?jk=fb9e77be02ea0b65": {
+    "title": "Hôte(sse)s d'accueil Paris / décembre - janvier (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.linkedin.com/jobs/view/4486152108": {
+    "title": "Chargé d'accueil",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-06"
+  },
+  "https://fr.indeed.com/viewjob?jk=879bb5e663b75637": {
+    "title": "Employé(e) polyvalent de restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-11-06"
   }
 }
