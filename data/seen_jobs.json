@@ -257,42 +257,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83730372.html": {
-    "title": "Chargé de Développement et Communication H/FBuilding Manager",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4469777027": {
-    "title": "Social Media Journalist",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4468703740": {
-    "title": "Assistant chef de projet/Assistante chef de projet Social Media & Influence",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471617595": {
-    "title": "Chargé de Communication Interne & Événementiel (F/H) H/F/X",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4431904337": {
-    "title": "Designer Graphiste Textile Confirmé·e – Paris",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=b82219ed87c0e548": {
-    "title": "Dessinateur Autocad H/F",
-    "category": "Illustration / arts visuels",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
   "https://fr.indeed.com/viewjob?jk=b8cc612065dc0baa": {
     "title": "Dessinateur Autocad H/F",
     "category": "Illustration / arts visuels",
@@ -29997,6 +29961,42 @@
     "title": "Employe Polyvalent de Restauration H/F",
     "category": "Restauration (service)",
     "source": "HelloWork",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=7d97dcb9200df7da": {
+    "title": "Animateur de Ventes CDD Noël H/F – Sephora Villeneuve La Garenne | 35h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4487382412": {
+    "title": "Conseiller de vente (H/F) CDI 35h - Galeries Lafayette Haussmann",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=1b58599fa36a9b73": {
+    "title": "Réceptionniste F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4487398073": {
+    "title": "Réceptionniste Polyvalent(e) de nuit (H/F), CDI, Temps plein",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4486605691": {
+    "title": "Réceptionniste F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4487301191": {
+    "title": "Serveur et Préparateur de plats sur place et à emporter (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-11-07"
   }
 }
