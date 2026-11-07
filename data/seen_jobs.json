@@ -257,84 +257,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://fr.indeed.com/viewjob?jk=b8cc612065dc0baa": {
-    "title": "Dessinateur Autocad H/F",
-    "category": "Illustration / arts visuels",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=82d953fab91a3927": {
-    "title": "EMPLOYE POLYVALENT MAGASIN H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=3a3fd56a16fa4129": {
-    "title": "Vendeur F/H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=4d1be35dba03d215": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=76e1c30406491ea9": {
-    "title": "Athlete Nike (Vendeur en magasin) – H / F – CDD 25h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=168df5659bfef419": {
-    "title": "Vendeur H/F EXTRA Charcuterie Traiteur",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=e629de2282736016": {
-    "title": "Conseiller de Vente H/F – Noisy Arcades | 35h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=7ea4a963a73a63fc": {
-    "title": "Conseiller(ère) de vente H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=ca06002f6d82627f": {
-    "title": "Vendeurs (f/h) - CDI 35h - Tolbiac",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=48cef15af0c38221": {
-    "title": "Vendeur (H/F)- cdi 35h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=cdfb94800733a758": {
-    "title": "Conseiller(ère) de vente – CDD évolutif CDI",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=2ca3e849f91151ab": {
-    "title": "Vendeur conseiller de vente H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=7e426ebf0e004a57": {
-    "title": "EMPLOYE POLYVALENT MAGASIN H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
   "https://www.linkedin.com/jobs/view/4471610754": {
     "title": "Vendeur H/F",
     "category": "Vente",
@@ -26563,7 +26485,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=5abaa5fd8ac5ac3b": {
     "title": "Serveur/ Vendeur polyvalent H/F",
-    "category": "Vente",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-02"
   },
@@ -29995,6 +29917,84 @@
   },
   "https://www.linkedin.com/jobs/view/4487301191": {
     "title": "Serveur et Préparateur de plats sur place et à emporter (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4486624664": {
+    "title": "Guide Conférencier Passionné – Visites Musées",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=e6f39d50d7b15554": {
+    "title": "Chargé de communication numérique F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4486632366": {
+    "title": "Social Media Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4486617979": {
+    "title": "Rédacteur(trice) & Social Media — SEO & Contenus Digitaux",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=e5fc2724a3f42d7a": {
+    "title": "Assistant·e communication événementielle",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4488143042": {
+    "title": "Photography Agent / Producer",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=acd05b52ed3eb7bb": {
+    "title": "Vendeur en boulangerie-pâtisserie H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=dc425d2763d6fa82": {
+    "title": "Hôte(sse) d’accueil - Secteur Immobilier",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=4017320b17ed545b": {
+    "title": "Agent d'accueil, h/f",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4486640324": {
+    "title": "CHARGE D'ACCUEIL  CDI F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=add1dffb69062c6a": {
+    "title": "Hôte(sse) d'accueil bilingue anglais H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=7930705085908fc4": {
+    "title": "Réceptionniste de jour (H/F) – CDI – Paris 16e Best Western Plus Hôtel Parc Eiffel",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4488155847": {
+    "title": "COMMIS DE SALLE ( Restaurant Gastronomique) Paris 8",
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-11-07"
