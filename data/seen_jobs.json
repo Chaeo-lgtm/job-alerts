@@ -251,36 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83735667.html": {
-    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=2ad741dc1bc4fcb0": {
-    "title": "Réceptionniste (F/H)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=2976981261fb9d01": {
-    "title": "HOTE(SSE) D’ACCUEIL H/F – CDD - 7h-15h - RUEIL MALMAISON",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=5087525568b03e5d": {
-    "title": "[CDI] Réceptionniste (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4469763386": {
-    "title": "Réceptionniste (F/H)",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83734384.html": {
     "title": "Hôtesse d'Accueil H/FSphère",
     "category": "Accueil / réception",
@@ -14041,7 +14011,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -28836,7 +28806,7 @@
     "first_seen": "2026-11-05"
   },
   "https://fr.indeed.com/viewjob?jk=564eca0847151eb9": {
-    "title": "Conseiller de Vente - CDD - Galeries Lafayette Haussmann H/F",
+    "title": "Conseiller de Vente H/F - CDD - Galeries Lafayette Haussmann",
     "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-11-05"
@@ -29997,6 +29967,36 @@
     "title": "Serveur polyvalent H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4486649796": {
+    "title": "Biotech Brand & Communications Lead",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=0729d1316396b8ab": {
+    "title": "Chef de projet événementiel junior en CDD (F/H)",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=bcdcfa871b3aa508": {
+    "title": "Conseiller de vente F/H/N - CDD Temps partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=94c5b68f47303309": {
+    "title": "Réceptionniste Tournant (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85132801.html": {
+    "title": "Hospitality Officer - Chargé d'Accueil Premium H/FCircles FranceSuper recruteur",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
     "first_seen": "2026-11-07"
   }
 }
