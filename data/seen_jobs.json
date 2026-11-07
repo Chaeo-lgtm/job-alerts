@@ -239,12 +239,6 @@
     "source": "Linkedin",
     "first_seen": "2026-09-23"
   },
-  "https://www.linkedin.com/jobs/view/4464090583": {
-    "title": "Content & Social Media Specialist - France",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-23"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83691185.html": {
     "title": "Conseiller de Vente H/FOpenSourcingSuper recruteur",
     "category": "Vente",
@@ -254,54 +248,6 @@
   "https://www.hellowork.com/fr-fr/emplois/83631756.html": {
     "title": "Hôte - Hôtesse d'Accueil Multisites H/FGroupe TDSSuper recruteur",
     "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471610754": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471605103": {
-    "title": "Vendeur F/H - CDI 35h",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4469753710": {
-    "title": "Vendeur HF Horlogerie/Bijouterie - Aéroport d’Orly",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83735671.html": {
-    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83735502.html": {
-    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83735561.html": {
-    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83735623.html": {
-    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83735634.html": {
-    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
-    "category": "Vente",
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
@@ -14095,7 +14041,7 @@
   },
   "https://www.linkedin.com/jobs/view/4477591483": {
     "title": "Social Media Manager & Créateur Vidéo H/F",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-10-12"
   },
@@ -26485,7 +26431,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=5abaa5fd8ac5ac3b": {
     "title": "Serveur/ Vendeur polyvalent H/F",
-    "category": "Restauration (service)",
+    "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-11-02"
   },
@@ -29997,6 +29943,60 @@
     "title": "COMMIS DE SALLE ( Restaurant Gastronomique) Paris 8",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=cb0ced6d1b99e298": {
+    "title": "Chargé de Communication et Partenariats H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=a05109c43cf6c527": {
+    "title": "COMMUNICATION/MARKETING",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4484650354": {
+    "title": "Chargé(e) de Communication et Partenariats H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=46d5485bec9d4f7a": {
+    "title": "GRAPHISTE - DIRECTION ARTISTIQUE - H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=82069ec4bbe7bdd7": {
+    "title": "Conseiller de vente Services H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=1dfbf34573538a65": {
+    "title": "Agent d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=673377328a528e1a": {
+    "title": "Agent d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=69b39bcce23e4c03": {
+    "title": "Agent polyvalent en multi-accueil (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-07"
+  },
+  "https://fr.indeed.com/viewjob?jk=55fa90f2f54c3dc1": {
+    "title": "Serveur polyvalent H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-11-07"
   }
 }
