@@ -251,24 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://fr.indeed.com/viewjob?jk=4a2ac9981e5eab8c": {
-    "title": "Chef de Projet Communication IT & Engagement - H/F/X",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=f9ec4524d68cbd85": {
-    "title": "Social Media Manager, secteur Retail (H/F/X) CDD",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4470034096": {
-    "title": "Chargé de marketing et communication - F/H",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
   "https://www.linkedin.com/jobs/view/4470023382": {
     "title": "Social Media Manager, secteur Retail (H/F/X) CDD",
     "category": "Communication / création de contenu",
@@ -26305,7 +26287,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=5abaa5fd8ac5ac3b": {
     "title": "Serveur/ Vendeur polyvalent H/F",
-    "category": "Vente",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-02"
   },
@@ -29996,6 +29978,24 @@
   "https://fr.indeed.com/viewjob?jk=ac2365f0b21041b0": {
     "title": "recherche serveur ou serveuse en restauration",
     "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=dd4541432dabf256": {
+    "title": "Community Manager / Chargé(e) de communication digitale H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=19e68d4088ec3e0c": {
+    "title": "Conseiller de vente H/F temps partiel",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=5469ab7b5f16a90f": {
+    "title": "Conseiller(ère) de vente CDD H/F Noël - Paris (15ème)",
+    "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-11-08"
   }
