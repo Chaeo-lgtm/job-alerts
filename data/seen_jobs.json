@@ -251,48 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://fr.indeed.com/viewjob?jk=0bc86f6607536203": {
-    "title": "CDI 24H Serveur - EHPAD COGNACQ JAY RUEIL MALMAISON (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=20528ebff0bea44b": {
-    "title": "Employé polyvalent de restauration - EHPAD COGNACQ JAY RUEIL MALMAISON H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471496768": {
-    "title": "Barman Serveur",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83730493.html": {
-    "title": "Serveur H/FHippopotamus",
-    "category": "Restauration (service)",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471662984": {
-    "title": "Culture Project Manager (H/F)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=c952bd732c546bf0": {
-    "title": "Bibliothécaire (H/F)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4470022133": {
-    "title": "Bibliothécaire (H/F)",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
   "https://fr.indeed.com/viewjob?jk=4a2ac9981e5eab8c": {
     "title": "Chef de Projet Communication IT & Engagement - H/F/X",
     "category": "Communication / création de contenu",
@@ -29997,6 +29955,48 @@
     "title": "Serveur H/FHippopotamus",
     "category": "Restauration (service)",
     "source": "HelloWork",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=de45a5fc4587d782": {
+    "title": "Graphiste confirmé / Chef de projet créatif F/H - CDD 6 mois",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4486353706": {
+    "title": "Vendeur Conseil Beauté F/H",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=4ec0ee126c00f510": {
+    "title": "Hôte d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=51685db0b60f55a0": {
+    "title": "Hôte(sse) d’accueil - Secteur audiovisuel",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4485374890": {
+    "title": "Réceptionniste de Nuit",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85160126.html": {
+    "title": "Réceptionniste - Anglais Bilingue H/FGR Intérim & Recrutement",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=ac2365f0b21041b0": {
+    "title": "recherche serveur ou serveuse en restauration",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-11-08"
   }
 }
