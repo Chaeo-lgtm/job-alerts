@@ -251,36 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://www.linkedin.com/jobs/view/4470023382": {
-    "title": "Social Media Manager, secteur Retail (H/F/X) CDD",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4461303085": {
-    "title": "CDI - Digital Copywriter - F/H/NB",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4462866310": {
-    "title": "Social Media Officer débutant H/F",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=a42d80d314fd113f": {
-    "title": "Gestionnaire billetterie concert H/F - CDD",
-    "category": "Événementiel",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4470024316": {
-    "title": "Gestionnaire billetterie concert H/F - CDD",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
   "https://fr.indeed.com/viewjob?jk=036372f67b86b589": {
     "title": "Conseiller de Vente (F/H)",
     "category": "Vente",
@@ -29997,6 +29967,36 @@
     "title": "Conseiller(ère) de vente CDD H/F Noël - Paris (15ème)",
     "category": "Vente",
     "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=3890d670f771ab6f": {
+    "title": "Chargé d'accueil billetterie des Musées municipaux (h/f) - EC20937",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4487112291": {
+    "title": "Chargé(e) Graphique et Multimédia — Création & Infographie",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4487110020": {
+    "title": "Conseiller(e) de vente",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=d6d88972fab92fb1": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4488791608": {
+    "title": "Commis de Salle H/F - Paris 8 - CDI- Coupure",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
     "first_seen": "2026-11-08"
   }
 }
