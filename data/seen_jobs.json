@@ -167,12 +167,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/81414701.html": {
-    "title": "Serveur Room Service CDI H/FBarrière",
-    "category": "Restauration (service)",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/78714625.html": {
     "title": "Serveur CDI H/FBarrière",
     "category": "Restauration (service)",
@@ -255,54 +249,6 @@
     "title": "Hôtesse d'Accueil H/FSphère",
     "category": "Accueil / réception",
     "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4471617156": {
-    "title": "Réceptionniste - Concierge Nuit",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4462186406": {
-    "title": "Chargé d'accueil Mercedes-Benz H/F",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=912af4caba705058": {
-    "title": "Equipier Polyvalent Etudiant (H/F)",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://www.linkedin.com/jobs/view/4461323248": {
-    "title": "Vendeur polyvalent 35H (F/H) - CDI Temps plein",
-    "category": "Équipier polyvalent",
-    "source": "Linkedin",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=342fa3ec9307ac10": {
-    "title": "Serveur CDI H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=06ee14604420b70a": {
-    "title": "Employé polyvalent de restauration H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=92f23524793a05ea": {
-    "title": "Employé(e) polyvalente, Serveur/Serveuse H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=6367cbe70e596a03": {
-    "title": "Serveur - EHPAD Cognacq-Jay Rueil-Malmaison (92) H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
     "first_seen": "2026-09-24"
   },
   "https://fr.indeed.com/viewjob?jk=0bc86f6607536203": {
@@ -29998,5 +29944,59 @@
     "category": "Accueil / réception",
     "source": "HelloWork",
     "first_seen": "2026-11-07"
+  },
+  "https://www.linkedin.com/jobs/view/4488409834": {
+    "title": "Community Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4487319118": {
+    "title": "Community & content manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4485847108": {
+    "title": "Social Media & Digital Content specialist (F/H)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4464090583": {
+    "title": "Content & Social Media Specialist - France",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=a0f49830e319f80e": {
+    "title": "Conseiller(ère) de vente STRELLSON (d/f/h)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85091906.html": {
+    "title": "Chargé d'Accueil H/FIFAE Accueil",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-08"
+  },
+  "https://fr.indeed.com/viewjob?jk=3ef9757a2be3c7e2": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4486581851": {
+    "title": "SERVEUR Soir - 18 H (H/F/X)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-08"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83088913.html": {
+    "title": "Serveur H/FHippopotamus",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-11-08"
   }
 }
