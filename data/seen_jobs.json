@@ -251,30 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://fr.indeed.com/viewjob?jk=6d1577f1b978b52e": {
-    "title": "Conseiller.ère de vente - CDD - 24h - Bonaparte",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=b654dc98f28aae87": {
-    "title": "Conseiller de Vente H/F - Noisy-le-Sec / Romainville (CDI 39h)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=6a2f1d7f2d974e23": {
-    "title": "Conseiller de Vente F/H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
-  "https://fr.indeed.com/viewjob?jk=772df2836629fd23": {
-    "title": "Conseiller.ère de vente - 75003",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-24"
-  },
   "https://fr.indeed.com/viewjob?jk=0d2126ba8a4be2f6": {
     "title": "Conseiller de Vente F/H",
     "category": "Vente",
@@ -26233,7 +26209,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=5abaa5fd8ac5ac3b": {
     "title": "Serveur/ Vendeur polyvalent H/F",
-    "category": "Vente",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-02"
   },
@@ -29998,5 +29974,29 @@
     "category": "Accueil / réception",
     "source": "HelloWork",
     "first_seen": "2026-11-08"
+  },
+  "https://www.linkedin.com/jobs/view/4487661565": {
+    "title": "Chargé Marketing et Communication F/H",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=d324c9fb4e1baa82": {
+    "title": "Equipier(e) polyvalent(e) H/F, Salad bar premium",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-11-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=ec2975b02aad5c2a": {
+    "title": "Commis de Salle - F/H",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=9893b3cdfc8bc20e": {
+    "title": "Vendeur(se) en restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-09"
   }
 }
