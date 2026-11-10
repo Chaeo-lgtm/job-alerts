@@ -197,12 +197,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/78269923.html": {
-    "title": "Community Manager H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83671937.html": {
     "title": "Agent de Conservation Patrimoine H/FMinistère des armées - Civils de la Défense",
     "category": "Médiation culturelle / bibliothèque",
@@ -239,24 +233,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://fr.indeed.com/viewjob?jk=9b54c54a11addade": {
-    "title": "Social Media Manager H/F",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=65564abaa38c4da9": {
-    "title": "Group Community Manager",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://www.linkedin.com/jobs/view/4471883943": {
-    "title": "Chef.fe de projet communication",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-25"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83761464.html": {
     "title": "Chargé de Communication H/FDigital School of Paris",
     "category": "Communication / création de contenu",
@@ -269,106 +245,10 @@
     "source": "HelloWork",
     "first_seen": "2026-09-25"
   },
-  "https://www.linkedin.com/jobs/view/4470091856": {
-    "title": "CDI - PLANNEUR(EUSE) STRATEGIQUE EVENEMENTIEL (F/H/X)",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-25"
-  },
-  "https://www.linkedin.com/jobs/view/4471885422": {
-    "title": "Chargé(e) de support fonctionnel et de paramétrage billetterie",
-    "category": "Événementiel",
-    "source": "Linkedin",
-    "first_seen": "2026-09-25"
-  },
   "https://www.linkedin.com/jobs/view/4421943186": {
     "title": "Technicien d'Intégration Audiovisuel F/H",
     "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=a98b06685c4dd7f8": {
-    "title": "CDI 24H - PHOTOGRAPHE VENDEUR/ PARADIS LATIN",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83759830.html": {
-    "title": "Dessinateur - Dessinatrice à Paris 8Ème H/FSystea Energie",
-    "category": "Illustration / arts visuels",
-    "source": "HelloWork",
-    "first_seen": "2026-09-25"
-  },
-  "https://www.linkedin.com/jobs/view/4470957274": {
-    "title": "Dessinateur et Calculateur Mécanique (H/F)",
-    "category": "Illustration / arts visuels",
-    "source": "Linkedin",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=42a01b8e54afa12c": {
-    "title": "Vendeurs H/F en poissonnerie Vacances Noel 2026",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=4eca6f93801e837c": {
-    "title": "Vendeurs H/F en poissonnerie Vacances Noel 2026",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=2b40bcbed602fc49": {
-    "title": "Vendeurs H/F en poissonnerie Vacances Noel 2026",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=da543efd1c0b7951": {
-    "title": "Vendeur-Concepteur en aménagement intérieur F/H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=695fc911f4da1299": {
-    "title": "Vendeur en boulangerie-pâtisserie H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=dc04989fdfa89a9f": {
-    "title": "Conseiller de Vente et Aide pâtissier (temps partiel 21h) (H/F/NB)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=5594565e6df2a724": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=dd9b3ed509f21482": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=7582a688f3545f08": {
-    "title": "Conseiller-ère Vente CYCLE (H/F) - Temps partiel",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=5c65e8922350c81f": {
-    "title": "conseiller·ère de vente f/h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-25"
-  },
-  "https://fr.indeed.com/viewjob?jk=f3db41ca78359c3e": {
-    "title": "Conseiller.e de Vente (spécialiste des Cookies New Yorkais)",
-    "category": "Vente",
-    "source": "Indeed",
     "first_seen": "2026-09-25"
   },
   "https://fr.indeed.com/viewjob?jk=fcc862cc714a300a": {
@@ -29998,5 +29878,125 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-09"
+  },
+  "https://fr.indeed.com/viewjob?jk=546d871df3c7bede": {
+    "title": "Médiateur scientifique jeune public F/H",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=63e563043aed3c88": {
+    "title": "Community Manager H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487968857": {
+    "title": "Head of Community, EMEA",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/79956955.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83215645.html": {
+    "title": "Assistant Communication Digital H/FGMBA&CO",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=fd56cb9ce9bae32e": {
+    "title": "Graphiste Senior F/H",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=1d450d86c2adafa9": {
+    "title": "Graphiste H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=48065d687bbe5f80": {
+    "title": "Athlete Nike (Vendeur en magasin) – H / F – CDI 8h",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=897d33b98bbdfdb5": {
+    "title": "Conseiller de vente H/F Plein Temps",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487975244": {
+    "title": "Conseiller de Vente H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85353074.html": {
+    "title": "Conseiller de Vente H/FAroma Zone | Hyteck",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487965394": {
+    "title": "Premier de Réception (H/F), CDI, Temps Plein",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4489179740": {
+    "title": "Réceptionniste de Nuit F/H",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487965388": {
+    "title": "Hôte d'accueil (H/F/NB)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487958593": {
+    "title": "Réceptionniste F/H - Hôtel Royal Garden Champs-Elysées",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4488842865": {
+    "title": "Réceptionniste de Nuit",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487970639": {
+    "title": "Agent polyvalent piscine de Montigny-lès-Cormeilles H/F (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.linkedin.com/jobs/view/4487975288": {
+    "title": "Equipier(e) polyvalent(e) de restauration rapide (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-11-10"
+  },
+  "https://fr.indeed.com/viewjob?jk=8763ea7e0fe1aeb0": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-10"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/75438254.html": {
+    "title": "Serveur H/FActua",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-11-10"
   }
 }
