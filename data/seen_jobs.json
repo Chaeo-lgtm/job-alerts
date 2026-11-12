@@ -221,12 +221,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-25"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83762110.html": {
-    "title": "Community Manager H/FDigital School of Paris",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-25"
-  },
   "https://www.linkedin.com/jobs/view/4421943186": {
     "title": "Technicien d'Intégration Audiovisuel F/H",
     "category": "Audiovisuel / photo / graphisme",
@@ -238,96 +232,6 @@
     "category": "Communication / création de contenu",
     "source": "HelloWork",
     "first_seen": "2026-09-26"
-  },
-  "https://www.linkedin.com/jobs/view/4413653585": {
-    "title": "Serveur F/H",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-09-26"
-  },
-  "https://fr.indeed.com/viewjob?jk=7113a563616d0a0e": {
-    "title": "Vendeur (H/F)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=d7557f3fd3fa6c02": {
-    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Parly 2 - CDI 10h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=ae99a75b1e739708": {
-    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - CDI Temps Partiel",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=57038e1c1dd4560f": {
-    "title": "Réceptionniste tournant(e) F/H",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://www.linkedin.com/jobs/view/4472438891": {
-    "title": "Réceptionniste tournant(e) F/H",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-09-27"
-  },
-  "https://www.linkedin.com/jobs/view/4472443653": {
-    "title": "Valet/Femme de chambre polyvalent F/H",
-    "category": "Équipier polyvalent",
-    "source": "Linkedin",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=d853c122a08ccbf8": {
-    "title": "Chef de rang, serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=5a8e3132512a4a21": {
-    "title": "Employé polyvalent en restauration H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=02378cd35ea3ef6e": {
-    "title": "Serveur polyvalent H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=60e8381999dd16e5": {
-    "title": "Serveur/barman temps plein CDI coupure",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=2a8a173b83259cda": {
-    "title": "Conseiller de vente H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=2a9784226b710e35": {
-    "title": "Conseiller(e) de vente (F/H) // Axe Couleur - Champs Elysées - CDI 35h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=eace4403263e26ee": {
-    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Parly 2 - CDI 10h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=088e6b4b7bdc97e0": {
-    "title": "Conseiller.ère de vente (m/f/d*) - Tommy Hilfiger - Parly 2 - CDI 21h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
   },
   "https://fr.indeed.com/viewjob?jk=0caa6c17e139e4d3": {
     "title": "Conseiller de Vente (m/f/d*) - Calvin Klein - Champs-Elysées - CDI 18h",
@@ -27811,7 +27715,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=e5fc2724a3f42d7a": {
     "title": "Assistant·e communication événementielle",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-07"
   },
@@ -28669,7 +28573,7 @@
   },
   "https://www.linkedin.com/jobs/view/4487975288": {
     "title": "Equipier(e) polyvalent(e) de restauration rapide (H/F)",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Linkedin",
     "first_seen": "2026-11-10"
   },
@@ -29995,6 +29899,102 @@
   },
   "https://fr.indeed.com/viewjob?jk=f62bc9dbc6059c52": {
     "title": "Serveur / Serveuse de restaurant (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=a8d49edf5baf9f25": {
+    "title": "Médiathécaire (pôle arts musique cinéma) F/H",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=a2c29ec3cfbc35f9": {
+    "title": "Chargé Marketing & Communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=49a4cedef3f10edc": {
+    "title": "Chef·fe de projet communication digitale F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4489092580": {
+    "title": "Chargé(e) de développement B2B & Événementiel (H/F)",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84228921.html": {
+    "title": "Dessinateur Technique & Suivi de Projet H/FMaxiplan",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=dcbd74ef56829e3f": {
+    "title": "CDD - Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4490301697": {
+    "title": "Conseiller de Vente H/F - CDI - Paris",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=63739e7c502a96cc": {
+    "title": "Conseiller(ère) de vente F/H CDI (30h) - Montorgueil",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85423337.html": {
+    "title": "Conseiller de Vente H/FCette entreprise souhaite rester anonyme",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4490317545": {
+    "title": "Réceptionniste (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85425142.html": {
+    "title": "Agent d'Accueil Administratif H/FIFAE Accueil",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=fde4bcf8e1ffbf9f": {
+    "title": "Hôte d'accueil (H/F/NB)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85425105.html": {
+    "title": "Réceptionniste - Centres d'Affaires H/FIFAE Accueil",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=d51cad2efd74c1db": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4361884766": {
+    "title": "Serveur F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=959621ea3641b536": {
+    "title": "Marché de Noël La Défense - Employé.e polyvalent.e de restauration",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-12"
