@@ -245,60 +245,6 @@
     "source": "Linkedin",
     "first_seen": "2026-09-26"
   },
-  "https://www.linkedin.com/jobs/view/4470337168": {
-    "title": "Assistant (e) Marketing et Communication",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=640dd68378e5f731": {
-    "title": "Assistant de vente drive (F/H)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=e8b29270479ced08": {
-    "title": "Assistant de vente drive (F/H)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=27cc8b054052b2f4": {
-    "title": "Assistant de vente drive (F/H)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=e5480d98238a2282": {
-    "title": "Free People Team Leader/ Premier(e) Vendeur(se) - Paris Saint Sulpice, France",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82733978.html": {
-    "title": "Conseiller de Vente H/FActual Talent",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=8b90fc25378847af": {
-    "title": "EMPLOYE D'ACCUEIL ET DE COMMUNICATION H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
-  "https://www.linkedin.com/jobs/view/4470303179": {
-    "title": "Public Relations & Social Media Coordinator",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-27"
-  },
-  "https://fr.indeed.com/viewjob?jk=cf4d26ebb5882196": {
-    "title": "Conseiller de vente H/F Plein Temps",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-27"
-  },
   "https://fr.indeed.com/viewjob?jk=7113a563616d0a0e": {
     "title": "Vendeur (H/F)",
     "category": "Vente",
@@ -28723,7 +28669,7 @@
   },
   "https://www.linkedin.com/jobs/view/4487975288": {
     "title": "Equipier(e) polyvalent(e) de restauration rapide (H/F)",
-    "category": "Équipier polyvalent",
+    "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-11-10"
   },
@@ -28920,7 +28866,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - H/F",
+    "title": "CDD - Chargé de communication événementielle - F/H",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29998,5 +29944,59 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-11-11"
+  },
+  "https://fr.indeed.com/viewjob?jk=ae5c9b40022c6438": {
+    "title": "Assistant(e) Talent Development & Communication Interne F/H | Evok Collection",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=0b21117c56081ba0": {
+    "title": "Créateur de contenu vidéo (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4489618298": {
+    "title": "Montage et motion design pour une émission jeunesse d’information",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=c32f1df3b9ab7f21": {
+    "title": "Assistant de Ventes - Salons Vendôme H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4490066162": {
+    "title": "Vendeur Conseil Jardin H/F",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=71c71581ca2bab57": {
+    "title": "Conseiller(ère) de vente - CDD - 35h - Rosny",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://www.linkedin.com/jobs/view/4489133008": {
+    "title": "Hôtelier/Hôtelière Réception Jour",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=791b2e1335c31766": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
+  },
+  "https://fr.indeed.com/viewjob?jk=f62bc9dbc6059c52": {
+    "title": "Serveur / Serveuse de restaurant (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-12"
   }
 }
