@@ -251,30 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-28"
   },
-  "https://fr.indeed.com/viewjob?jk=31af11e0fc251714": {
-    "title": "Job étudiant Employé polyvalent en restauration H/F",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-09-28"
-  },
-  "https://fr.indeed.com/viewjob?jk=3254ced72a71e6ca": {
-    "title": "Equipier polyvalent restauration rapide H/F 24h",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-09-28"
-  },
-  "https://fr.indeed.com/viewjob?jk=da95ee1c78007d56": {
-    "title": "Serveur/Serveuse/Runneuse H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-28"
-  },
-  "https://fr.indeed.com/viewjob?jk=654ed1f7b002d329": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-28"
-  },
   "https://fr.indeed.com/viewjob?jk=ab248ec6f29316e4": {
     "title": "EMPLOYE DE RESTAURATION H/F",
     "category": "Restauration (service)",
@@ -27726,7 +27702,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - H/F",
+    "title": "CDD - Chargé de communication événementielle - F/H",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29998,5 +29974,29 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-13"
+  },
+  "https://fr.indeed.com/viewjob?jk=a55f9e2460a26a0a": {
+    "title": "VENDEUR/EUSE POLYVALENT/E // CDI 35H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=923eae755b4ce912": {
+    "title": "Conseiller de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=474c9b1243881a5f": {
+    "title": "Vendeur H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=bf9b75530218dcb1": {
+    "title": "Vendeur conseiller H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
   }
 }
