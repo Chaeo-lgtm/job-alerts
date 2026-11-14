@@ -251,60 +251,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-28"
   },
-  "https://fr.indeed.com/viewjob?jk=066bc4cca2d1b70a": {
-    "title": "STAGIAIRE CONTROLE DES OPERATIONS REMEDIATIONS",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83883430.html": {
-    "title": "Chargé de Communication de Centre H/FMinistère des armées - Civils de la Défense",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4471297294": {
-    "title": "Community-Led Growth Manager H/F",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=e331083c96ab3a70": {
-    "title": "DESSINATEUR MENUISERIE EX¨PERIMENTE (H/F)",
-    "category": "Illustration / arts visuels",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4473090099": {
-    "title": "Dessinateur en agencement (H/F)",
-    "category": "Illustration / arts visuels",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=5e568e783806f9f2": {
-    "title": "[Fashion] - Conseiller.e de ventes CDI 35h - Sévigné - H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=f37bd4e9579c15b2": {
-    "title": "Vendeurs (f/h) - CDI 35h - Lafayette",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=0d2b163a9521ed89": {
-    "title": "Vendeur/Vendeuse- Maison de chocolat",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=27c6a946045274e0": {
-    "title": "Vendeur fruits et légumes H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
   "https://fr.indeed.com/viewjob?jk=36721bda62eb267f": {
     "title": "Conseiller(ère) de vente en maroquinerie H/F",
     "category": "Vente",
@@ -27624,7 +27570,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - H/F",
+    "title": "CDD - Chargé de communication événementielle - F/H",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29997,6 +29943,60 @@
     "title": "Job Etudiant Weekend // Employé polyvalent en restauration rapide H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4489888079": {
+    "title": "Référent de médiation sociale et culturelle de proximité (H/F)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4489876579": {
+    "title": "un animateur socioculturelle auprès d'enfants dans un espace de vie sociale (H/F)",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4491051748": {
+    "title": "Chargée de RH & communication",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4490739598": {
+    "title": "Technico-Commercial Audiovisuel- Porte de Versailles H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85317612.html": {
+    "title": "Conseiller de Vente Technique H/FCastorama",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4489877562": {
+    "title": "Réceptionniste (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4488927264": {
+    "title": "Hôte d'accueil H/F - Espace touristique",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=b1c44623e2177b08": {
+    "title": "Serveur/serveuse temps partiel H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82269414.html": {
+    "title": "Employe de Restauration Collective Paris H/FRéseau alliance",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-11-14"
   }
 }
