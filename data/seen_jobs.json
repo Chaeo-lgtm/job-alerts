@@ -59,12 +59,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/81887125.html": {
-    "title": "Hôte - Hôtesse d'Accueil - CDI Temps Partiel Matin - Anglais Courant H/FDSD OrganisationSuper recruteur",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/80584059.html": {
     "title": "Hôte - Hôtesse d'Accueil - Maison de Luxe - Haute Couture - CDI - 33H - Semaine H/FDSD OrganisationSuper recruteur",
     "category": "Accueil / réception",
@@ -251,83 +245,11 @@
     "source": "HelloWork",
     "first_seen": "2026-09-28"
   },
-  "https://fr.indeed.com/viewjob?jk=ab248ec6f29316e4": {
-    "title": "EMPLOYE DE RESTAURATION H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-28"
-  },
-  "https://fr.indeed.com/viewjob?jk=1224077da9578faa": {
-    "title": "Employé polyvalent de restauration (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-28"
-  },
-  "https://www.linkedin.com/jobs/view/4471525898": {
-    "title": "Commis de salle (H/F)",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-09-28"
-  },
   "https://www.hellowork.com/fr-fr/emplois/79520396.html": {
     "title": "Employé Polyvalent de Restauration H/FGaleries Lafayette",
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-09-28"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82741051.html": {
-    "title": "Assistant Communication et Marketing Opérationnel - Paris 12E H/FExponens",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=2dbd929365eba5aa": {
-    "title": "Vendeur 25h à Chambourcy f/h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4471594195": {
-    "title": "Conseiller/ère de vente",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4471237034": {
-    "title": "RECEPTIONNISTE DE NUIT (H/F/NB)",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=8d0f9dd60e52d335": {
-    "title": "Commis de salle - Tennis club de Paris 16 (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=e7132ff7277cc10b": {
-    "title": "Employé polyvalent de restauration (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=0ec3a57462f66b28": {
-    "title": "Serveur - EHPAD Cognacq-Jay Rueil-Malmaison (92) H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=e0eecdbf628eb199": {
-    "title": "Employé polyvalent de restauration - EHPAD COGNACQ JAY RUEIL MALMAISON H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=e83cd7e72df4806b": {
-    "title": "Employé polyvalent de restauration - EHPAD COGNACQ JAY RUEIL MALMAISON H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
   },
   "https://fr.indeed.com/viewjob?jk=066bc4cca2d1b70a": {
     "title": "STAGIAIRE CONTROLE DES OPERATIONS REMEDIATIONS",
@@ -11130,7 +11052,7 @@
     "first_seen": "2026-10-12"
   },
   "https://www.hellowork.com/fr-fr/emplois/84360477.html": {
-    "title": "Business Developper Billetterie Cse & Groupes H/FLigue de Football Professionnel",
+    "title": "Business Developper Billetterie Cse & Groupes H/F",
     "category": "Événementiel",
     "source": "HelloWork",
     "first_seen": "2026-10-12"
@@ -27702,7 +27624,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - F/H",
+    "title": "CDD - Chargé de communication événementielle - H/F",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29996,6 +29918,84 @@
   "https://fr.indeed.com/viewjob?jk=bf9b75530218dcb1": {
     "title": "Vendeur conseiller H/F",
     "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=ac3f9bac2f63a714": {
+    "title": "Manager de projets réseaux sociaux H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4489321249": {
+    "title": "Partnerships & Community Coordinator (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=25a85a636c3de8c3": {
+    "title": "Vendeur(euse) en CDD xxH",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=f4483316bf5e1b2d": {
+    "title": "[Fashion] - Conseiller.e de ventes - Printemps Nation - CDD 28h - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=3e3254fa9562d61f": {
+    "title": "CDD - Boutique Assistant, Paris",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4490563654": {
+    "title": "Vendeur polyvalent (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=5707255849011827": {
+    "title": "Agent d'accueil Polyvalent - CDI - H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=a05bbec04d371432": {
+    "title": "Hôte(sse) d’accueil VIP - Secteur Ministériel",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://www.linkedin.com/jobs/view/4489268263": {
+    "title": "Accueil et support opérationnel (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=e2f30076d0aeb029": {
+    "title": "Serveuse/Cheffe de rang H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=f696e2b80fc73622": {
+    "title": "Serveur Restaurant Italien Fi'lia H/F - Pullman Paris Montparnasse 4*",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=be5986138c2db2b8": {
+    "title": "Serveur en restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=8fde92d5255231f3": {
+    "title": "Job Etudiant Weekend // Employé polyvalent en restauration rapide H/F",
+    "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-14"
   }
