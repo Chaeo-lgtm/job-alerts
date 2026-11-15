@@ -233,18 +233,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-28"
   },
-  "https://fr.indeed.com/viewjob?jk=6dffe1cd1045d7b7": {
-    "title": "Employé polyvalent en restauration H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=d0f1714b979a00b7": {
-    "title": "Employé polyvalent en restauration rapide – CDI 25h – Paris 8e",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
   "https://fr.indeed.com/viewjob?jk=c5a3a5c53c664ce1": {
     "title": "Etudiante Serveuse H/F",
     "category": "Restauration (service)",
@@ -27390,7 +27378,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - F/H",
+    "title": "CDD - Chargé de communication événementielle - H/F",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29996,6 +29984,18 @@
   "https://fr.indeed.com/viewjob?jk=7bba409211b45c96": {
     "title": "Commis de salle H/F",
     "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=c0648f26253790cb": {
+    "title": "VENDEUR CONSEIL - CDI H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=b128ea33ecac7c87": {
+    "title": "Agent d'accueil polyvalent H/F",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-11-15"
   }
