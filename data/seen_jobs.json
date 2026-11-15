@@ -215,12 +215,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-25"
   },
-  "https://www.hellowork.com/fr-fr/emplois/81814997.html": {
-    "title": "Community Manager H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-27"
-  },
   "https://www.hellowork.com/fr-fr/emplois/82798024.html": {
     "title": "Réceptionniste Tournant H/FBarrière",
     "category": "Accueil / réception",
@@ -250,54 +244,6 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-09-28"
-  },
-  "https://fr.indeed.com/viewjob?jk=71e96c0e041551a3": {
-    "title": "Chef(fe) hôte(sse) / Accueil en entreprise / Paris 12",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=ddf7b5e5c99ca276": {
-    "title": "Hôte / Hôtesse d’accueil - Nanterre (92)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=918aedae2c97569f": {
-    "title": "Réceptionniste de nuit 39h en CDI Hôtel Folie",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=59a8e7d9e4a4214d": {
-    "title": "Hôtesse d'accueil / Assistante polyvalente F/H",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=c8c79de018bf8937": {
-    "title": "Réceptionniste H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=358be8b521fcda15": {
-    "title": "Hôte(sse) d'accueil volant F/H",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83885647.html": {
-    "title": "Agent d'Accueil H/FIFAE Accueil",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83885565.html": {
-    "title": "Agent d'Accueil Polyvalent H/FIFAE Accueil",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
   },
   "https://www.hellowork.com/fr-fr/emplois/83885934.html": {
     "title": "Agent d'Accueil - Secteur du Luxe H/FIFAE Accueil",
@@ -27492,7 +27438,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - F/H",
+    "title": "CDD - Chargé de communication événementielle - H/F",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29998,5 +29944,59 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-14"
+  },
+  "https://fr.indeed.com/viewjob?jk=c917662d927f3122": {
+    "title": "Chargé de Communication Multisite H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.linkedin.com/jobs/view/4489874621": {
+    "title": "CHARGÉ(E) MARKETING & COMMUNICATION - (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/74560694.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=adcd7872d297fe8f": {
+    "title": "Employé(e) de magasin",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=e2282f29f5887807": {
+    "title": "Conseiller(e) de Vente",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=d8c64ac3c91ee895": {
+    "title": "Receptioniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=6a51cb75a37f519d": {
+    "title": "Réceptionniste Hôtel H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=380499f82180a9f5": {
+    "title": "Équipier polyvalent de restauration H/F - Crêpe Touch O'Parinor",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=2eb2562988672819": {
+    "title": "Employé polyvalent de restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
   }
 }
