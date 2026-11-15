@@ -113,12 +113,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/80258415.html": {
-    "title": "Assistant Communication H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83289053.html": {
     "title": "Agent d'Accueil H/FFitness ParkSuper recruteur",
     "category": "Accueil / réception",
@@ -203,12 +197,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://www.hellowork.com/fr-fr/emplois/83734384.html": {
-    "title": "Hôtesse d'Accueil H/FSphère",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-24"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83761464.html": {
     "title": "Chargé de Communication H/FDigital School of Paris",
     "category": "Communication / création de contenu",
@@ -244,42 +232,6 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-09-28"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83885934.html": {
-    "title": "Agent d'Accueil - Secteur du Luxe H/FIFAE Accueil",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83886485.html": {
-    "title": "Hôtesse - Hôte d'Accueil Volant Bilingue H/FSamsic Groupe",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=2842b1bd481ced38": {
-    "title": "Chef de réception H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83885621.html": {
-    "title": "Réceptionniste H/FIFAE Accueil",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83885673.html": {
-    "title": "Réceptionniste - Maison de Luxe H/FIFAE Accueil",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4471299041": {
-    "title": "Equipier magasin F/H",
-    "category": "Équipier polyvalent",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
   },
   "https://fr.indeed.com/viewjob?jk=6dffe1cd1045d7b7": {
     "title": "Employé polyvalent en restauration H/F",
@@ -27438,7 +27390,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - H/F",
+    "title": "CDD - Chargé de communication événementielle - F/H",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29995,6 +29947,54 @@
   },
   "https://fr.indeed.com/viewjob?jk=2eb2562988672819": {
     "title": "Employé polyvalent de restauration rapide H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=8305aaeb6eed6101": {
+    "title": "Chargé de Communication H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=94bde610dd9049bb": {
+    "title": "Commercial(e) événementiel / Account Manager",
+    "category": "Événementiel",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=d4b936c179319529": {
+    "title": "Vendeur (F/H) - Paris 5éme - CDD (25h)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=64afff50b9a2b939": {
+    "title": "Vendeur(se) en boulangerie en semaine",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=7d8acb150b68a6c5": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.linkedin.com/jobs/view/4490206580": {
+    "title": "FR - Réceptionniste (H/F/X)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=1388efcda2c5eea2": {
+    "title": "Serveur/Serveuse/Runneuse H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=7bba409211b45c96": {
+    "title": "Commis de salle H/F",
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-15"
