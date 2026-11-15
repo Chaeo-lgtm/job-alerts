@@ -221,71 +221,11 @@
     "source": "HelloWork",
     "first_seen": "2026-09-28"
   },
-  "https://www.hellowork.com/fr-fr/emplois/80754093.html": {
-    "title": "Conseiller de Vente H/FGROUPE CYRIL LIGNAC",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-09-28"
-  },
   "https://www.hellowork.com/fr-fr/emplois/79520396.html": {
     "title": "Employé Polyvalent de Restauration H/FGaleries Lafayette",
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-09-28"
-  },
-  "https://fr.indeed.com/viewjob?jk=b3e6249ca4bb4605": {
-    "title": "Commis de salle - Tennis club de Paris 16 (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=04da7b635a8b7ce0": {
-    "title": "Employé polyvalent de restauration (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=76c2c4abf61a6663": {
-    "title": "CDI 24H Serveur - EHPAD COGNACQ JAY RUEIL MALMAISON (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4473243491": {
-    "title": "Coordinateur/Coordinatrice Socio-Culturel(le) (75) La Santé",
-    "category": "Médiation culturelle / bibliothèque",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=0e320b8e031a9162": {
-    "title": "ASSISTANT·E RECHERCHE DE FONDS & COMMUNICATION - VOLONTARIAT DE SERVICE CIVIQUE - PARIS H/F H/F",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://fr.indeed.com/viewjob?jk=82376d012cc63828": {
-    "title": "Digital and Social Media Manager",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4469771758": {
-    "title": "Chargé(e) de projet Marketing & Communication 360° – dominante digitale",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83893716.html": {
-    "title": "Chargé de Communication H/FSciences Po",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83902903.html": {
-    "title": "Chargé de Communication et Évènementiel H/FAssociation Campus Mozaik",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
   },
   "https://www.linkedin.com/jobs/view/4472035854": {
     "title": "Langfuse - DevRel Engineer, Events & Community (EMEA)",
@@ -27366,7 +27306,7 @@
     "first_seen": "2026-11-10"
   },
   "https://fr.indeed.com/viewjob?jk=a845335bb5160381": {
-    "title": "CDD - Chargé de communication événementielle - H/F",
+    "title": "CDD - Chargé de communication événementielle - F/H",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-10"
@@ -29997,6 +29937,66 @@
     "title": "Serveur (H/F) - CDI 35h/semaine",
     "category": "Restauration (service)",
     "source": "Linkedin",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.linkedin.com/jobs/view/4491206066": {
+    "title": "Community Manager (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/74560653.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=eec2cabf29a8627d": {
+    "title": "Vendeur/Vendeuse Showroom (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=05fe1fbb9629d2e0": {
+    "title": "Vendeur polyvalent H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83400191.html": {
+    "title": "Conseiller de Vente H/FKiko",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83400234.html": {
+    "title": "Conseiller de Vente H/FKiko",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/80183289.html": {
+    "title": "Conseiller de Vente - Esthéticien H/FBenefit Cosmetics SAS",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82350831.html": {
+    "title": "Réceptionniste H/FMercato de l'emploi",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=ca255dca24710071": {
+    "title": "Serveur/Serveuse/Runneuse H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-15"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83392734.html": {
+    "title": "Employé Polyvalent de Restauration H/FEliorSuper recruteur",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-11-15"
   }
 }
