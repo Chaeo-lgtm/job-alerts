@@ -227,36 +227,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-28"
   },
-  "https://www.linkedin.com/jobs/view/4472035854": {
-    "title": "Langfuse - DevRel Engineer, Events & Community (EMEA)",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83887746.html": {
-    "title": "Community Manager H/FMyDigitalSchool Paris",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4473241141": {
-    "title": "Chef de Projet Social Media & Content (H/F)",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4471289842": {
-    "title": "Consultant(e) Junior Social Media & Chargé(e) de Production F/H",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
-  "https://www.linkedin.com/jobs/view/4473247865": {
-    "title": "EQP - Editeur(trice) Photo Multimédia",
-    "category": "Audiovisuel / photo / graphisme",
-    "source": "Linkedin",
-    "first_seen": "2026-09-29"
-  },
   "https://www.linkedin.com/jobs/view/4473289308": {
     "title": "Graphiste Packaging & Communication (H/F)",
     "category": "Audiovisuel / photo / graphisme",
@@ -29998,5 +29968,35 @@
     "category": "Restauration (service)",
     "source": "HelloWork",
     "first_seen": "2026-11-15"
+  },
+  "https://fr.indeed.com/viewjob?jk=e0f800b594d8b9ed": {
+    "title": "CDD - ESTHÉTICIEN(NE) – CONSEILLER(ÈRE) DE VENTE (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-16"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/80754093.html": {
+    "title": "Conseiller de Vente H/FGROUPE CYRIL LIGNAC",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=c4b46573e261161c": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-16"
+  },
+  "https://www.linkedin.com/jobs/view/4490260017": {
+    "title": "Réceptionniste de Club KLAY H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-16"
+  },
+  "https://fr.indeed.com/viewjob?jk=71755373212d50f7": {
+    "title": "Serveur/Barman H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-16"
   }
 }
