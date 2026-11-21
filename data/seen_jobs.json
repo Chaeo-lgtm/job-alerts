@@ -131,108 +131,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-01"
   },
-  "https://fr.indeed.com/viewjob?jk=0cfd6098e4ee6754": {
-    "title": "Vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=c5c5d11d48cfd725": {
-    "title": "Conseiller(ère) de vente - CALZEDONIA - CDI 35h - VINCENNES (94)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=b2cbc18957a3166d": {
-    "title": "VENDEUR H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=2341a7b9f94a00e0": {
-    "title": "Vendeur/Conseiller de vente en épicerie fine H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=96072df2b407ec58": {
-    "title": "Conseiller boutique renfort hiver - Paris République - CDD - H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=cb0f28b77b427ee1": {
-    "title": "Vendeur fruits et légumes H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=ee83cd3921898b60": {
-    "title": "Conseiller boutique renfort hiver - Levallois Perret - CDD - H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=04b741f4d4064ae4": {
-    "title": "Conseiller(e) de vente (F/H) - Paris Victor Hugo- CDI 35H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=1510ef2f29028dc9": {
-    "title": "Conseiller(e) de vente (F/H) - Issy Les Moulineaux - CDI 35h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=297ec339383420bd": {
-    "title": "Conseiller de Vente (H/F) CDI plein temps",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=6c4dfc9f1193e4ed": {
-    "title": "Conseiller renfort boutique - Vélizy - H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4473359634": {
-    "title": "VENDEUR/EUSE POLYVALENT",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4473154447": {
-    "title": "Vendeur et découpeur (H/F) en magasin - Bonneuil - CDI 35h",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4473343477": {
-    "title": "Conseiller de Vente Joaillerie H/F",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/84002953.html": {
-    "title": "Vendeur - Vendeuse Expert 21H H/FGlobe Groupe",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4471517325": {
-    "title": "Conseiller de Vente H/F",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/84005014.html": {
-    "title": "Conseiller de Vente H/FMOULIN ROUGESuper recruteur",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-10-02"
-  },
   "https://fr.indeed.com/viewjob?jk=406703da09a4781b": {
     "title": "Hôte(sse) d'Accueil Multisites bilingue H/F",
     "category": "Accueil / réception",
@@ -26695,7 +26593,7 @@
   },
   "https://www.linkedin.com/jobs/view/4490912160": {
     "title": "Social Media Video Editor & Designer",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-11-16"
   },
@@ -29998,5 +29896,107 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-20"
+  },
+  "https://fr.indeed.com/viewjob?jk=df2d776ffa952950": {
+    "title": "CHARGÉ.E DE COMMUNICATION",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=9ba5f108161c34e8": {
+    "title": "Chargé.e de communication – H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492845204": {
+    "title": "Social Media Manager – Club Landoy et ViveS média (F/H)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492302186": {
+    "title": "Illustrato",
+    "category": "Illustration / arts visuels",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=87016a96eade8439": {
+    "title": "[Fashion] Conseiller.e de ventes CDI 21h - Paris H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=71d214daa55f5712": {
+    "title": "Vendeur polyvalent – Extra Noël",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=2ca26a8f567d12fa": {
+    "title": "VENDEUR CONSEIL PIECES DETACHEES AUTO H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=7116c7d19f40adf4": {
+    "title": "Vendeur(euse) au manège à bijoux en CDD - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=c0be7bdf9fb9f6f5": {
+    "title": "Vendeur conseil pieces detachees auto h/f",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=ad11c1ba74b5c275": {
+    "title": "Conseiller-ère Vente Omnicanal (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=1b3eeee4f7b57af3": {
+    "title": "Réceptionniste Polyvalent H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4493241246": {
+    "title": "Réceptionniste Polyvalent H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=40ceece5f30345a0": {
+    "title": "Réceptionniste de jour H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492540393": {
+    "title": "Réceptionniste d'hôtel Polyvalent(e) H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492541370": {
+    "title": "Réceptionniste d'hôtel Polyvalent(e) H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492856994": {
+    "title": "Serveur.euse - Maslow Group",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=8675f16127d8f4fa": {
+    "title": "Employé polyvalent en restauration rapide H/F - CDD",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
   }
 }
