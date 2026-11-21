@@ -131,96 +131,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-01"
   },
-  "https://fr.indeed.com/viewjob?jk=406703da09a4781b": {
-    "title": "Hôte(sse) d'Accueil Multisites bilingue H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=130bfd762472cbc4": {
-    "title": "RECEPTIONNISTE H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=ad65c3502f6235d8": {
-    "title": "Réceptionniste hôtellerie H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=49874c94a7314036": {
-    "title": "Réceptionniste CDD H/F/X",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=08f2cf10121a175c": {
-    "title": "Réceptionniste SPA H/F - NUXE SPA (Paris 1er)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=b881ae47c23f3bf3": {
-    "title": "Réceptionniste H/F - CDI",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=4eba57b055f90d8a": {
-    "title": "Hôte d'accueil (H/F)12h/17h",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=92a8e09332822224": {
-    "title": "Hote d'accueil (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=dcb9f044c9e12c23": {
-    "title": "Hôte d'accueil (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=60ea101557ce0779": {
-    "title": "Hôte d'accueil (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=66d78b46bf0371ed": {
-    "title": "Hôte d'accueil vip multisites (H/F) cdi",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=b03197efd7f621f0": {
-    "title": "Hôte d'accueil bilingue (H/F)",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=4f57af915a210cf6": {
-    "title": "Agent d'accueil polyvalent H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=ae80d17e80d84f3f": {
-    "title": "Hote d'Accueil CDD 2 Semaines H/F",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=649a2c8f37f5f342": {
-    "title": "Welcomer (hôte·sse d'accueil) – avec possibilité d'assister un Super Booster",
-    "category": "Accueil / réception",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
   "https://fr.indeed.com/viewjob?jk=a561d9ef65276be0": {
     "title": "Agent d'accueil (H/F/N)",
     "category": "Accueil / réception",
@@ -27565,7 +27475,7 @@
   },
   "https://www.linkedin.com/jobs/view/4490830595": {
     "title": "Assisitant de direction chargé de la communication culturelle (H/F)",
-    "category": "Communication / création de contenu",
+    "category": "Médiation culturelle / bibliothèque",
     "source": "Linkedin",
     "first_seen": "2026-11-18"
   },
@@ -27703,7 +27613,7 @@
   },
   "https://www.linkedin.com/jobs/view/4491812737": {
     "title": "Chargé de communication et événementiel - CDI (H/F)",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Linkedin",
     "first_seen": "2026-11-18"
   },
@@ -28909,7 +28819,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=c2ed16651c651ac2": {
     "title": "Employé polyvalent en restauration H/F",
-    "category": "Restauration (service)",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-11-19"
   },
@@ -29929,7 +29839,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=71d214daa55f5712": {
     "title": "Vendeur polyvalent – Extra Noël",
-    "category": "Vente",
+    "category": "Équipier polyvalent",
     "source": "Indeed",
     "first_seen": "2026-11-21"
   },
@@ -29996,6 +29906,96 @@
   "https://fr.indeed.com/viewjob?jk=8675f16127d8f4fa": {
     "title": "Employé polyvalent en restauration rapide H/F - CDD",
     "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=62cf97753fa157aa": {
+    "title": "CHARGE(E) DE COMMUNICATION NUMERIQUE",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492951508": {
+    "title": "Communications & PR Manager",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=25f26dace0c78f10": {
+    "title": "Content & Community Manager CDD H/F",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4492308607": {
+    "title": "Gestionnaire billetterie Racing 92",
+    "category": "Événementiel",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4491957174": {
+    "title": "Technicien de Maintenance Alarme et Vidéosurveillance H/F - IDF",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=6f4133e0d1e40504": {
+    "title": "CDD - Maquilleur / Vendeur - Bobbi Brown Galeries Lafayette Haussmann Paris - 35h - H/F/X",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=59ef80bbe725bfbd": {
+    "title": "CDD - Maquilleur / Vendeur - MAC Cosmetics - Forum des Halles Paris - 35h - H/F/X",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=6a26788503a6863b": {
+    "title": "[Fashion] Conseiller.e de ventes CDI 21h - Paris H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=50bed4b63bdb2073": {
+    "title": "Conseiller de Vente F/H – CDD – Renfort Noël",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=d14fd70921e86178": {
+    "title": "Vendeur polyvalent H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://www.linkedin.com/jobs/view/4490987899": {
+    "title": "Réceptionniste de nuit (H/F/X) 36h",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=ad590cf52ce7b6bb": {
+    "title": "CDD Chargé d'accueil et administratif en résidence pour seniors (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=6f25f8cdead7ccad": {
+    "title": "AGENT D'ACCUEIL H/F ROISSY CDG",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=9d9ff35ad5354812": {
+    "title": "Réceptionniste de Nuit (F/H)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=697eeee7cb0782a6": {
+    "title": "Une agente ou un agent d’accueil et d’instruction -CDD de 3 mois H/F - EC21045",
+    "category": "Accueil / réception",
     "source": "Indeed",
     "first_seen": "2026-11-21"
   }
