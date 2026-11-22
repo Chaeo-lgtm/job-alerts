@@ -71,12 +71,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-22"
   },
-  "https://www.hellowork.com/fr-fr/emplois/74047856.html": {
-    "title": "Serveur - CDI H/FBreizh Café",
-    "category": "Restauration (service)",
-    "source": "HelloWork",
-    "first_seen": "2026-09-22"
-  },
   "https://www.hellowork.com/fr-fr/emplois/82502028.html": {
     "title": "Direction Adjointe de la Bibliothèque Assia Djebar 20E Arrondissement H/FTravailler pour Paris",
     "category": "Médiation culturelle / bibliothèque",
@@ -118,96 +112,6 @@
     "category": "Communication / création de contenu",
     "source": "HelloWork",
     "first_seen": "2026-10-01"
-  },
-  "https://fr.indeed.com/viewjob?jk=56ed7ebd1fa36ff3": {
-    "title": "Serveur en Restauration (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=6b085ba3fced62b0": {
-    "title": "Serveur polyvalent H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=21d60e7863f1bd3b": {
-    "title": "Serveur en Restauration (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=8a57ec360c8d912e": {
-    "title": "Agent d'office/serveur vip (H/F) cdi",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=18ab92de79cccb7a": {
-    "title": "Serveur/Barman H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=3a30bd91e8c8e0ac": {
-    "title": "Employé de restauration collective H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=bdc96b92609f6a23": {
-    "title": "[CDI] Employé polyvalent de restauration .",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4473358501": {
-    "title": "SERVEUR(SE)",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83999682.html": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "HelloWork",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=aac49e568459ed1c": {
-    "title": "Chargé Marketing et Communication F/H",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=68b1240ee6a01501": {
-    "title": "CDD - Chargé(e) Opération Architecture, Design & Construction F/H Paris befristeter Arbeitsvertrag Communication",
-    "category": "Communication / création de contenu",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4475003978": {
-    "title": "Chef de projet communication digitale F/H",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4456021169": {
-    "title": "Social Media Manager Junior (CDI) - H/F/X",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4474723624": {
-    "title": "Social Media Manager Senior",
-    "category": "Communication / création de contenu",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=15e334c1dfc3d56b": {
-    "title": "Serveur vendeur restauration sur place et à emporter Paris Week-Ends",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
   },
   "https://fr.indeed.com/viewjob?jk=2eb8a3849ca24760": {
     "title": "Concepteur-Vendeur H/F",
@@ -26395,7 +26299,7 @@
   },
   "https://www.linkedin.com/jobs/view/4490912160": {
     "title": "Social Media Video Editor & Designer",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-11-16"
   },
@@ -27798,7 +27702,7 @@
     "first_seen": "2026-11-18"
   },
   "https://fr.indeed.com/viewjob?jk=0259b190882f6698": {
-    "title": "ATTACHÉ DE PRESSE-COMMUNITY MANAGER (H/F)",
+    "title": "SOCIAL MEDIA MANAGER (H/F)",
     "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-18"
@@ -29275,7 +29179,7 @@
   },
   "https://www.linkedin.com/jobs/view/4492912963": {
     "title": "Vidéaste - créateur de contenus audiovisuels - JRI (F/H)",
-    "category": "Communication / création de contenu",
+    "category": "Audiovisuel / photo / graphisme",
     "source": "Linkedin",
     "first_seen": "2026-11-20"
   },
@@ -29997,6 +29901,102 @@
     "title": "Serveur AIDE BRASSERIE - CLUB - CAFETERIA (H/F)",
     "category": "Restauration (service)",
     "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/82942261.html": {
+    "title": "Agent de Conservation Patrimoine H/FMinistère des armées - Civils de la Défense",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83671937.html": {
+    "title": "Agent de Conservation Patrimoine H/FMinistère des armées - Civils de la Défense",
+    "category": "Médiation culturelle / bibliothèque",
+    "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4493232691": {
+    "title": "Content creator video H/F",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81576658.html": {
+    "title": "Dessinateur en Agencement - Menuiserie H/FCHARRETTE SERVICE",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=59180a0f074acded": {
+    "title": "Vendeur au rayon Poissonnerie - H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=3f823b72d9cc3e31": {
+    "title": "Conseiller de vente F/H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=9a852a5bb35d2a62": {
+    "title": "VENDEUR CONSEIL (H/F)",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=ec8b48713b5c173c": {
+    "title": "VENDEUR(EUSE) VINCENNES - CDI 24H",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=dddf6025fd4ad295": {
+    "title": "AGENT ADMINISTRATIF ACCUEIL – ADMISSION H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=726cb96ab694a93e": {
+    "title": "Réceptionniste / Ambassadeur Expérience Client - F/H (CDD à partir du 04.01.2027)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4492592932": {
+    "title": "Réceptionniste Tournant H/F/X",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=d28cdf5bfd1ac96f": {
+    "title": "RECEPTIONNISTE H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=e9e4798adf9d4211": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4492573793": {
+    "title": "Séminaires / Culture / Loisirs - Employé polyvalent / Employée polyvalente de restauration (H/F)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81521650.html": {
+    "title": "Serveur Room Service H/FSERENEST ENTREPRISESuper recruteur",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/71638451.html": {
+    "title": "Employé Polyvalent de Restauration H/FPret A Manger",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
     "first_seen": "2026-11-22"
   }
 }
