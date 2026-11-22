@@ -113,36 +113,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-01"
   },
-  "https://fr.indeed.com/viewjob?jk=2dea183b636e03a4": {
-    "title": "Conseiller de vente F/H/N - CDD 35h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=49c90ec9e206d039": {
-    "title": "Conseiller Technique de Vente h/f",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=b02640c552f37777": {
-    "title": "Conseiller technique de vente h/f",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=a779e1db8312e277": {
-    "title": "Adjoint de magasin / Conseiller de vente prêt à porter H/F PARIS CENTRE",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://www.linkedin.com/jobs/view/4472872597": {
-    "title": "Conseiller de vente (H/F) CDI 35h - Galeries Lafayette Champs Elysées",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-02"
-  },
   "https://fr.indeed.com/viewjob?jk=275175c789d4ccde": {
     "title": "Réceptionniste SPA H/F - NUXE SPA (Paris 1er)",
     "category": "Accueil / réception",
@@ -29599,7 +29569,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=71d214daa55f5712": {
     "title": "Vendeur polyvalent – Extra Noël",
-    "category": "Équipier polyvalent",
+    "category": "Vente",
     "source": "Indeed",
     "first_seen": "2026-11-21"
   },
@@ -29997,6 +29967,36 @@
     "title": "Réceptionniste H/FMercato de l'emploi",
     "category": "Accueil / réception",
     "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4493377748": {
+    "title": "Chargé de communication F/H",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85770142.html": {
+    "title": "Chargé de Communication H/FIONIS Education Group",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4493514463": {
+    "title": "Monteur Vidéo & Motion Designer",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=f3ab1063ff5b152b": {
+    "title": "Hôte de vente H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=f9449dff8304cbf3": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
     "first_seen": "2026-11-22"
   }
 }
