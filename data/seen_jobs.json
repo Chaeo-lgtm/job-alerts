@@ -113,42 +113,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-01"
   },
-  "https://fr.indeed.com/viewjob?jk=2eb8a3849ca24760": {
-    "title": "Concepteur-Vendeur H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=256320396b310da6": {
-    "title": "Vendeur conseil CDD (H/F) - Paris Italie 2",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=d4e69d14d13565ed": {
-    "title": "VENDEUR RAYON POISSONNERIE (H/F)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=219ba9ea5c5fab95": {
-    "title": "Conseiller de Vente (H/F)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=2dd76ff8b3a092cc": {
-    "title": "Vendeur - H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=d2aae28409abd246": {
-    "title": "Conseiller de Vente (H/F)",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
   "https://fr.indeed.com/viewjob?jk=2dea183b636e03a4": {
     "title": "Conseiller de vente F/H/N - CDD 35h",
     "category": "Vente",
@@ -26299,7 +26263,7 @@
   },
   "https://www.linkedin.com/jobs/view/4490912160": {
     "title": "Social Media Video Editor & Designer",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-11-16"
   },
@@ -29179,7 +29143,7 @@
   },
   "https://www.linkedin.com/jobs/view/4492912963": {
     "title": "Vidéaste - créateur de contenus audiovisuels - JRI (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-11-20"
   },
@@ -29996,6 +29960,42 @@
   "https://www.hellowork.com/fr-fr/emplois/71638451.html": {
     "title": "Employé Polyvalent de Restauration H/FPret A Manger",
     "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=6ab215e01ce6f2e8": {
+    "title": "Prospecteur(se) vendeur(se) rénovation H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=f00eed787b084587": {
+    "title": "Vendeur/Vendeuse polyvalente CDD H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=a667ae0e3ffe552b": {
+    "title": "Conseiller de vente beauté H/F – CDI avec formation avant embauche",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=2dfa8d2009ce6d80": {
+    "title": "Agent d'accueil H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=2312b0633fdb9adc": {
+    "title": "RECEPTIONNISTE POLYVALENT",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85769498.html": {
+    "title": "Réceptionniste H/FMercato de l'emploi",
+    "category": "Accueil / réception",
     "source": "HelloWork",
     "first_seen": "2026-11-22"
   }
