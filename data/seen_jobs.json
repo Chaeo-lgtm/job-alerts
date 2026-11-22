@@ -119,66 +119,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-01"
   },
-  "https://fr.indeed.com/viewjob?jk=9786d2ff614f036c": {
-    "title": "Equipier(e) polyvalent(e) restauration rapide H/F",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=4f568f3c388c34a4": {
-    "title": "Barista & Équipier Polyvalent (H/F)",
-    "category": "Équipier polyvalent",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=c227faf22fa054cc": {
-    "title": "Serveur en restauration H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=b9be6f1b3af47e5c": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=6aa9dcc762745544": {
-    "title": "Extra serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=e7e8c6a920c942ce": {
-    "title": "Employé polyvalent en restauration H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=2d6b47093df2bf7c": {
-    "title": "Employé de restauration (restaurant) H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=74537d28e25ccb1d": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=10808c0738778573": {
-    "title": "Barman/Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
-  "https://fr.indeed.com/viewjob?jk=9e411ddd471c8c90": {
-    "title": "Barman/Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-02"
-  },
   "https://fr.indeed.com/viewjob?jk=56ed7ebd1fa36ff3": {
     "title": "Serveur en Restauration (H/F)",
     "category": "Restauration (service)",
@@ -29335,7 +29275,7 @@
   },
   "https://www.linkedin.com/jobs/view/4492912963": {
     "title": "Vidéaste - créateur de contenus audiovisuels - JRI (F/H)",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Linkedin",
     "first_seen": "2026-11-20"
   },
@@ -29998,5 +29938,65 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-11-21"
+  },
+  "https://fr.indeed.com/viewjob?jk=9f97253eaf523367": {
+    "title": "Chargé de communication (h/f) - EC22482",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4492576452": {
+    "title": "Community Manager (F/H)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4491505246": {
+    "title": "Assistant(e) Communication & Marketing",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=922ad18c0a71f751": {
+    "title": "Vendeur polyvalent H/F",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://www.linkedin.com/jobs/view/4492893123": {
+    "title": "Réceptionniste de Nuit (F/H)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=0af028a471bf8843": {
+    "title": "ASSISTANT OU ASSISTANTE SOCIO-EDUCATIVE D'ACCUEIL F/H",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=bd0080c17b4ebaaf": {
+    "title": "Serveur H/F - CDD",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=84b8faadb8ed27f4": {
+    "title": "Serveur/Serveuse de restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=3180b695ce5a1e7a": {
+    "title": "Serveur en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
+  },
+  "https://fr.indeed.com/viewjob?jk=f54baea9eb54062d": {
+    "title": "Serveur AIDE BRASSERIE - CLUB - CAFETERIA (H/F)",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-22"
   }
 }
