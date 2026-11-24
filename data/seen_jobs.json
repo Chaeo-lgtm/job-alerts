@@ -95,12 +95,6 @@
     "source": "HelloWork",
     "first_seen": "2026-09-24"
   },
-  "https://www.hellowork.com/fr-fr/emplois/79520396.html": {
-    "title": "Employé Polyvalent de Restauration H/FGaleries Lafayette",
-    "category": "Restauration (service)",
-    "source": "HelloWork",
-    "first_seen": "2026-09-28"
-  },
   "https://www.hellowork.com/fr-fr/emplois/83968234.html": {
     "title": "Serveur H/FBLACK ANGUS",
     "category": "Restauration (service)",
@@ -112,102 +106,6 @@
     "category": "Communication / création de contenu",
     "source": "HelloWork",
     "first_seen": "2026-10-01"
-  },
-  "https://fr.indeed.com/viewjob?jk=cfbb6e8fd99b9f52": {
-    "title": "Vendeur(se) en boulangerie-pâtisserie, référent(e) magasin CDI temps partiel 20h/semaine 16h/20h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.linkedin.com/jobs/view/4447127315": {
-    "title": "CDI - Conseiller de Ventes H/F",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.linkedin.com/jobs/view/4473479731": {
-    "title": "CHARGE D'ACCUEIL  CDI F/H",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=ed99135f385a843b": {
-    "title": "Serveur/Serveuse/Runneuse H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=a1622e132c779e03": {
-    "title": "Serveur/se en Restaurant H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.linkedin.com/jobs/view/4474212612": {
-    "title": "SERVEUR(SE)",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.linkedin.com/jobs/view/4403241448": {
-    "title": "Serveur F/H",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=c1f32a283ea9a0d9": {
-    "title": "Conseiller de Vente CDD H/F – Levallois So Ouest | 35h",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=44d9c0dde1976369": {
-    "title": "VENDEUR H/F FROMAGE CHARCUTERIE",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=eda260a48b87fedd": {
-    "title": "Vendeur en boulangerie-pâtisserie H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.linkedin.com/jobs/view/4475512178": {
-    "title": "Vendeuse/vendeur",
-    "category": "Vente",
-    "source": "Linkedin",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.linkedin.com/jobs/view/4475345040": {
-    "title": "Hôte de caisse / Employé polyvalent H/F",
-    "category": "Équipier polyvalent",
-    "source": "Linkedin",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=91df4becc51efba3": {
-    "title": "BARISTA SERVEUR(SE) CONFIRMÉ",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=32fd7b7f1b4fd014": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://fr.indeed.com/viewjob?jk=62b4b4892df3fb7e": {
-    "title": "Employé polyvalent en restauration H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/78670966.html": {
-    "title": "Community Manager H/FInstitut F2I",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-10-04"
   },
   "https://fr.indeed.com/viewjob?jk=4e13af8f2472041a": {
     "title": "Conseiller(e) de vente (F/H) - Paris La Canopée- CDI 35H",
@@ -29998,5 +29896,107 @@
     "category": "Restauration (service)",
     "source": "Indeed",
     "first_seen": "2026-11-23"
+  },
+  "https://fr.indeed.com/viewjob?jk=ae7a2a115f1f125f": {
+    "title": "Chargé de communication/ Community manager F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.linkedin.com/jobs/view/4493734704": {
+    "title": "Consultant Change & Community Manager (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/78269923.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=45375ad3415dfbe2": {
+    "title": "Vendeur / Vendeuse Marché de Noël",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.linkedin.com/jobs/view/4494315000": {
+    "title": "Vendeur(se) en grands magasins",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81592837.html": {
+    "title": "Conseiller de Vente - Esthéticien H/FBenefit Cosmetics SAS",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=a111a96f68534ef0": {
+    "title": "Hôte d'accueil standardiste H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=7b8271c0093c9bd5": {
+    "title": "Hôte(sse) d’accueil -Vélizy V(78) le SAMEDI 9h-18h - secteur automobile",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=ef2c83d47d66d506": {
+    "title": "Agent d'accueil (H/F/N)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81598402.html": {
+    "title": "Hôte d'Accueil H/FBillie",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.linkedin.com/jobs/view/4494062896": {
+    "title": "Réceptionniste de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=3f55d04f3c03848f": {
+    "title": "Réceptionniste (H/F)",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.linkedin.com/jobs/view/4494012565": {
+    "title": "EXTRA - Réceptionniste de nuit (H/F)",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=7cc6854a304f3e93": {
+    "title": "Equipier polyvalent CDD – été – H/F",
+    "category": "Équipier polyvalent",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://fr.indeed.com/viewjob?jk=82b1ea31f3d8d268": {
+    "title": "Extra Serveur(se) - Brunch & Coffee - Paris 9°",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.linkedin.com/jobs/view/4494095805": {
+    "title": "FR - Serveur / Chef de rang (H/F/X)",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-24"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85813093.html": {
+    "title": "Employé Polyvalent de Restauration H/FPAUL",
+    "category": "Restauration (service)",
+    "source": "HelloWork",
+    "first_seen": "2026-11-24"
   }
 }
