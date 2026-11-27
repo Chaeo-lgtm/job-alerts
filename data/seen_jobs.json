@@ -83,96 +83,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-04"
   },
-  "https://fr.indeed.com/viewjob?jk=7fc373acb9d43a8d": {
-    "title": "Employé Restauration F/H - CDI - Temps plein",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=41398048c0ce070b": {
-    "title": "Commis de Salle",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=82958ca1766cc53e": {
-    "title": "Serveur & Barman H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=2565db94477033cc": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=0c5937b222ca9d07": {
-    "title": "Serveur Polyvalent - Temps partiel - 28h30 hebdo - Saint-Michel",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=8314645800b4c2dd": {
-    "title": "Employé polyvalent en restauration rapide H/F - CDI Temps partiel 15h/hebdo",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=8df83ff142ef6986": {
-    "title": "Serveur H/F - CDD",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=0326d80fb61a3194": {
-    "title": "Commis de salle H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=c34b7314b902c74a": {
-    "title": "Employé Polyvalent de Restauration (F/H) - Paris 17 (75)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=86ada957e42c6c96": {
-    "title": "Employé de Restauration (F/H) - Paris 10 (75)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=1bd76c7ae19947aa": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=3c518f08fda21d9a": {
-    "title": "Commis salle Temps complet (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=61c25c7aadd4ad21": {
-    "title": "Employé de Restauration Collective F/H",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=e2500a1467e0e7d2": {
-    "title": "Employé polyvalent de restauration (H/F)",
-    "category": "Restauration (service)",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://www.linkedin.com/jobs/view/4476150589": {
-    "title": "Serveur H/F",
-    "category": "Restauration (service)",
-    "source": "Linkedin",
-    "first_seen": "2026-10-06"
-  },
   "https://www.linkedin.com/jobs/view/4474900205": {
     "title": "Employé Polyvalent de Restauration (F/H) - Puteaux",
     "category": "Restauration (service)",
@@ -28879,7 +28789,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=71195c5dff8376ba": {
     "title": "Chargé de Communication Événementielle Défense et Sécurité H/F",
-    "category": "Communication / création de contenu",
+    "category": "Événementiel",
     "source": "Indeed",
     "first_seen": "2026-11-25"
   },
@@ -29239,7 +29149,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=1277aa2944624b9a": {
     "title": "Chargé·e de communication / Graphisme Junior",
-    "category": "Audiovisuel / photo / graphisme",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-25"
   },
@@ -29998,5 +29908,95 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-11-26"
+  },
+  "https://www.linkedin.com/jobs/view/4495053536": {
+    "title": "Chargé / Chargée marketing digital (H/F)",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/79393731.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=ec32d352b81c3b13": {
+    "title": "Chargé de communication & assistant Program Manager F/H",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.linkedin.com/jobs/view/4495054856": {
+    "title": "Conseiller(e) de Vente - Boutique LIU-JO Paris (H/F)",
+    "category": "Vente",
+    "source": "Linkedin",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/83812318.html": {
+    "title": "Conseiller de Vente H/FLe Géant des Beaux-Arts Paris XI",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/84837656.html": {
+    "title": "Conseiller de Vente H/FInstitut F2I",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/80623801.html": {
+    "title": "Conseiller de Vente H/FInstitut F2I",
+    "category": "Vente",
+    "source": "HelloWork",
+    "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=d1c7e9596d998a34": {
+    "title": "Agent d'accueil et admission — H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.linkedin.com/jobs/view/4495063654": {
+    "title": "RECEPTIONNISTE JOUR HÔTEL CHOUCHOU****  PARIS OPERA",
+    "category": "Accueil / réception",
+    "source": "Linkedin",
+    "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=8882957986f5e504": {
+    "title": "RECEPTIONNISTE JOUR HÔTEL CHOUCHOU PARIS OPERA",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.linkedin.com/jobs/view/4495063636": {
+    "title": "Vendeur polyvalent 35H (F/H) - CDI Temps plein",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-11-27"
+  },
+  "https://www.linkedin.com/jobs/view/4495043959": {
+    "title": "Agent Technique Polyvalent (H/F)",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=444c05e562161345": {
+    "title": "Employé polyvalent en restauration H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=f72100181be95e37": {
+    "title": "Serveur H/F",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=12afa5b8a33a66dc": {
+    "title": "Employé polyvalent de restauration - CDI F/H",
+    "category": "Restauration (service)",
+    "source": "Indeed",
+    "first_seen": "2026-11-27"
   }
 }
