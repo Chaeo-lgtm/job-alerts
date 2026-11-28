@@ -77,90 +77,6 @@
     "source": "HelloWork",
     "first_seen": "2026-10-01"
   },
-  "https://www.hellowork.com/fr-fr/emplois/76397034.html": {
-    "title": "Agent Polyvalent Restauration H/FARMEE DE L'AIR ET DE L'ESPACE",
-    "category": "Restauration (service)",
-    "source": "HelloWork",
-    "first_seen": "2026-10-04"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/84112459.html": {
-    "title": "Chef de Projets Communication H/FGroupe NGE",
-    "category": "Communication / création de contenu",
-    "source": "HelloWork",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=a32b3aac82012db6": {
-    "title": "Conseiller(ère) de vente en prêt-à-porter féminin / Temps plein / 35 heures par semaine",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=11c093a1d14b1b6b": {
-    "title": "VENDEURS POLYVALENTS H/F, CDI 35H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=ef91ccddd0c63ac9": {
-    "title": "VENDEURS POLYVALENTS H/F, CDI 24H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=9c588c176b0e35b3": {
-    "title": "VENDEURS POLYVALENTS H/F, CDI 16H",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=78fda45751fb5482": {
-    "title": "Conseiller technique de vente h/f",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=6f014c1ddb0c47c2": {
-    "title": "Conseiller(e) de Vente - CDD 35h - Paris Opéra",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://fr.indeed.com/viewjob?jk=ff1cb68f2647fbe7": {
-    "title": "Vendeur/Vendeuse polyvalente CDD H/F",
-    "category": "Vente",
-    "source": "Indeed",
-    "first_seen": "2026-10-06"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/84159164.html": {
-    "title": "Conseiller de Vente H/FLegami",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-10-06"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82830073.html": {
-    "title": "Conseiller de Vente H/FMaisons du Monde",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-10-06"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/82102729.html": {
-    "title": "Conseiller de Vente H/FINTED GROUP (IEG)",
-    "category": "Vente",
-    "source": "HelloWork",
-    "first_seen": "2026-10-06"
-  },
-  "https://www.linkedin.com/jobs/view/4476500290": {
-    "title": "Receptionnist",
-    "category": "Accueil / réception",
-    "source": "Linkedin",
-    "first_seen": "2026-10-06"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/84158977.html": {
-    "title": "Hotesse d'Accueil H/FOnyx",
-    "category": "Accueil / réception",
-    "source": "HelloWork",
-    "first_seen": "2026-10-06"
-  },
   "https://fr.indeed.com/viewjob?jk=77a948de8113e576": {
     "title": "Equipier Polyvalent Etudiant (H/F)",
     "category": "Équipier polyvalent",
@@ -28309,7 +28225,7 @@
   },
   "https://fr.indeed.com/viewjob?jk=71195c5dff8376ba": {
     "title": "Chargé de Communication Événementielle Défense et Sécurité H/F",
-    "category": "Événementiel",
+    "category": "Communication / création de contenu",
     "source": "Indeed",
     "first_seen": "2026-11-25"
   },
@@ -29998,5 +29914,89 @@
     "category": "Restauration (service)",
     "source": "Linkedin",
     "first_seen": "2026-11-27"
+  },
+  "https://fr.indeed.com/viewjob?jk=b363c7cbe642214b": {
+    "title": "Community Manager Beauty Brands France",
+    "category": "Communication / création de contenu",
+    "source": "Indeed",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.linkedin.com/jobs/view/4496004823": {
+    "title": "Digital Engagement Specialist",
+    "category": "Communication / création de contenu",
+    "source": "Linkedin",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/81814997.html": {
+    "title": "Community Manager H/FInstitut F2I",
+    "category": "Communication / création de contenu",
+    "source": "HelloWork",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.linkedin.com/jobs/view/4493426628": {
+    "title": "Créatif·ve Image & Vidéo IA",
+    "category": "Audiovisuel / photo / graphisme",
+    "source": "Linkedin",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85949281.html": {
+    "title": "Architecte d'Intérieur Dessinateur - Paris H/FVene Recrutement et Intérim",
+    "category": "Illustration / arts visuels",
+    "source": "HelloWork",
+    "first_seen": "2026-11-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=e6af83104707ed38": {
+    "title": "Conseiller(e) de vente - Temps plein - CDD 1 MOIS",
+    "category": "Vente",
+    "source": "Indeed",
+    "first_seen": "2026-11-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=bf3de5d03c8013f6": {
+    "title": "Réceptionniste La Fantaisie H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=4cdd3c326fe0afc6": {
+    "title": "Chargé(e) d'accueil et de standard téléphonique – H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=ad0551662cbe3046": {
+    "title": "Hôte(sse) d’accueil - [secteur d’activité universitaire",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-28"
+  },
+  "https://fr.indeed.com/viewjob?jk=d91944682f4a3efa": {
+    "title": "Hôtel Botaniste - Réceptionniste polyvalent de nuit H/F",
+    "category": "Accueil / réception",
+    "source": "Indeed",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.hellowork.com/fr-fr/emplois/85954351.html": {
+    "title": "Réceptionniste Polyvalent - CDI H/FDeskeo",
+    "category": "Accueil / réception",
+    "source": "HelloWork",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.linkedin.com/jobs/view/4495329892": {
+    "title": "Agent technique polyvalent (h/f)",
+    "category": "Équipier polyvalent",
+    "source": "Linkedin",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.linkedin.com/jobs/view/4494213505": {
+    "title": "Serveur F/H",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-28"
+  },
+  "https://www.linkedin.com/jobs/view/4495336623": {
+    "title": "Serveur.euse - Maslow Group",
+    "category": "Restauration (service)",
+    "source": "Linkedin",
+    "first_seen": "2026-11-28"
   }
 }
